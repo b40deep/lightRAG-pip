@@ -1,0 +1,11 @@
+lightrag-hku
+# pypdf
+markdown
+
+# marker-pdf asked for psutil and weasy-something. 
+# it also wanted pytorch but i hve this system-wide
+psutil
+weasyprint
+marker-pdf
+# use cli to convert pdf to md
+# marker C:\Users\ --output_dir C:\Users\

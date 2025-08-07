@@ -1,0 +1,21 @@
+{
+  "doc-42c6db59dc55416a3617617702204915": {
+    "status": "processing",
+    "chunks_count": 4,
+    "chunks_list": [
+      "chunk-26cb250d95767d84aaf2c55e0e857e05",
+      "chunk-23eb1cae94c212908ec58efef4afc902",
+      "chunk-84730e9789cbd572e3057ae931f419dd",
+      "chunk-c93cb1c1d12a55aaa2be9217fdce8104"
+    ],
+    "content_summary": "3\nKarl Marx:\n‘Howling Gigantic Curses’\nK\nARL MARX has had more impact on actual events, as well minds of\nmen and women, than any other intellectual in modern times. The\nreason for this is not primarily the attraction of his concepts and\nmethodology, ...",
+    "content_length": 14867,
+    "created_at": "2025-08-01T11:48:15.099477+00:00",
+    "updated_at": "2025-08-01T11:48:15.103421+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250801_124815_411fafe2",
+    "metadata": {
+      "processing_start_time": 1754048895
+    }
+  }
+}

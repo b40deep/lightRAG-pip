@@ -1,0 +1,81 @@
+{
+  "doc-80681e8c2fc66feb6c3ece9e9e90db38": {
+    "status": "processed",
+    "chunks_count": 45,
+    "chunks_list": [
+      "chunk-76dcee1ddb22a2d709c06cd143cc277a",
+      "chunk-dac3bac69785ad3c5e991f2be5decaf3",
+      "chunk-28b8f1d377e70e65ee6917c0d59e3109",
+      "chunk-48019451fb64599a32100497e8728c0d",
+      "chunk-9b3360eaab1fbda0f4be34916f26a0c1",
+      "chunk-1427a4f3a37a8bc9105d9dc8f4a4b755",
+      "chunk-7817b9988673b530a82175902d6ef212",
+      "chunk-98786d9fc0c669ea92f47d22f68e9730",
+      "chunk-ede226b3a0ceacb1cf58a1a70ebfe39d",
+      "chunk-3b872e8f4507f0b517d813175b50e40d",
+      "chunk-2d53ce416d979deb26807ffd3d639467",
+      "chunk-9bbcd566de8858c4d6aa03975c27d5ed",
+      "chunk-cc794a96abc6fea4b99860aedd47da8b",
+      "chunk-a7f14fa25c0f0f6b50f4346d68fa7305",
+      "chunk-75e013bb28ba01bfbc374edd67be9709",
+      "chunk-8a3fa9809e33f235ebfe9c0204d7fbfb",
+      "chunk-358680bfd64f7682f010caf1db56168e",
+      "chunk-72284fe3e2da042b4841a91a96c6513d",
+      "chunk-79bcdf813ecc9a1a30cad14ddfd21884",
+      "chunk-bb7f04e1dd6acb6d198b1c58406f9ead",
+      "chunk-2747f5a8e50f80ecb003d82a6236b5de",
+      "chunk-3d51f582eadeb6057c2d495ca70b761b",
+      "chunk-95a37fdd4e75602e7ee73f9697d76aa6",
+      "chunk-d4dbac77be4a61fb0b4f8ee844d03453",
+      "chunk-87e7e545e69a570dc134ec02d336fb1d",
+      "chunk-75ca22fbc387195da8d2321ec5c32e2e",
+      "chunk-0d231d8a45d08ffe4e73e7ef3d703442",
+      "chunk-868ccb5351320321cda28e935f38e86b",
+      "chunk-ebdd9159e939274d247a78b6acac88a4",
+      "chunk-13c6d53292dee777497019b48adc774c",
+      "chunk-ca3d853e7f6e836a5bb3c9d9f2ad1b78",
+      "chunk-b752ce36b859046d9641b5096d445e7c",
+      "chunk-e40dd1b6f667a901a4ea2e77d6f8087a",
+      "chunk-6987f72c1a80b0b088e76986e2825547",
+      "chunk-fb086a72b59d81f32eea0b27e415d77b",
+      "chunk-22ea9604ec397a3a7efc9e587557e950",
+      "chunk-29bddf5b5dad63a794a84d0ff0adf023",
+      "chunk-03650d0126e6b49e45077884bfc6007b",
+      "chunk-7328f1285f97b5e01ee98cc53f8391b9",
+      "chunk-64e5a3cde95aa21d4710ea279f09b919",
+      "chunk-b1a4a348ba034ff661690123ff0f6743",
+      "chunk-1ad658d71c2cfb7b36bed8ed79dcb30e",
+      "chunk-0618ebe32404f4b8d6f32d748ff424d5",
+      "chunk-e8553409de2918effb9c98baee2c387e",
+      "chunk-f480f72b48dd45386afd9bcad167646e"
+    ],
+    "content_summary": "<p>Management of</p>\n<h1>type 2 diabetes in adults</h1>\n<h2><em>AT PRIMARY CARE LEVEL - JANUARY 2014</em></h2>\n<p><img alt=\"\" src=\"_page_0_Picture_3.jpeg\" /></p>\n<p>A Long and Healthy Life for All South Africans</p>\n<p><img alt=\"\" src=\"_page_0_Pictur...",
+    "content_length": 233026,
+    "created_at": "2025-08-05T10:55:56.710848+00:00",
+    "updated_at": "2025-08-05T11:00:51.290001+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250805_115556_6ccd647c",
+    "metadata": {
+      "processing_start_time": 1754391356,
+      "processing_end_time": 1754391651
+    }
+  },
+  "doc-9df3eee697bdb1267ac01d432905579f": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-d6b09b4b09529f8f51aa7d3eb8384af7",
+      "chunk-8fc89353659871857f4a2f36b706fc19"
+    ],
+    "content_summary": "<p>See discussions, stats, and author profiles for this publication at: <a href=\"https://www.researchgate.net/publication/344760805_Type_2_Diabetes_Mellitus_patients_with_comorbidities_in_a_South_African_managed_healthcare_organization?enrichId=rgreq...",
+    "content_length": 5663,
+    "created_at": "2025-08-05T10:55:56.710858+00:00",
+    "updated_at": "2025-08-05T10:56:15.347090+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250805_115556_6ccd647c",
+    "metadata": {
+      "processing_start_time": 1754391356,
+      "processing_end_time": 1754391375
+    }
+  }
+}

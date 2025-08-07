@@ -1,0 +1,160 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Type 2 Diabetes Mellitus patients with comorbidities in a South African\nmanaged healthcare organization",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.38136801123619,
+          92.12795270979404
+        ],
+        [
+          510.1761779785156,
+          90.48537458479404
+        ],
+        [
+          510.1761779785156,
+          127.8980712890625
+        ],
+        [
+          39.38136801123619,
+          127.8980712890625
+        ]
+      ]
+    },
+    {
+      "title": "PO1-10-7",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.13154109567404,
+          24.807669278234243
+        ],
+        [
+          98.66200256347656,
+          24.807669278234243
+        ],
+        [
+          98.66200256347656,
+          42.78834508359432
+        ],
+        [
+          36.13154109567404,
+          42.78834508359432
+        ]
+      ]
+    },
+    {
+      "title": "Type 2 Diabetes Mellitus patients with comorbidities in a South African\nmanaged healthcare organization",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.03826451301575,
+          45.797812052071095
+        ],
+        [
+          508.8175743818283,
+          44.153280802071095
+        ],
+        [
+          508.8175743818283,
+          79.13433837890625
+        ],
+        [
+          33.03826451301575,
+          80.34902504086494
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          60
+        ],
+        [
+          "TableCell",
+          31
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          682
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\Type_2_Diabetes_Mellitus_patients_with_comorbiditi"
+}

@@ -1,0 +1,1177 @@
+2025-07-31 17:45:09,104 - lightrag - INFO - Created new empty graph
+2025-07-31 17:45:09,104 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-07-31 17:45:09,105 - lightrag - INFO - Process 240104 KV load full_docs with 0 records
+2025-07-31 17:45:09,105 - lightrag - INFO - Process 240104 KV load text_chunks with 0 records
+2025-07-31 17:45:09,105 - lightrag - INFO - Process 240104 KV load llm_response_cache with 0 records
+2025-07-31 17:45:09,105 - lightrag - INFO - Process 240104 doc status load doc_status with 0 records
+2025-07-31 17:45:09,105 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-07-31 17:45:09,280 - lightrag - INFO - Storage Initialization completed!
+2025-07-31 17:45:10,266 - lightrag - INFO - Storage Finalization completed!
+2025-07-31 17:46:11,003 - lightrag - INFO - Created new empty graph
+2025-07-31 17:46:11,003 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-07-31 17:46:11,004 - lightrag - INFO - Process 139568 KV load full_docs with 0 records
+2025-07-31 17:46:11,004 - lightrag - INFO - Process 139568 KV load text_chunks with 0 records
+2025-07-31 17:46:11,004 - lightrag - INFO - Process 139568 KV load llm_response_cache with 0 records
+2025-07-31 17:46:11,004 - lightrag - INFO - Process 139568 doc status load doc_status with 0 records
+2025-07-31 17:46:11,004 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-07-31 17:46:11,170 - lightrag - INFO - Storage Initialization completed!
+2025-07-31 17:46:11,465 - lightrag - INFO - Stored 1 new unique documents
+2025-07-31 17:46:11,465 - lightrag - INFO - Processing 1 document(s)
+2025-07-31 17:46:11,465 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-07-31 17:46:11,465 - lightrag - INFO - Processing d-id: doc-f9f1ce095ad0414bab722ae372dcc437
+2025-07-31 17:46:12,138 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-07-31 17:46:20,015 - lightrag - INFO -  == LLM cache == saving: default:extract:0b145027c47e7374dd4c392994ac4d2e
+2025-07-31 17:46:22,200 - lightrag - INFO -  == LLM cache == saving: default:extract:708551f6904d4d44d8255d6121dabf2e
+2025-07-31 17:46:26,170 - lightrag - INFO -  == LLM cache == saving: default:extract:42cfec32c878c402bafec221093151c7
+2025-07-31 17:46:26,171 - lightrag - INFO - Chunk 1 of 3 extracted 10 Ent + 0 Rel
+2025-07-31 17:46:26,786 - lightrag - INFO -  == LLM cache == saving: default:extract:a4cbd693ac8b9ff5dc0700e96b391e21
+2025-07-31 17:46:29,953 - lightrag - INFO -  == LLM cache == saving: default:extract:5a899eb5da3e95a06480566270d68d7f
+2025-07-31 17:46:29,954 - lightrag - INFO - Chunk 2 of 3 extracted 9 Ent + 7 Rel
+2025-07-31 17:46:31,301 - lightrag - INFO -  == LLM cache == saving: default:extract:0e8cb1bf6ee774edfc6a55b96c20bb23
+2025-07-31 17:46:31,301 - lightrag - INFO - Chunk 3 of 3 extracted 13 Ent + 9 Rel
+2025-07-31 17:46:31,301 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-07-31 17:46:31,302 - lightrag - INFO - Processing: 27 entities and 15 relations (async: 8)
+2025-07-31 17:46:31,302 - lightrag - INFO - Merge N: Bishop | 3+0
+2025-07-31 17:46:33,058 - lightrag - INFO - Merge N: Fifteen | 2+0
+2025-07-31 17:46:33,059 - lightrag - INFO - Merge N: Ten | 2+0
+2025-07-31 17:46:33,059 - lightrag - INFO - Merge N: Seven | 2+0
+2025-07-31 17:46:36,169 - lightrag - INFO - Merge E: Bishop - Fifteen | 2+0
+2025-07-31 17:46:40,655 - lightrag - INFO - Writing graph with 27 nodes, 15 edges
+2025-07-31 17:46:40,657 - lightrag - INFO - In memory DB persist to disk
+2025-07-31 17:46:40,657 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-07-31 17:46:40,657 - lightrag - INFO - Document processing pipeline completed
+2025-07-31 17:46:41,111 - lightrag - INFO - Naive query: 3 chunks (chunk_top_k: 10)
+2025-07-31 17:46:41,112 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-07-31 17:46:41,114 - lightrag - INFO - Final context: 3 chunks
+2025-07-31 17:46:45,723 - lightrag - INFO -  == LLM cache == saving: local:keywords:74ae9291bbc7993e0785105e81046648
+2025-07-31 17:46:45,723 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-07-31 17:46:45,723 - lightrag - INFO - Process 139568 building query context...
+2025-07-31 17:46:45,723 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-07-31 17:46:46,179 - lightrag - INFO - Global query: 15 entites, 15 relations
+2025-07-31 17:46:46,181 - lightrag - INFO - Truncated KG query results: 15 entities, 15 relations
+2025-07-31 17:46:46,181 - lightrag - INFO - KG related chunks: 3 from entitys, 2 from relations
+2025-07-31 17:46:46,183 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-07-31 17:46:46,185 - lightrag - INFO - Final context: 15 entities, 15 relations, 3 chunks
+2025-07-31 17:46:50,244 - lightrag - INFO -  == LLM cache == saving: global:keywords:a188197e2f6bb12b00d1d936b1135d44
+2025-07-31 17:46:50,244 - lightrag - INFO - Process 139568 building query context...
+2025-07-31 17:46:50,244 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-07-31 17:46:50,695 - lightrag - INFO - Global query: 15 entites, 15 relations
+2025-07-31 17:46:50,696 - lightrag - INFO - Truncated KG query results: 15 entities, 15 relations
+2025-07-31 17:46:50,697 - lightrag - INFO - KG related chunks: 3 from entitys, 2 from relations
+2025-07-31 17:46:50,698 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-07-31 17:46:50,700 - lightrag - INFO - Final context: 15 entities, 15 relations, 3 chunks
+2025-07-31 17:46:53,685 - lightrag - INFO -  == LLM cache == saving: hybrid:keywords:593756b87265a74d134a2ab8eec8afe6
+2025-07-31 17:46:53,685 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-07-31 17:46:53,685 - lightrag - INFO - Process 139568 building query context...
+2025-07-31 17:46:53,685 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-07-31 17:46:54,131 - lightrag - INFO - Global query: 15 entites, 15 relations
+2025-07-31 17:46:54,132 - lightrag - INFO - Truncated KG query results: 15 entities, 15 relations
+2025-07-31 17:46:54,132 - lightrag - INFO - KG related chunks: 3 from entitys, 2 from relations
+2025-07-31 17:46:54,134 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-07-31 17:46:54,136 - lightrag - INFO - Final context: 15 entities, 15 relations, 3 chunks
+2025-07-31 17:46:56,348 - lightrag - INFO - Storage Finalization completed!
+2025-08-01 12:48:11,524 - lightrag - INFO - Created new empty graph
+2025-08-01 12:48:11,525 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-01 12:48:11,525 - lightrag - INFO - Process 246796 KV load full_docs with 0 records
+2025-08-01 12:48:11,525 - lightrag - INFO - Process 246796 KV load text_chunks with 0 records
+2025-08-01 12:48:11,531 - lightrag - INFO - Process 246796 KV load llm_response_cache with 9 records
+2025-08-01 12:48:11,531 - lightrag - INFO - Process 246796 doc status load doc_status with 0 records
+2025-08-01 12:48:11,531 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-01 12:48:11,713 - lightrag - INFO - Storage Initialization completed!
+2025-08-01 12:48:15,100 - lightrag - INFO - Stored 1 new unique documents
+2025-08-01 12:48:15,100 - lightrag - INFO - Processing 1 document(s)
+2025-08-01 12:48:15,100 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-08-01 12:48:15,100 - lightrag - INFO - Processing d-id: doc-42c6db59dc55416a3617617702204915
+2025-08-01 12:48:15,658 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-01 12:48:28,991 - lightrag - INFO -  == LLM cache == saving: default:extract:f1851dc9f28927fb6cce950bc28e228b
+2025-08-01 12:48:33,019 - lightrag - INFO -  == LLM cache == saving: default:extract:07d6d4ecc0067bcdb47b5b56eb8bd619
+2025-08-01 12:48:36,198 - lightrag - INFO -  == LLM cache == saving: default:extract:3cd8024398d7dc720183dc3397899979
+2025-08-01 12:48:36,368 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 12:48:38,420 - lightrag - INFO - Creating a new event loop in main thread.
+2025-08-01 12:50:02,102 - lightrag - INFO - Created new empty graph
+2025-08-01 12:50:02,103 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-01 12:50:02,103 - lightrag - INFO - Process 246528 KV load full_docs with 0 records
+2025-08-01 12:50:02,104 - lightrag - INFO - Process 246528 KV load text_chunks with 0 records
+2025-08-01 12:50:02,104 - lightrag - INFO - Process 246528 KV load llm_response_cache with 0 records
+2025-08-01 12:50:02,104 - lightrag - INFO - Process 246528 doc status load doc_status with 0 records
+2025-08-01 12:50:02,104 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-01 12:50:02,275 - lightrag - INFO - Storage Initialization completed!
+2025-08-01 12:50:03,078 - lightrag - INFO - Stored 1 new unique documents
+2025-08-01 12:50:03,078 - lightrag - INFO - Processing 1 document(s)
+2025-08-01 12:50:03,078 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-08-01 12:50:03,079 - lightrag - INFO - Processing d-id: doc-7558253b77a9a3f647b2973968b80470
+2025-08-01 12:50:05,084 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-01 12:50:16,902 - lightrag - INFO -  == LLM cache == saving: default:extract:a491f50c174e59356301ba6654c35818
+2025-08-01 12:50:26,096 - lightrag - INFO -  == LLM cache == saving: default:extract:563fe1cf72b1729da2a953c0887d6da9
+2025-08-01 12:50:26,497 - lightrag - INFO -  == LLM cache == saving: default:extract:abe0d271d535c977752796f472f3bf28
+2025-08-01 12:50:30,120 - lightrag - INFO -  == LLM cache == saving: default:extract:846bd563e68c2684e4fb7fe5eb88b3d9
+2025-08-01 12:50:30,120 - lightrag - INFO - Chunk 1 of 35 extracted 0 Ent + 0 Rel
+2025-08-01 12:50:35,760 - lightrag - INFO -  == LLM cache == saving: default:extract:cb62b7c518ecaea150392e0cf622f4f1
+2025-08-01 12:50:38,701 - lightrag - INFO -  == LLM cache == saving: default:extract:b5c9eb92fb9df70a0f54c1d68dd63fd4
+2025-08-01 12:50:38,701 - lightrag - INFO - Chunk 2 of 35 extracted 0 Ent + 1 Rel
+2025-08-01 12:50:43,923 - lightrag - INFO -  == LLM cache == saving: default:extract:2a9c132fe1ab08bc8e95dda47f4cca5d
+2025-08-01 12:50:43,923 - lightrag - INFO - Chunk 3 of 35 extracted 26 Ent + 9 Rel
+2025-08-01 12:50:55,477 - lightrag - INFO -  == LLM cache == saving: default:extract:9fd154d03eaeed18a24a46e0ad25bee7
+2025-08-01 12:50:55,478 - lightrag - INFO - Chunk 4 of 35 extracted 18 Ent + 14 Rel
+2025-08-01 12:50:59,245 - lightrag - INFO -  == LLM cache == saving: default:extract:c38a024135bafef8504fab703939bda3
+2025-08-01 12:51:14,765 - lightrag - INFO -  == LLM cache == saving: default:extract:460891ac365b28b9c2d2a73bdb0a8e34
+2025-08-01 12:51:20,567 - lightrag - INFO -  == LLM cache == saving: default:extract:18ae0cf2a490b7a6f74ac46ed54b7f8c
+2025-08-01 12:51:21,821 - lightrag - INFO -  == LLM cache == saving: default:extract:eb916c157b2c2c21049fcff1d163f60a
+2025-08-01 12:51:29,507 - lightrag - INFO -  == LLM cache == saving: default:extract:00974b8882d420d753c0ff5f7c835124
+2025-08-01 12:51:29,507 - lightrag - INFO - Chunk 5 of 35 extracted 33 Ent + 0 Rel
+2025-08-01 12:51:33,968 - lightrag - INFO -  == LLM cache == saving: default:extract:24846a0784a40775d3a4b820534e8a1b
+2025-08-01 12:51:33,969 - lightrag - INFO - Chunk 6 of 35 extracted 7 Ent + 5 Rel
+2025-08-01 12:51:39,565 - lightrag - INFO -  == LLM cache == saving: default:extract:36bf00268f48ae70cd6c224358ffd48e
+2025-08-01 12:51:39,565 - lightrag - INFO - Chunk 7 of 35 extracted 28 Ent + 9 Rel
+2025-08-01 12:51:49,898 - lightrag - INFO -  == LLM cache == saving: default:extract:ff87cca658cdec734a1d9f58392fae98
+2025-08-01 12:52:02,466 - lightrag - INFO -  == LLM cache == saving: default:extract:8798a706868a71c6da4ffd96a42adfb6
+2025-08-01 12:52:15,811 - lightrag - INFO -  == LLM cache == saving: default:extract:ffe2ba7237dd166d472ebc6ca5fd13f7
+2025-08-01 12:52:21,177 - lightrag - INFO -  == LLM cache == saving: default:extract:8581c34312da16348225f785348170d8
+2025-08-01 12:52:21,177 - lightrag - INFO - Chunk 8 of 35 extracted 12 Ent + 6 Rel
+2025-08-01 12:52:27,376 - lightrag - INFO -  == LLM cache == saving: default:extract:f5d5055d1e622489bc442a5d9142ceaa
+2025-08-01 12:52:27,376 - lightrag - INFO - Chunk 9 of 35 extracted 15 Ent + 12 Rel
+2025-08-01 12:52:36,820 - lightrag - INFO -  == LLM cache == saving: default:extract:4bc3e8bd44239e17b4e6216836b8617f
+2025-08-01 12:52:36,821 - lightrag - INFO - Chunk 10 of 35 extracted 24 Ent + 10 Rel
+2025-08-01 12:52:50,122 - lightrag - INFO -  == LLM cache == saving: default:extract:a027aba5c16a54385abd68d3a49ac5e2
+2025-08-01 12:54:02,307 - lightrag - INFO -  == LLM cache == saving: default:extract:8e31b94094bfbb2d904761ceadd73f1f
+2025-08-01 12:54:02,310 - lightrag - INFO - Chunk 11 of 35 extracted 87 Ent + 117 Rel
+2025-08-01 12:54:12,978 - lightrag - INFO -  == LLM cache == saving: default:extract:de9076f48668ba48bb54dd02dc001d5b
+2025-08-01 12:54:22,977 - lightrag - INFO -  == LLM cache == saving: default:extract:575e96dabc6196d711d77d119ea43754
+2025-08-01 12:54:22,978 - lightrag - INFO - Chunk 12 of 35 extracted 16 Ent + 14 Rel
+2025-08-01 12:54:44,364 - lightrag - INFO -  == LLM cache == saving: default:extract:e1d4bbb6f9e4eb3cc9ffbe242e141c13
+2025-08-01 12:54:53,548 - lightrag - INFO -  == LLM cache == saving: default:extract:41f229bfac173e6294ea4b4a44e66406
+2025-08-01 12:54:53,548 - lightrag - INFO - Chunk 13 of 35 extracted 16 Ent + 9 Rel
+2025-08-01 12:55:05,026 - lightrag - INFO -  == LLM cache == saving: default:extract:27584e3d19176a96a22af0d43994f5c6
+2025-08-01 12:55:16,070 - lightrag - INFO -  == LLM cache == saving: default:extract:e2c405e357e6315f7f677229193d1848
+2025-08-01 12:55:16,071 - lightrag - INFO - Chunk 14 of 35 extracted 20 Ent + 26 Rel
+2025-08-01 12:55:23,340 - lightrag - INFO -  == LLM cache == saving: default:extract:636c57f5ba29bc56f9404eea723dff50
+2025-08-01 12:55:29,978 - lightrag - INFO -  == LLM cache == saving: default:extract:f969046b4247fc664fc84ee070df9648
+2025-08-01 12:55:29,978 - lightrag - INFO - Chunk 15 of 35 extracted 15 Ent + 11 Rel
+2025-08-01 12:55:46,107 - lightrag - INFO -  == LLM cache == saving: default:extract:af71d45652f707fa562c0818de679d4f
+2025-08-01 12:55:52,848 - lightrag - INFO -  == LLM cache == saving: default:extract:4fa825aa9c517ca2c275207e6bc1f347
+2025-08-01 12:55:52,849 - lightrag - INFO - Chunk 16 of 35 extracted 11 Ent + 10 Rel
+2025-08-01 12:56:03,609 - lightrag - INFO -  == LLM cache == saving: default:extract:7e8afa2b702b466f9861891ae3336c87
+2025-08-01 12:56:10,562 - lightrag - INFO -  == LLM cache == saving: default:extract:75941142fbcead51a95be6b53d55ee95
+2025-08-01 12:56:10,562 - lightrag - INFO - Chunk 17 of 35 extracted 25 Ent + 9 Rel
+2025-08-01 12:56:36,360 - lightrag - INFO -  == LLM cache == saving: default:extract:e0be2f17bb5ac93f59079ee129d74ca5
+2025-08-01 12:56:41,474 - lightrag - INFO -  == LLM cache == saving: default:extract:4316a68b44a8a1d1dd23c2fe5273c3a3
+2025-08-01 12:56:41,475 - lightrag - INFO - Chunk 18 of 35 extracted 14 Ent + 6 Rel
+2025-08-01 12:56:47,469 - lightrag - INFO -  == LLM cache == saving: default:extract:c4c3098b8cb6c7bd69cc9e6344d32414
+2025-08-01 12:56:57,377 - lightrag - INFO -  == LLM cache == saving: default:extract:b21733304405597ddf6b4d5f3d640160
+2025-08-01 12:56:57,378 - lightrag - INFO - Chunk 19 of 35 extracted 43 Ent + 19 Rel
+2025-08-01 12:57:04,517 - lightrag - INFO -  == LLM cache == saving: default:extract:4a62dd5a348a86b7e6400566bf849093
+2025-08-01 12:57:13,071 - lightrag - INFO -  == LLM cache == saving: default:extract:4b9963d4c29bf48bef83fe2bf4280404
+2025-08-01 12:57:13,072 - lightrag - INFO - Chunk 20 of 35 extracted 8 Ent + 0 Rel
+2025-08-01 12:57:29,946 - lightrag - INFO -  == LLM cache == saving: default:extract:4ad76cdc2ef9cb50d584c456b63bef3b
+2025-08-01 12:57:36,856 - lightrag - INFO -  == LLM cache == saving: default:extract:683aef84e41491d45ef60deed96b4739
+2025-08-01 12:57:36,857 - lightrag - INFO - Chunk 21 of 35 extracted 10 Ent + 7 Rel
+2025-08-01 12:57:48,906 - lightrag - INFO -  == LLM cache == saving: default:extract:7a179e4f80cc96a0f01b875b70ed3ce4
+2025-08-01 12:58:03,254 - lightrag - INFO -  == LLM cache == saving: default:extract:78c2cefce3e82ef6ee1c7027dc0a5153
+2025-08-01 12:58:03,255 - lightrag - INFO - Chunk 22 of 35 extracted 33 Ent + 10 Rel
+2025-08-01 12:58:12,644 - lightrag - INFO -  == LLM cache == saving: default:extract:650330e3fe0b85e4b36db849ab3a043f
+2025-08-01 12:58:21,463 - lightrag - INFO -  == LLM cache == saving: default:extract:09ad6c7455b072976435658644ac56e7
+2025-08-01 12:58:21,463 - lightrag - INFO - Chunk 23 of 35 extracted 17 Ent + 13 Rel
+2025-08-01 12:58:34,963 - lightrag - INFO -  == LLM cache == saving: default:extract:83c3e4bb86250047321190d2adfabfda
+2025-08-01 12:58:42,501 - lightrag - INFO -  == LLM cache == saving: default:extract:aa440eb063187154fd1d7a8ff72490a0
+2025-08-01 12:58:42,501 - lightrag - INFO - Chunk 24 of 35 extracted 13 Ent + 11 Rel
+2025-08-01 12:59:11,996 - lightrag - INFO -  == LLM cache == saving: default:extract:a48d981eb97c540c075d4d971562a2d4
+2025-08-01 12:59:16,433 - lightrag - INFO -  == LLM cache == saving: default:extract:211f9b13b5d830a25d0ad64ccf9858dc
+2025-08-01 12:59:16,434 - lightrag - INFO - Chunk 25 of 35 extracted 17 Ent + 10 Rel
+2025-08-01 12:59:53,504 - lightrag - INFO -  == LLM cache == saving: default:extract:d50760dfa074b2f7b8804bfa429db434
+2025-08-01 12:59:58,772 - lightrag - INFO -  == LLM cache == saving: default:extract:891cb23818d9fae16b40dce0fc9cc502
+2025-08-01 12:59:58,772 - lightrag - INFO - Chunk 26 of 35 extracted 31 Ent + 13 Rel
+2025-08-01 13:00:25,991 - lightrag - INFO -  == LLM cache == saving: default:extract:e9e8301b7ac97f3050d26ddceafe995d
+2025-08-01 13:00:34,633 - lightrag - INFO -  == LLM cache == saving: default:extract:cbc236452b9562ea0cad118dd2941760
+2025-08-01 13:00:34,634 - lightrag - INFO - Chunk 27 of 35 extracted 49 Ent + 15 Rel
+2025-08-01 13:00:59,546 - lightrag - INFO -  == LLM cache == saving: default:extract:bd8f70692620cdb5f11f65bec4b4ff7c
+2025-08-01 13:01:14,108 - lightrag - INFO -  == LLM cache == saving: default:extract:aeb21c9a9c55f0d5ab1fa5227779d4ad
+2025-08-01 13:01:14,109 - lightrag - INFO - Chunk 28 of 35 extracted 14 Ent + 5 Rel
+2025-08-01 13:01:25,253 - lightrag - INFO -  == LLM cache == saving: default:extract:0f448762da1a86d08f2dd08a30a29b6c
+2025-08-01 13:01:32,169 - lightrag - INFO -  == LLM cache == saving: default:extract:f23838a63b43d693d5e0e8ee893fce5c
+2025-08-01 13:01:32,170 - lightrag - INFO - Chunk 29 of 35 extracted 47 Ent + 10 Rel
+2025-08-01 13:01:47,678 - lightrag - INFO -  == LLM cache == saving: default:extract:002fb79b0ef042e855a96a0d7ebfbb50
+2025-08-01 13:01:57,681 - lightrag - INFO -  == LLM cache == saving: default:extract:72d5ade313e48def0fdea203ba3b48d3
+2025-08-01 13:01:57,682 - lightrag - INFO - Chunk 30 of 35 extracted 17 Ent + 13 Rel
+2025-08-01 13:02:13,216 - lightrag - INFO -  == LLM cache == saving: default:extract:a899a2b55c3bfeb66577dddd7dccec9d
+2025-08-01 13:02:19,368 - lightrag - INFO -  == LLM cache == saving: default:extract:a2aed039dcea0ad352d32191dedaed21
+2025-08-01 13:02:19,369 - lightrag - INFO - Chunk 31 of 35 extracted 27 Ent + 0 Rel
+2025-08-01 13:02:30,063 - lightrag - INFO -  == LLM cache == saving: default:extract:4149a5dcb25a474da523c2684204380b
+2025-08-01 13:29:38,252 - lightrag - INFO -  == LLM cache == saving: default:extract:4404e6e513c6da8ce8d6482311fe73e3
+2025-08-01 13:29:47,571 - lightrag - INFO -  == LLM cache == saving: default:extract:317419cf10548a4b3b81b858ae2e67fa
+2025-08-01 13:29:57,972 - lightrag - INFO -  == LLM cache == saving: default:extract:d806868afa859f1cb7e1fa96f245ddce
+2025-08-01 13:29:57,972 - lightrag - INFO - Chunk 32 of 35 extracted 21 Ent + 12 Rel
+2025-08-01 13:29:59,286 - lightrag - INFO -  == LLM cache == saving: default:extract:c3014624992739e0f8d7417750f6c2a9
+2025-08-01 13:29:59,286 - lightrag - INFO - Chunk 33 of 35 extracted 31 Ent + 8 Rel
+2025-08-01 13:30:13,003 - lightrag - INFO -  == LLM cache == saving: default:extract:6895eb958dc8347f1eec4f3ef976c76c
+2025-08-01 13:30:13,004 - lightrag - INFO - Chunk 34 of 35 extracted 16 Ent + 14 Rel
+2025-08-01 13:35:29,545 - lightrag - INFO -  == LLM cache == saving: default:extract:5781126e15b5d613e00c9d51350bae4a
+2025-08-01 13:35:29,584 - lightrag - INFO - Chunk 35 of 35 extracted 26 Ent + 19 Rel
+2025-08-01 13:35:29,585 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-08-01 13:35:29,585 - lightrag - INFO - Processing: 726 entities and 446 relations (async: 8)
+2025-08-01 13:35:29,587 - lightrag - INFO - Merge N: Diabetes Mellitus | 3+0
+2025-08-01 13:35:29,587 - lightrag - INFO - LLM merge N: Type 2 Diabetes | 9+0
+2025-08-01 13:35:29,587 - lightrag - INFO - Merge N: Lifestyle Modification | 3+0
+2025-08-01 13:35:31,874 - lightrag - INFO - Merge N: Foot Screening Assessment Form | 2+0
+2025-08-01 13:35:32,069 - lightrag - INFO - Merge N: Myocardial Infarction (MI) | 2+0
+2025-08-01 13:35:32,886 - lightrag - INFO -  == LLM cache == saving: default:extract:98aadbbf18fa34d19c609b83814a81a9
+2025-08-01 13:35:33,050 - lightrag - INFO - Merge N: Peripheral Artery Disease (PAD) | 2+0
+2025-08-01 13:35:33,407 - lightrag - INFO - Merge N: Random Plasma Glucose (RPG) | 2+0
+2025-08-01 13:35:33,407 - lightrag - INFO - Merge N: World Health Organization (WHO) | 3+0
+2025-08-01 13:35:34,411 - lightrag - INFO - Merge N: Primary Care Level | 3+0
+2025-08-01 13:35:36,505 - lightrag - INFO - LLM merge N: Diabetes | 7+0
+2025-08-01 13:35:36,506 - lightrag - INFO - Merge N: Fasting Plasma Glucose (FPG) | 2+0
+2025-08-01 13:35:38,714 - lightrag - INFO -  == LLM cache == saving: default:extract:2b6f68c55bd6e3680ab0e50cb3bf97f2
+2025-08-01 13:35:39,443 - lightrag - INFO - Merge N: Polycystic Ovarian Syndrome (PCOS) | 2+0
+2025-08-01 13:35:42,154 - lightrag - INFO - Merge N: Annual Audit | 2+0
+2025-08-01 13:35:51,152 - lightrag - INFO - Merge N: Diabetic Eye Care Plan | 2+0
+2025-08-01 13:36:04,216 - lightrag - INFO - Merge N: Sulphonylureas | 2+0
+2025-08-01 13:36:04,914 - lightrag - INFO - LLM merge N: Metformin | 6+0
+2025-08-01 13:36:05,078 - lightrag - INFO - Merge N: Sulphonylurea | 2+0
+2025-08-01 13:36:05,078 - lightrag - INFO - Merge N: Biphasic Insulin | 2+0
+2025-08-01 13:36:06,335 - lightrag - INFO - Merge N: Pregnancy | 2+0
+2025-08-01 13:36:06,500 - lightrag - INFO -  == LLM cache == saving: default:extract:5eac5d08cb4f3cbb7baf6e0319d474cd
+2025-08-01 13:36:08,733 - lightrag - INFO - Merge N: Pregnant women | 2+0
+2025-08-01 13:36:10,426 - lightrag - INFO - Merge N: Hypoglycaemia | 3+0
+2025-08-01 13:36:11,118 - lightrag - INFO - Merge N: Glibenclamide | 3+0
+2025-08-01 13:36:11,280 - lightrag - INFO - Merge N: Renal Failure | 2+0
+2025-08-01 13:36:16,667 - lightrag - INFO - Merge N: Cigarette smoking cessation, DYSLIPIDAEMIA, Total Cholesterol, LDL-Cholesterol *, HDL-Cholesterol, Triglycerides, Men, Women <4.5 mmol/L, <1.8 mmol/L >  | 2+0
+2025-08-01 13:36:19,064 - lightrag - INFO - Merge N: The aim is to lose 5 – 10% of body weight; maintain weight loss; prevent weight regain. The optimal rate of weight loss is 1 – 2 kg per month. This guideline provides a target for weight loss and the recommended rate for type 2 diabetes patients. | 2+0
+2025-08-01 13:36:19,752 - lightrag - INFO - Merge N: Primary Care Level Management | 3+0
+2025-08-01 13:36:21,321 - lightrag - INFO - Merge N: Hypertension | 3+0
+2025-08-01 13:36:21,322 - lightrag - INFO - Merge N: Metabolic Syndrome | 2+0
+2025-08-01 13:36:30,639 - lightrag - INFO - Merge N: South Africa | 2+0
+2025-08-01 13:36:33,052 - lightrag - INFO - Merge N: Retinopathy | 2+0
+2025-08-01 13:36:33,587 - lightrag - INFO - Merge N: Nephropathy | 2+0
+2025-08-01 13:36:36,884 - lightrag - INFO - Merge N: HIV | 2+0
+2025-08-01 13:36:41,359 - lightrag - INFO - Merge N: Type 1 Diabetes | 2+0
+2025-08-01 13:36:42,389 - lightrag - INFO - Merge N: Gliclazide | 2+0
+2025-08-01 13:36:49,285 - lightrag - INFO - Merge N: American Diabetes Association | 2+0
+2025-08-01 13:36:52,285 - lightrag - INFO - Merge N: Tuberculosis (TB) | 2+0
+2025-08-01 13:36:55,561 - lightrag - INFO - Merge N: SEMDSA Steering Committee | 2+0
+2025-08-01 13:36:55,562 - lightrag - INFO - Merge N: Department of Health | 2+0
+2025-08-01 13:37:02,699 - lightrag - INFO - Merge N: Canadian Diabetes Association | 2+0
+2025-08-01 13:37:29,918 - lightrag - INFO - Merge N: Monitoring of Chronic Patients  | 2+0
+2025-08-01 13:37:53,411 - lightrag - INFO - Merge E: Comprehensive Retinopathy Management Program - Diabetic Eye Care Plan | 2+0
+2025-08-01 13:38:56,024 - lightrag - INFO - Merge E: Pharmacy Personnel  - Ward-based PHC Outreach Teams  | 3+0
+2025-08-01 13:38:56,492 - lightrag - INFO - Merge E: Local Podiatrists  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:38:57,155 - lightrag - INFO - Merge E: Referral Protocols  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:38:58,862 - lightrag - INFO - Merge E: In-service Training  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:38:59,772 - lightrag - INFO - Merge E: Group Education Areas  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:39:05,898 - lightrag - INFO - Writing graph with 785 nodes, 446 edges
+2025-08-01 13:39:05,923 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 13:39:05,924 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-08-01 13:39:05,924 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 13:39:05,949 - lightrag - INFO - Stored 1 new unique documents
+2025-08-01 13:39:05,949 - lightrag - INFO - Processing 1 document(s)
+2025-08-01 13:39:05,949 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-08-01 13:39:05,949 - lightrag - INFO - Processing d-id: doc-7fe926943faf4ad81a5977db19f2ac76
+2025-08-01 13:39:15,597 - lightrag - INFO -  == LLM cache == saving: default:extract:ae369f5211d3e098dc7da21a1f1544cc
+2025-08-01 13:39:19,481 - lightrag - INFO -  == LLM cache == saving: default:extract:867d6878a0067239f10ec1f3e39fea22
+2025-08-01 13:39:19,482 - lightrag - INFO - Chunk 1 of 1 extracted 13 Ent + 12 Rel
+2025-08-01 13:39:19,482 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-08-01 13:39:19,482 - lightrag - INFO - Processing: 13 entities and 12 relations (async: 8)
+2025-08-01 13:39:26,497 - lightrag - INFO - Writing graph with 800 nodes, 458 edges
+2025-08-01 13:39:26,529 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 13:39:26,529 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-08-01 13:39:26,529 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 13:39:26,975 - lightrag - INFO - Naive query: 10 chunks (chunk_top_k: 10)
+2025-08-01 13:39:26,975 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:39:26,983 - lightrag - INFO - Final context: 10 chunks
+2025-08-01 13:39:28,713 - lightrag - INFO -  == LLM cache == saving: local:keywords:74ae9291bbc7993e0785105e81046648
+2025-08-01 13:39:28,713 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-08-01 13:39:28,713 - lightrag - INFO - Process 246528 building query context...
+2025-08-01 13:39:28,714 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 13:39:29,167 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 13:39:29,171 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 13:39:29,172 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 13:39:29,176 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:39:29,183 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 13:39:30,657 - lightrag - INFO -  == LLM cache == saving: global:keywords:a188197e2f6bb12b00d1d936b1135d44
+2025-08-01 13:39:30,658 - lightrag - INFO - Process 246528 building query context...
+2025-08-01 13:39:30,658 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 13:39:31,110 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 13:39:31,114 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 13:39:31,115 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 13:39:31,119 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:39:31,125 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 13:39:32,667 - lightrag - INFO -  == LLM cache == saving: hybrid:keywords:593756b87265a74d134a2ab8eec8afe6
+2025-08-01 13:39:32,667 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-08-01 13:39:32,667 - lightrag - INFO - Process 246528 building query context...
+2025-08-01 13:39:32,668 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 13:39:33,124 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 13:39:33,129 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 13:39:33,130 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 13:39:33,134 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:39:33,140 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 13:39:33,955 - lightrag - INFO - Storage Finalization completed!
+2025-08-01 13:40:11,495 - lightrag - INFO - Created new empty graph
+2025-08-01 13:40:11,496 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-01 13:40:11,496 - lightrag - INFO - Process 245404 KV load full_docs with 0 records
+2025-08-01 13:40:11,496 - lightrag - INFO - Process 245404 KV load text_chunks with 0 records
+2025-08-01 13:40:11,514 - lightrag - INFO - Process 245404 KV load llm_response_cache with 78 records
+2025-08-01 13:40:11,514 - lightrag - INFO - Process 245404 doc status load doc_status with 0 records
+2025-08-01 13:40:11,514 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-01 13:40:11,680 - lightrag - INFO - Storage Initialization completed!
+2025-08-01 13:40:12,493 - lightrag - INFO - Stored 1 new unique documents
+2025-08-01 13:40:12,493 - lightrag - INFO - Processing 1 document(s)
+2025-08-01 13:40:12,493 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-08-01 13:40:12,493 - lightrag - INFO - Processing d-id: doc-7558253b77a9a3f647b2973968b80470
+2025-08-01 13:40:14,507 - lightrag - INFO - Chunk 1 of 35 extracted 0 Ent + 0 Rel
+2025-08-01 13:40:14,510 - lightrag - INFO - Chunk 2 of 35 extracted 18 Ent + 14 Rel
+2025-08-01 13:40:14,511 - lightrag - INFO - Chunk 3 of 35 extracted 0 Ent + 1 Rel
+2025-08-01 13:40:14,511 - lightrag - INFO - Chunk 4 of 35 extracted 26 Ent + 9 Rel
+2025-08-01 13:40:14,512 - lightrag - INFO - Chunk 5 of 35 extracted 33 Ent + 0 Rel
+2025-08-01 13:40:14,518 - lightrag - INFO - Chunk 6 of 35 extracted 87 Ent + 117 Rel
+2025-08-01 13:40:14,519 - lightrag - INFO - Chunk 7 of 35 extracted 28 Ent + 9 Rel
+2025-08-01 13:40:14,520 - lightrag - INFO - Chunk 8 of 35 extracted 7 Ent + 5 Rel
+2025-08-01 13:40:14,520 - lightrag - INFO - Chunk 9 of 35 extracted 12 Ent + 6 Rel
+2025-08-01 13:40:14,521 - lightrag - INFO - Chunk 10 of 35 extracted 15 Ent + 12 Rel
+2025-08-01 13:40:14,522 - lightrag - INFO - Chunk 11 of 35 extracted 24 Ent + 10 Rel
+2025-08-01 13:40:14,522 - lightrag - INFO - Chunk 12 of 35 extracted 16 Ent + 14 Rel
+2025-08-01 13:40:14,533 - lightrag - INFO - Chunk 13 of 35 extracted 31 Ent + 8 Rel
+2025-08-01 13:40:14,533 - lightrag - INFO - Chunk 14 of 35 extracted 16 Ent + 9 Rel
+2025-08-01 13:40:14,534 - lightrag - INFO - Chunk 15 of 35 extracted 20 Ent + 26 Rel
+2025-08-01 13:40:14,535 - lightrag - INFO - Chunk 16 of 35 extracted 15 Ent + 11 Rel
+2025-08-01 13:40:14,536 - lightrag - INFO - Chunk 17 of 35 extracted 11 Ent + 10 Rel
+2025-08-01 13:40:14,537 - lightrag - INFO - Chunk 18 of 35 extracted 25 Ent + 9 Rel
+2025-08-01 13:40:14,537 - lightrag - INFO - Chunk 19 of 35 extracted 14 Ent + 6 Rel
+2025-08-01 13:40:14,538 - lightrag - INFO - Chunk 20 of 35 extracted 43 Ent + 19 Rel
+2025-08-01 13:40:14,539 - lightrag - INFO - Chunk 21 of 35 extracted 8 Ent + 0 Rel
+2025-08-01 13:40:14,539 - lightrag - INFO - Chunk 22 of 35 extracted 10 Ent + 7 Rel
+2025-08-01 13:40:14,540 - lightrag - INFO - Chunk 23 of 35 extracted 33 Ent + 10 Rel
+2025-08-01 13:40:14,541 - lightrag - INFO - Chunk 24 of 35 extracted 17 Ent + 13 Rel
+2025-08-01 13:40:14,542 - lightrag - INFO - Chunk 25 of 35 extracted 13 Ent + 11 Rel
+2025-08-01 13:40:14,542 - lightrag - INFO - Chunk 26 of 35 extracted 17 Ent + 10 Rel
+2025-08-01 13:40:14,543 - lightrag - INFO - Chunk 27 of 35 extracted 31 Ent + 13 Rel
+2025-08-01 13:40:14,545 - lightrag - INFO - Chunk 28 of 35 extracted 49 Ent + 15 Rel
+2025-08-01 13:40:14,545 - lightrag - INFO - Chunk 29 of 35 extracted 14 Ent + 5 Rel
+2025-08-01 13:40:14,547 - lightrag - INFO - Chunk 30 of 35 extracted 47 Ent + 10 Rel
+2025-08-01 13:40:14,547 - lightrag - INFO - Chunk 31 of 35 extracted 17 Ent + 13 Rel
+2025-08-01 13:40:14,548 - lightrag - INFO - Chunk 32 of 35 extracted 27 Ent + 0 Rel
+2025-08-01 13:40:14,583 - lightrag - INFO - Chunk 33 of 35 extracted 26 Ent + 19 Rel
+2025-08-01 13:40:14,584 - lightrag - INFO - Chunk 34 of 35 extracted 21 Ent + 12 Rel
+2025-08-01 13:40:14,585 - lightrag - INFO - Chunk 35 of 35 extracted 16 Ent + 14 Rel
+2025-08-01 13:40:14,586 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-08-01 13:40:14,586 - lightrag - INFO - Processing: 726 entities and 446 relations (async: 8)
+2025-08-01 13:40:14,601 - lightrag - INFO - Merge N: Diabetes Mellitus | 3+0
+2025-08-01 13:40:14,601 - lightrag - INFO - LLM merge N: Type 2 Diabetes | 9+0
+2025-08-01 13:40:14,602 - lightrag - INFO - Merge N: Lifestyle Modification | 3+0
+2025-08-01 13:40:16,201 - lightrag - INFO - Merge N: Foot Screening Assessment Form | 2+0
+2025-08-01 13:40:16,364 - lightrag - INFO - Merge N: Myocardial Infarction (MI) | 2+0
+2025-08-01 13:40:16,364 - lightrag - INFO - Merge N: Peripheral Artery Disease (PAD) | 2+0
+2025-08-01 13:40:17,511 - lightrag - INFO - Merge N: Random Plasma Glucose (RPG) | 2+0
+2025-08-01 13:40:17,781 - lightrag - INFO - Merge N: World Health Organization (WHO) | 3+0
+2025-08-01 13:40:17,953 - lightrag - INFO - Merge N: Primary Care Level | 3+0
+2025-08-01 13:40:21,069 - lightrag - INFO - LLM merge N: Diabetes | 7+0
+2025-08-01 13:40:21,070 - lightrag - INFO - Merge N: Fasting Plasma Glucose (FPG) | 2+0
+2025-08-01 13:40:23,447 - lightrag - INFO - Merge N: Polycystic Ovarian Syndrome (PCOS) | 2+0
+2025-08-01 13:40:25,710 - lightrag - INFO - Merge N: Annual Audit | 2+0
+2025-08-01 13:40:34,952 - lightrag - INFO - Merge N: Diabetic Eye Care Plan | 2+0
+2025-08-01 13:40:48,239 - lightrag - INFO - Merge N: Sulphonylureas | 2+0
+2025-08-01 13:40:48,819 - lightrag - INFO - LLM merge N: Metformin | 6+0
+2025-08-01 13:40:48,820 - lightrag - INFO - Merge N: Sulphonylurea | 2+0
+2025-08-01 13:40:48,820 - lightrag - INFO - Merge N: Biphasic Insulin | 2+0
+2025-08-01 13:40:50,359 - lightrag - INFO - Merge N: Pregnancy | 2+0
+2025-08-01 13:40:51,900 - lightrag - INFO - Merge N: Pregnant women | 2+0
+2025-08-01 13:40:54,305 - lightrag - INFO - Merge N: Hypoglycaemia | 3+0
+2025-08-01 13:40:54,979 - lightrag - INFO - Merge N: Glibenclamide | 3+0
+2025-08-01 13:40:54,979 - lightrag - INFO - Merge N: Renal Failure | 2+0
+2025-08-01 13:41:00,482 - lightrag - INFO - Merge N: Cigarette smoking cessation, DYSLIPIDAEMIA, Total Cholesterol, LDL-Cholesterol *, HDL-Cholesterol, Triglycerides, Men, Women <4.5 mmol/L, <1.8 mmol/L >  | 2+0
+2025-08-01 13:41:02,767 - lightrag - INFO - Merge N: The aim is to lose 5 – 10% of body weight; maintain weight loss; prevent weight regain. The optimal rate of weight loss is 1 – 2 kg per month. This guideline provides a target for weight loss and the recommended rate for type 2 diabetes patients. | 2+0
+2025-08-01 13:41:03,644 - lightrag - INFO - Merge N: Primary Care Level Management | 3+0
+2025-08-01 13:41:05,188 - lightrag - INFO - Merge N: Hypertension | 3+0
+2025-08-01 13:41:05,189 - lightrag - INFO - Merge N: Metabolic Syndrome | 2+0
+2025-08-01 13:41:15,067 - lightrag - INFO - Merge N: South Africa | 2+0
+2025-08-01 13:41:16,783 - lightrag - INFO - Merge N: Retinopathy | 2+0
+2025-08-01 13:41:17,469 - lightrag - INFO - Merge N: Nephropathy | 2+0
+2025-08-01 13:41:20,711 - lightrag - INFO - Merge N: HIV | 2+0
+2025-08-01 13:41:25,204 - lightrag - INFO - Merge N: Type 1 Diabetes | 2+0
+2025-08-01 13:41:26,044 - lightrag - INFO - Merge N: Gliclazide | 2+0
+2025-08-01 13:41:33,018 - lightrag - INFO - Merge N: American Diabetes Association | 2+0
+2025-08-01 13:41:35,919 - lightrag - INFO - Merge N: Tuberculosis (TB) | 2+0
+2025-08-01 13:41:39,155 - lightrag - INFO - Merge N: SEMDSA Steering Committee | 2+0
+2025-08-01 13:41:39,156 - lightrag - INFO - Merge N: Department of Health | 2+0
+2025-08-01 13:41:46,103 - lightrag - INFO - Merge N: Canadian Diabetes Association | 2+0
+2025-08-01 13:42:13,139 - lightrag - INFO - Merge N: Monitoring of Chronic Patients  | 2+0
+2025-08-01 13:42:36,843 - lightrag - INFO - Merge E: Comprehensive Retinopathy Management Program - Diabetic Eye Care Plan | 2+0
+2025-08-01 13:43:38,629 - lightrag - INFO - Merge E: Pharmacy Personnel  - Ward-based PHC Outreach Teams  | 3+0
+2025-08-01 13:43:39,075 - lightrag - INFO - Merge E: Local Podiatrists  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:43:39,698 - lightrag - INFO - Merge E: Referral Protocols  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:43:41,425 - lightrag - INFO - Merge E: In-service Training  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:43:42,147 - lightrag - INFO - Merge E: Group Education Areas  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 13:43:48,372 - lightrag - INFO - Writing graph with 785 nodes, 446 edges
+2025-08-01 13:43:48,402 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 13:43:48,402 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-08-01 13:43:48,403 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 13:43:48,428 - lightrag - INFO - Stored 1 new unique documents
+2025-08-01 13:43:48,428 - lightrag - INFO - Processing 1 document(s)
+2025-08-01 13:43:48,428 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-08-01 13:43:48,428 - lightrag - INFO - Processing d-id: doc-7fe926943faf4ad81a5977db19f2ac76
+2025-08-01 13:43:48,905 - lightrag - INFO - Chunk 1 of 1 extracted 13 Ent + 12 Rel
+2025-08-01 13:43:48,905 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-08-01 13:43:48,905 - lightrag - INFO - Processing: 13 entities and 12 relations (async: 8)
+2025-08-01 13:43:55,381 - lightrag - INFO - Writing graph with 800 nodes, 458 edges
+2025-08-01 13:43:55,411 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 13:43:55,411 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-08-01 13:43:55,412 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 13:43:55,895 - lightrag - INFO - Naive query: 10 chunks (chunk_top_k: 10)
+2025-08-01 13:43:55,895 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:43:55,902 - lightrag - INFO - Final context: 10 chunks
+2025-08-01 13:43:55,915 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-01 13:43:56,783 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-08-01 13:43:56,784 - lightrag - INFO - Process 245404 building query context...
+2025-08-01 13:43:56,784 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 13:43:57,229 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 13:43:57,234 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 13:43:57,234 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 13:43:57,239 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:43:57,245 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 13:43:58,064 - lightrag - INFO - Process 245404 building query context...
+2025-08-01 13:43:58,065 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 13:43:58,513 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 13:43:58,518 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 13:43:58,519 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 13:43:58,523 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:43:58,530 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 13:43:59,304 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-08-01 13:43:59,305 - lightrag - INFO - Process 245404 building query context...
+2025-08-01 13:43:59,305 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 13:43:59,750 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 13:43:59,754 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 13:43:59,755 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 13:43:59,759 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 13:43:59,765 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 13:44:00,530 - lightrag - INFO - Storage Finalization completed!
+2025-08-01 14:29:53,309 - lightrag - INFO - Created new empty graph
+2025-08-01 14:29:53,310 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-01 14:29:53,310 - lightrag - INFO - Process 213096 KV load full_docs with 0 records
+2025-08-01 14:29:53,311 - lightrag - INFO - Process 213096 KV load text_chunks with 0 records
+2025-08-01 14:29:53,325 - lightrag - INFO - Process 213096 KV load llm_response_cache with 78 records
+2025-08-01 14:29:53,325 - lightrag - INFO - Process 213096 doc status load doc_status with 0 records
+2025-08-01 14:29:53,325 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-01 14:29:53,495 - lightrag - INFO - Storage Initialization completed!
+2025-08-01 14:29:54,915 - lightrag - INFO - Stored 1 new unique documents
+2025-08-01 14:29:54,915 - lightrag - INFO - Processing 1 document(s)
+2025-08-01 14:29:54,915 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-08-01 14:29:54,915 - lightrag - INFO - Processing d-id: doc-7558253b77a9a3f647b2973968b80470
+2025-08-01 14:29:56,888 - lightrag - INFO - Chunk 1 of 35 extracted 0 Ent + 0 Rel
+2025-08-01 14:29:56,891 - lightrag - INFO - Chunk 2 of 35 extracted 18 Ent + 14 Rel
+2025-08-01 14:29:56,891 - lightrag - INFO - Chunk 3 of 35 extracted 0 Ent + 1 Rel
+2025-08-01 14:29:56,892 - lightrag - INFO - Chunk 4 of 35 extracted 26 Ent + 9 Rel
+2025-08-01 14:29:56,893 - lightrag - INFO - Chunk 5 of 35 extracted 33 Ent + 0 Rel
+2025-08-01 14:29:56,899 - lightrag - INFO - Chunk 6 of 35 extracted 87 Ent + 117 Rel
+2025-08-01 14:29:56,900 - lightrag - INFO - Chunk 7 of 35 extracted 28 Ent + 9 Rel
+2025-08-01 14:29:56,901 - lightrag - INFO - Chunk 8 of 35 extracted 7 Ent + 5 Rel
+2025-08-01 14:29:56,901 - lightrag - INFO - Chunk 9 of 35 extracted 12 Ent + 6 Rel
+2025-08-01 14:29:56,902 - lightrag - INFO - Chunk 10 of 35 extracted 15 Ent + 12 Rel
+2025-08-01 14:29:56,903 - lightrag - INFO - Chunk 11 of 35 extracted 24 Ent + 10 Rel
+2025-08-01 14:29:56,903 - lightrag - INFO - Chunk 12 of 35 extracted 16 Ent + 14 Rel
+2025-08-01 14:29:56,913 - lightrag - INFO - Chunk 13 of 35 extracted 31 Ent + 8 Rel
+2025-08-01 14:29:56,914 - lightrag - INFO - Chunk 14 of 35 extracted 16 Ent + 9 Rel
+2025-08-01 14:29:56,915 - lightrag - INFO - Chunk 15 of 35 extracted 20 Ent + 26 Rel
+2025-08-01 14:29:56,916 - lightrag - INFO - Chunk 16 of 35 extracted 15 Ent + 11 Rel
+2025-08-01 14:29:56,916 - lightrag - INFO - Chunk 17 of 35 extracted 11 Ent + 10 Rel
+2025-08-01 14:29:56,917 - lightrag - INFO - Chunk 18 of 35 extracted 25 Ent + 9 Rel
+2025-08-01 14:29:56,917 - lightrag - INFO - Chunk 19 of 35 extracted 14 Ent + 6 Rel
+2025-08-01 14:29:56,919 - lightrag - INFO - Chunk 20 of 35 extracted 43 Ent + 19 Rel
+2025-08-01 14:29:56,919 - lightrag - INFO - Chunk 21 of 35 extracted 8 Ent + 0 Rel
+2025-08-01 14:29:56,920 - lightrag - INFO - Chunk 22 of 35 extracted 10 Ent + 7 Rel
+2025-08-01 14:29:56,920 - lightrag - INFO - Chunk 23 of 35 extracted 33 Ent + 10 Rel
+2025-08-01 14:29:56,921 - lightrag - INFO - Chunk 24 of 35 extracted 17 Ent + 13 Rel
+2025-08-01 14:29:56,922 - lightrag - INFO - Chunk 25 of 35 extracted 13 Ent + 11 Rel
+2025-08-01 14:29:56,922 - lightrag - INFO - Chunk 26 of 35 extracted 17 Ent + 10 Rel
+2025-08-01 14:29:56,923 - lightrag - INFO - Chunk 27 of 35 extracted 31 Ent + 13 Rel
+2025-08-01 14:29:56,925 - lightrag - INFO - Chunk 28 of 35 extracted 49 Ent + 15 Rel
+2025-08-01 14:29:56,925 - lightrag - INFO - Chunk 29 of 35 extracted 14 Ent + 5 Rel
+2025-08-01 14:29:56,926 - lightrag - INFO - Chunk 30 of 35 extracted 47 Ent + 10 Rel
+2025-08-01 14:29:56,927 - lightrag - INFO - Chunk 31 of 35 extracted 17 Ent + 13 Rel
+2025-08-01 14:29:56,928 - lightrag - INFO - Chunk 32 of 35 extracted 27 Ent + 0 Rel
+2025-08-01 14:29:56,965 - lightrag - INFO - Chunk 33 of 35 extracted 26 Ent + 19 Rel
+2025-08-01 14:29:56,966 - lightrag - INFO - Chunk 34 of 35 extracted 21 Ent + 12 Rel
+2025-08-01 14:29:56,967 - lightrag - INFO - Chunk 35 of 35 extracted 16 Ent + 14 Rel
+2025-08-01 14:29:56,968 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-08-01 14:29:56,968 - lightrag - INFO - Processing: 726 entities and 446 relations (async: 8)
+2025-08-01 14:29:56,983 - lightrag - INFO - Merge N: Diabetes Mellitus | 3+0
+2025-08-01 14:29:56,983 - lightrag - INFO - LLM merge N: Type 2 Diabetes | 9+0
+2025-08-01 14:29:56,984 - lightrag - INFO - Merge N: Lifestyle Modification | 3+0
+2025-08-01 14:29:58,621 - lightrag - INFO - Merge N: Foot Screening Assessment Form | 2+0
+2025-08-01 14:29:58,791 - lightrag - INFO - Merge N: Myocardial Infarction (MI) | 2+0
+2025-08-01 14:29:58,791 - lightrag - INFO - Merge N: Peripheral Artery Disease (PAD) | 2+0
+2025-08-01 14:29:59,986 - lightrag - INFO - Merge N: Random Plasma Glucose (RPG) | 2+0
+2025-08-01 14:30:00,254 - lightrag - INFO - Merge N: World Health Organization (WHO) | 3+0
+2025-08-01 14:30:00,430 - lightrag - INFO - Merge N: Primary Care Level | 3+0
+2025-08-01 14:30:03,603 - lightrag - INFO - LLM merge N: Diabetes | 7+0
+2025-08-01 14:30:03,604 - lightrag - INFO - Merge N: Fasting Plasma Glucose (FPG) | 2+0
+2025-08-01 14:30:06,086 - lightrag - INFO - Merge N: Polycystic Ovarian Syndrome (PCOS) | 2+0
+2025-08-01 14:30:08,381 - lightrag - INFO - Merge N: Annual Audit | 2+0
+2025-08-01 14:30:17,980 - lightrag - INFO - Merge N: Diabetic Eye Care Plan | 2+0
+2025-08-01 14:30:31,732 - lightrag - INFO - Merge N: Sulphonylureas | 2+0
+2025-08-01 14:30:32,280 - lightrag - INFO - LLM merge N: Metformin | 6+0
+2025-08-01 14:30:32,281 - lightrag - INFO - Merge N: Sulphonylurea | 2+0
+2025-08-01 14:30:32,281 - lightrag - INFO - Merge N: Biphasic Insulin | 2+0
+2025-08-01 14:30:33,924 - lightrag - INFO - Merge N: Pregnancy | 2+0
+2025-08-01 14:30:35,514 - lightrag - INFO - Merge N: Pregnant women | 2+0
+2025-08-01 14:30:37,985 - lightrag - INFO - Merge N: Hypoglycaemia | 3+0
+2025-08-01 14:30:38,717 - lightrag - INFO - Merge N: Glibenclamide | 3+0
+2025-08-01 14:30:38,717 - lightrag - INFO - Merge N: Renal Failure | 2+0
+2025-08-01 14:30:44,427 - lightrag - INFO - Merge N: Cigarette smoking cessation, DYSLIPIDAEMIA, Total Cholesterol, LDL-Cholesterol *, HDL-Cholesterol, Triglycerides, Men, Women <4.5 mmol/L, <1.8 mmol/L >  | 2+0
+2025-08-01 14:30:46,731 - lightrag - INFO - Merge N: The aim is to lose 5 – 10% of body weight; maintain weight loss; prevent weight regain. The optimal rate of weight loss is 1 – 2 kg per month. This guideline provides a target for weight loss and the recommended rate for type 2 diabetes patients. | 2+0
+2025-08-01 14:30:47,615 - lightrag - INFO - Merge N: Primary Care Level Management | 3+0
+2025-08-01 14:30:49,406 - lightrag - INFO - Merge N: Hypertension | 3+0
+2025-08-01 14:30:49,406 - lightrag - INFO - Merge N: Metabolic Syndrome | 2+0
+2025-08-01 14:30:59,343 - lightrag - INFO - Merge N: South Africa | 2+0
+2025-08-01 14:31:01,109 - lightrag - INFO - Merge N: Retinopathy | 2+0
+2025-08-01 14:31:01,109 - lightrag - INFO - Merge N: Nephropathy | 2+0
+2025-08-01 14:31:05,353 - lightrag - INFO - Merge N: HIV | 2+0
+2025-08-01 14:31:09,154 - lightrag - INFO - Merge N: Type 1 Diabetes | 2+0
+2025-08-01 14:31:10,787 - lightrag - INFO - Merge N: Gliclazide | 2+0
+2025-08-01 14:31:18,270 - lightrag - INFO - Merge N: American Diabetes Association | 2+0
+2025-08-01 14:31:20,418 - lightrag - INFO - Merge N: Tuberculosis (TB) | 2+0
+2025-08-01 14:31:24,502 - lightrag - INFO - Merge N: SEMDSA Steering Committee | 2+0
+2025-08-01 14:31:24,670 - lightrag - INFO - Merge N: Department of Health | 2+0
+2025-08-01 14:31:31,614 - lightrag - INFO - Merge N: Canadian Diabetes Association | 2+0
+2025-08-01 14:31:59,807 - lightrag - INFO - Merge N: Monitoring of Chronic Patients  | 2+0
+2025-08-01 14:32:24,250 - lightrag - INFO - Merge E: Comprehensive Retinopathy Management Program - Diabetic Eye Care Plan | 2+0
+2025-08-01 14:33:28,918 - lightrag - INFO - Merge E: Pharmacy Personnel  - Ward-based PHC Outreach Teams  | 3+0
+2025-08-01 14:33:29,379 - lightrag - INFO - Merge E: Local Podiatrists  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 14:33:30,038 - lightrag - INFO - Merge E: Referral Protocols  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 14:33:31,950 - lightrag - INFO - Merge E: In-service Training  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 14:33:32,745 - lightrag - INFO - Merge E: Group Education Areas  - Ward-based PHC Outreach Teams  | 2+0
+2025-08-01 14:33:38,852 - lightrag - INFO - Writing graph with 785 nodes, 446 edges
+2025-08-01 14:33:38,877 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 14:33:38,877 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-08-01 14:33:38,877 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 14:33:38,901 - lightrag - INFO - Stored 1 new unique documents
+2025-08-01 14:33:38,902 - lightrag - INFO - Processing 1 document(s)
+2025-08-01 14:33:38,902 - lightrag - INFO - Extracting stage 1/1: unknown_source
+2025-08-01 14:33:38,902 - lightrag - INFO - Processing d-id: doc-7fe926943faf4ad81a5977db19f2ac76
+2025-08-01 14:33:39,406 - lightrag - INFO - Chunk 1 of 1 extracted 13 Ent + 12 Rel
+2025-08-01 14:33:39,406 - lightrag - INFO - Merging stage 1/1: unknown_source
+2025-08-01 14:33:39,407 - lightrag - INFO - Processing: 13 entities and 12 relations (async: 8)
+2025-08-01 14:33:46,597 - lightrag - INFO - Writing graph with 800 nodes, 458 edges
+2025-08-01 14:33:46,627 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 14:33:46,627 - lightrag - INFO - Completed processing file 1/1: unknown_source
+2025-08-01 14:33:46,628 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 14:33:47,081 - lightrag - INFO - Naive query: 10 chunks (chunk_top_k: 10)
+2025-08-01 14:33:47,081 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 14:33:47,088 - lightrag - INFO - Final context: 10 chunks
+2025-08-01 14:33:47,102 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-01 14:33:54,396 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-08-01 14:33:54,396 - lightrag - INFO - Process 213096 building query context...
+2025-08-01 14:33:54,396 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 14:33:54,890 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 14:33:54,894 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 14:33:54,895 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 14:33:54,899 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 14:33:54,906 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 14:33:58,495 - lightrag - INFO - Process 213096 building query context...
+2025-08-01 14:33:58,495 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 14:33:58,958 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 14:33:58,963 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 14:33:58,963 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 14:33:58,967 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 14:33:58,974 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 14:34:01,775 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-08-01 14:34:01,776 - lightrag - INFO - Process 213096 building query context...
+2025-08-01 14:34:01,776 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 14:34:02,226 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-01 14:34:02,231 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-01 14:34:02,231 - lightrag - INFO - KG related chunks: 16 from entitys, 14 from relations
+2025-08-01 14:34:02,236 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 14:34:02,242 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-01 14:34:04,617 - lightrag - INFO - Storage Finalization completed!
+2025-08-01 16:14:18,163 - lightrag - INFO - Created new empty graph
+2025-08-01 16:14:18,163 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-01 16:14:18,163 - lightrag - INFO - Process 245588 KV load full_docs with 0 records
+2025-08-01 16:14:18,164 - lightrag - INFO - Process 245588 KV load text_chunks with 0 records
+2025-08-01 16:14:18,177 - lightrag - INFO - Process 245588 KV load llm_response_cache with 78 records
+2025-08-01 16:14:18,177 - lightrag - INFO - Process 245588 doc status load doc_status with 0 records
+2025-08-01 16:14:18,177 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-01 16:14:18,351 - lightrag - INFO - Storage Initialization completed!
+2025-08-01 16:14:19,366 - lightrag - INFO - Stored 2 new unique documents
+2025-08-01 16:14:19,366 - lightrag - INFO - Processing 2 document(s)
+2025-08-01 16:14:19,366 - lightrag - INFO - Extracting stage 1/2: unknown_source
+2025-08-01 16:14:19,366 - lightrag - INFO - Processing d-id: doc-9df3eee697bdb1267ac01d432905579f
+2025-08-01 16:14:19,368 - lightrag - INFO - Extracting stage 2/2: unknown_source
+2025-08-01 16:14:19,368 - lightrag - INFO - Processing d-id: doc-80681e8c2fc66feb6c3ece9e9e90db38
+2025-08-01 16:14:20,751 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-01 16:14:44,663 - lightrag - INFO -  == LLM cache == saving: default:extract:e21910db5cecf5b5fb5e90916cb4516a
+2025-08-01 16:14:57,253 - lightrag - INFO -  == LLM cache == saving: default:extract:71629d250889ba41556beb07e3e034df
+2025-08-01 16:15:22,819 - lightrag - INFO -  == LLM cache == saving: default:extract:b9d6fb5cfb603add04f522c0ad3c75c6
+2025-08-01 16:15:55,854 - lightrag - INFO -  == LLM cache == saving: default:extract:c345d8aa6184334fc4bf530f566da01a
+2025-08-01 16:16:32,723 - lightrag - INFO -  == LLM cache == saving: default:extract:2fda3093640e064a66eb84914df371f5
+2025-08-01 16:16:36,682 - lightrag - INFO -  == LLM cache == saving: default:extract:ddf8e00d907a269da64cadc641efe356
+2025-08-01 16:17:20,589 - lightrag - INFO -  == LLM cache == saving: default:extract:87b4d6dbd23e83e374122fdab0592f70
+2025-08-01 16:17:20,589 - lightrag - INFO - Chunk 1 of 2 extracted 5 Ent + 4 Rel
+2025-08-01 16:17:23,394 - lightrag - INFO -  == LLM cache == saving: default:extract:b445f98f80d3d069e7526781e048affc
+2025-08-01 16:17:23,394 - lightrag - INFO - Chunk 2 of 2 extracted 15 Ent + 11 Rel
+2025-08-01 16:17:23,395 - lightrag - INFO - Merging stage 1/2: unknown_source
+2025-08-01 16:17:23,395 - lightrag - INFO - Processing: 20 entities and 15 relations (async: 8)
+2025-08-01 16:17:31,531 - lightrag - INFO - Writing graph with 20 nodes, 15 edges
+2025-08-01 16:17:31,545 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 16:17:31,546 - lightrag - INFO - Completed processing file 1/2: unknown_source
+2025-08-01 16:18:02,601 - lightrag - INFO -  == LLM cache == saving: default:extract:1e2ad490154609f561790296f5dbef3d
+2025-08-01 16:18:02,602 - lightrag - INFO - Chunk 1 of 45 extracted 26 Ent + 17 Rel
+2025-08-01 16:18:36,374 - lightrag - INFO -  == LLM cache == saving: default:extract:73a8770f0f2369338874ca8586fd552d
+2025-08-01 16:18:36,374 - lightrag - INFO - Chunk 2 of 45 extracted 14 Ent + 13 Rel
+2025-08-01 16:18:40,631 - lightrag - INFO -  == LLM cache == saving: default:extract:5b9aab5d28d9348d99f5992e3f90f5fe
+2025-08-01 16:18:40,632 - lightrag - INFO - Chunk 3 of 45 extracted 61 Ent + 2 Rel
+2025-08-01 16:19:16,978 - lightrag - INFO -  == LLM cache == saving: default:extract:dcc10c0b6c41538fe060736e66bcbd59
+2025-08-01 16:19:28,823 - lightrag - INFO -  == LLM cache == saving: default:extract:0c74f9a1c32bdbe1e616a850c0c4717c
+2025-08-01 16:19:28,824 - lightrag - INFO - Chunk 4 of 45 extracted 13 Ent + 11 Rel
+2025-08-01 16:19:55,072 - lightrag - INFO -  == LLM cache == saving: default:extract:a20ccede9de3d80aae8e7d81608b6a9a
+2025-08-01 16:20:03,891 - lightrag - INFO -  == LLM cache == saving: default:extract:d57da000a5ca2d43c77707cceae83add
+2025-08-01 16:20:51,287 - lightrag - INFO -  == LLM cache == saving: default:extract:080572c3464168e4eef4e343085917ed
+2025-08-01 16:20:51,288 - lightrag - INFO - Chunk 5 of 45 extracted 14 Ent + 11 Rel
+2025-08-01 16:21:56,962 - lightrag - INFO -  == LLM cache == saving: default:extract:1e6e263927a24df4449d4a9f5bbd38d4
+2025-08-01 16:21:56,963 - lightrag - INFO - Chunk 6 of 45 extracted 19 Ent + 17 Rel
+2025-08-01 16:22:37,242 - lightrag - INFO -  == LLM cache == saving: default:extract:41c7598087b327cecb6543b7fca698c5
+2025-08-01 16:22:44,108 - lightrag - INFO -  == LLM cache == saving: default:extract:4aa34093bc18a663990260c54d660daa
+2025-08-01 16:22:44,108 - lightrag - INFO - Chunk 7 of 45 extracted 9 Ent + 6 Rel
+2025-08-01 16:23:25,632 - lightrag - INFO -  == LLM cache == saving: default:extract:d1b8b28293ca52b28043f5dc5a37932d
+2025-08-01 16:23:29,918 - lightrag - INFO -  == LLM cache == saving: default:extract:d2f6e823f08fd6834e538893952a2568
+2025-08-01 16:24:20,343 - lightrag - INFO -  == LLM cache == saving: default:extract:a617055d595645bf5b76ede6b33dab66
+2025-08-01 16:24:20,344 - lightrag - INFO - Chunk 8 of 45 extracted 37 Ent + 41 Rel
+2025-08-01 16:24:43,130 - lightrag - INFO -  == LLM cache == saving: default:extract:67c82fe06b625b1d1c39b237c99ab751
+2025-08-01 16:24:55,553 - lightrag - INFO -  == LLM cache == saving: default:extract:6e859624832336dd6adb3a120953d806
+2025-08-01 16:24:55,554 - lightrag - INFO - Chunk 9 of 45 extracted 19 Ent + 9 Rel
+2025-08-01 16:25:23,599 - lightrag - INFO -  == LLM cache == saving: default:extract:9d0c3d5b21938045bdd1c3531dcab6fb
+2025-08-01 16:25:35,278 - lightrag - INFO -  == LLM cache == saving: default:extract:1a86c37bd399e05ed157eb553b405b5f
+2025-08-01 16:25:35,278 - lightrag - INFO - Chunk 10 of 45 extracted 10 Ent + 9 Rel
+2025-08-01 16:25:56,185 - lightrag - INFO -  == LLM cache == saving: default:extract:31b7e957163d80bc9757d7dfcd1093d7
+2025-08-01 16:25:56,186 - lightrag - INFO - Chunk 11 of 45 extracted 13 Ent + 9 Rel
+2025-08-01 16:26:28,612 - lightrag - INFO -  == LLM cache == saving: default:extract:e7e09707c3bfe42b0d6f74b732563767
+2025-08-01 16:26:53,375 - lightrag - INFO -  == LLM cache == saving: default:extract:faf778d585ab12e2ba26198aa6f48709
+2025-08-01 16:26:53,376 - lightrag - INFO - Chunk 12 of 45 extracted 32 Ent + 16 Rel
+2025-08-01 16:27:30,593 - lightrag - INFO -  == LLM cache == saving: default:extract:e47fe1df5213fe98e9d4e5cdc9747142
+2025-08-01 16:28:34,825 - lightrag - INFO -  == LLM cache == saving: default:extract:0a5291344adace9caa2e0241c9ad4d13
+2025-08-01 16:28:36,489 - lightrag - INFO -  == LLM cache == saving: default:extract:7ed7a8c6302233ee4ce890505d447a05
+2025-08-01 16:28:36,490 - lightrag - INFO - Chunk 13 of 45 extracted 26 Ent + 24 Rel
+2025-08-01 16:29:00,047 - lightrag - INFO -  == LLM cache == saving: default:extract:6271d365cdcd0fbdae849e75c9e7a399
+2025-08-01 16:29:20,535 - lightrag - INFO -  == LLM cache == saving: default:extract:2715de79d63235b8df382cff8e27be37
+2025-08-01 16:29:20,535 - lightrag - INFO - Chunk 14 of 45 extracted 12 Ent + 9 Rel
+2025-08-01 16:29:45,763 - lightrag - INFO -  == LLM cache == saving: default:extract:43357dd50a46b039c405fdb47ab0b4b3
+2025-08-01 16:29:45,764 - lightrag - INFO - Chunk 15 of 45 extracted 50 Ent + 5 Rel
+2025-08-01 16:30:28,951 - lightrag - INFO -  == LLM cache == saving: default:extract:273a6fccc43a11dd8673a2bd29a80237
+2025-08-01 16:30:36,325 - lightrag - INFO -  == LLM cache == saving: default:extract:661aae037a9563a03853f74db8ae87f4
+2025-08-01 16:30:36,326 - lightrag - INFO - Chunk 16 of 45 extracted 8 Ent + 10 Rel
+2025-08-01 16:31:16,106 - lightrag - INFO -  == LLM cache == saving: default:extract:6dd04633b1992159245c35460b47a194
+2025-08-01 16:31:16,840 - lightrag - INFO -  == LLM cache == saving: default:extract:25402b29d862b6644d63f9d6f259f943
+2025-08-01 16:31:49,391 - lightrag - INFO -  == LLM cache == saving: default:extract:f8280829663160637cc16f2260c1be30
+2025-08-01 16:32:05,824 - lightrag - INFO -  == LLM cache == saving: default:extract:e9e85d9552b83be5b1a1d553e8689a56
+2025-08-01 16:32:05,824 - lightrag - INFO - Chunk 17 of 45 extracted 22 Ent + 16 Rel
+2025-08-01 16:32:37,214 - lightrag - INFO -  == LLM cache == saving: default:extract:263c3527f5944260d612ad87e1267abc
+2025-08-01 16:32:37,214 - lightrag - INFO - Chunk 18 of 45 extracted 21 Ent + 14 Rel
+2025-08-01 16:32:54,811 - lightrag - INFO -  == LLM cache == saving: default:extract:43b610979d05f57c3a619b4088713045
+2025-08-01 16:32:54,812 - lightrag - INFO - Chunk 19 of 45 extracted 23 Ent + 19 Rel
+2025-08-01 16:33:27,733 - lightrag - INFO -  == LLM cache == saving: default:extract:56253ddc3abfa8defe1e418d781b6236
+2025-08-01 16:33:27,734 - lightrag - INFO - Chunk 20 of 45 extracted 20 Ent + 14 Rel
+2025-08-01 16:33:48,262 - lightrag - INFO -  == LLM cache == saving: default:extract:06ccad3223f5dd7fb20f066c21d7ad55
+2025-08-01 16:33:55,436 - lightrag - INFO -  == LLM cache == saving: default:extract:08a003a2381405964437f0a4ebcb770b
+2025-08-01 16:34:27,286 - lightrag - INFO -  == LLM cache == saving: default:extract:528af8464b76ad7b3f03d2f75ba1745a
+2025-08-01 16:35:02,267 - lightrag - INFO -  == LLM cache == saving: default:extract:dcf9b0f57c0239e2f8e2304704e7b45c
+2025-08-01 16:35:20,967 - lightrag - INFO -  == LLM cache == saving: default:extract:95cba1e2978364b4ebc5ef8126a83592
+2025-08-01 16:35:20,969 - lightrag - INFO - Chunk 21 of 45 extracted 16 Ent + 10 Rel
+2025-08-01 16:35:51,544 - lightrag - INFO -  == LLM cache == saving: default:extract:8958e288e57d049c562e137e7be48d0a
+2025-08-01 16:35:51,544 - lightrag - INFO - Chunk 22 of 45 extracted 25 Ent + 22 Rel
+2025-08-01 16:36:33,386 - lightrag - INFO -  == LLM cache == saving: default:extract:5bd6d54afc636f6e09a3ad7ba18a91a6
+2025-08-01 16:36:33,387 - lightrag - INFO - Chunk 23 of 45 extracted 21 Ent + 13 Rel
+2025-08-01 16:36:46,843 - lightrag - INFO -  == LLM cache == saving: default:extract:8c49057fdc976ed87a4239997efdd6b9
+2025-08-01 16:36:46,844 - lightrag - INFO - Chunk 24 of 45 extracted 35 Ent + 21 Rel
+2025-08-01 16:37:22,073 - lightrag - INFO -  == LLM cache == saving: default:extract:4a090b622c32edd84c766f0957640872
+2025-08-01 16:37:23,809 - lightrag - INFO -  == LLM cache == saving: default:extract:56a58e9fab8c807d707ea6cc8d57ba2c
+2025-08-01 16:38:08,577 - lightrag - INFO -  == LLM cache == saving: default:extract:cb8542c204f5e2aa9dc9222394a542e2
+2025-08-01 16:38:42,319 - lightrag - INFO -  == LLM cache == saving: default:extract:bfd09d232633eaa9635e0c4ac112d230
+2025-08-01 16:39:05,136 - lightrag - INFO -  == LLM cache == saving: default:extract:948f85ae7813794fa0a1df8a335e7740
+2025-08-01 16:39:05,136 - lightrag - INFO - Chunk 25 of 45 extracted 11 Ent + 11 Rel
+2025-08-01 16:39:30,116 - lightrag - INFO -  == LLM cache == saving: default:extract:ee5b706174b4db204ae423b08603df89
+2025-08-01 16:39:30,116 - lightrag - INFO - Chunk 26 of 45 extracted 15 Ent + 10 Rel
+2025-08-01 16:40:09,950 - lightrag - INFO -  == LLM cache == saving: default:extract:14adb3529072af4469152808d0ae65d1
+2025-08-01 16:40:09,950 - lightrag - INFO - Chunk 27 of 45 extracted 23 Ent + 10 Rel
+2025-08-01 16:40:21,745 - lightrag - INFO -  == LLM cache == saving: default:extract:69457266eac59cdf0b1455c3cf4c205a
+2025-08-01 16:40:21,745 - lightrag - INFO - Chunk 28 of 45 extracted 32 Ent + 24 Rel
+2025-08-01 16:40:41,821 - lightrag - INFO -  == LLM cache == saving: default:extract:456b5ac2164697ffa9d7616cb13da1cf
+2025-08-01 16:41:10,292 - lightrag - INFO -  == LLM cache == saving: default:extract:946ddf58db64c60dd9e69e34bc9c6531
+2025-08-01 16:41:38,701 - lightrag - INFO -  == LLM cache == saving: default:extract:740a74b68eadcf2da5e38e31d382702f
+2025-08-01 16:41:54,583 - lightrag - INFO -  == LLM cache == saving: default:extract:7be0b6b52e4a598399e9511a1e3272ce
+2025-08-01 16:42:03,366 - lightrag - INFO -  == LLM cache == saving: default:extract:a96059c860c77c11583141882a053045
+2025-08-01 16:42:03,367 - lightrag - INFO - Chunk 29 of 45 extracted 10 Ent + 7 Rel
+2025-08-01 16:42:39,052 - lightrag - INFO -  == LLM cache == saving: default:extract:b570badbb77af83d465956972282f527
+2025-08-01 16:42:39,053 - lightrag - INFO - Chunk 30 of 45 extracted 36 Ent + 16 Rel
+2025-08-01 16:43:12,758 - lightrag - INFO -  == LLM cache == saving: default:extract:ba31d51ef037cb2f25529cb325010e17
+2025-08-01 16:43:12,759 - lightrag - INFO - Chunk 31 of 45 extracted 28 Ent + 25 Rel
+2025-08-01 16:43:36,087 - lightrag - INFO -  == LLM cache == saving: default:extract:c44403df83e82fda6f6ef9d1ab56c949
+2025-08-01 16:43:36,088 - lightrag - INFO - Chunk 32 of 45 extracted 19 Ent + 18 Rel
+2025-08-01 16:43:46,397 - lightrag - INFO -  == LLM cache == saving: default:extract:d93455811c2921055ba74977dcf37a78
+2025-08-01 16:44:40,579 - lightrag - INFO -  == LLM cache == saving: default:extract:156e8198c831e238c9df9a8000ca22cd
+2025-08-01 16:46:20,963 - lightrag - INFO -  == LLM cache == saving: default:extract:67130cb597d8066e0307f1da8de32df8
+2025-08-01 16:47:22,372 - lightrag - INFO -  == LLM cache == saving: default:extract:dab9899734a8fce62f8206a67c875f09
+2025-08-01 16:47:22,373 - lightrag - INFO - Chunk 33 of 45 extracted 20 Ent + 15 Rel
+2025-08-01 16:48:39,898 - lightrag - INFO -  == LLM cache == saving: default:extract:02ba0723c9978afc37b15a89988d3599
+2025-08-01 16:48:39,899 - lightrag - INFO - Chunk 34 of 45 extracted 64 Ent + 23 Rel
+2025-08-01 16:49:20,806 - lightrag - INFO -  == LLM cache == saving: default:extract:747d3c5b982c38274c8be15b67569721
+2025-08-01 16:49:20,806 - lightrag - INFO - Chunk 35 of 45 extracted 56 Ent + 5 Rel
+2025-08-01 16:49:51,268 - lightrag - INFO -  == LLM cache == saving: default:extract:878129164da4fd0fb3eb6cd8a1aeacb7
+2025-08-01 16:50:38,448 - lightrag - INFO -  == LLM cache == saving: default:extract:a9ac53090dfbf38ed20b25fae610f748
+2025-08-01 16:51:47,650 - lightrag - INFO -  == LLM cache == saving: default:extract:81a4e28f69fe83ddcc00429c9575a5b0
+2025-08-01 16:52:40,945 - lightrag - INFO -  == LLM cache == saving: default:extract:066556832c1f11025871b398fe1f520a
+2025-08-01 16:52:40,945 - lightrag - INFO - Chunk 36 of 45 extracted 18 Ent + 13 Rel
+2025-08-01 16:53:14,655 - lightrag - INFO -  == LLM cache == saving: default:extract:2553e61abd1d33d8bbbb658254e73a0e
+2025-08-01 16:53:14,656 - lightrag - INFO - Chunk 37 of 45 extracted 22 Ent + 16 Rel
+2025-08-01 16:53:50,599 - lightrag - INFO -  == LLM cache == saving: default:extract:a75402f27d4a55f1a18a0fbc3217beff
+2025-08-01 16:53:50,599 - lightrag - INFO - Chunk 38 of 45 extracted 33 Ent + 18 Rel
+2025-08-01 16:54:26,090 - lightrag - INFO -  == LLM cache == saving: default:extract:0954bb536797b2ba521033e3a56dc22f
+2025-08-01 16:54:59,180 - lightrag - INFO -  == LLM cache == saving: default:extract:61060b17364152022ab5fbb49961be54
+2025-08-01 16:55:53,109 - lightrag - INFO -  == LLM cache == saving: default:extract:580cc7ae2893709a159f788adaac90a8
+2025-08-01 16:56:40,365 - lightrag - INFO -  == LLM cache == saving: default:extract:c11c47fa5e4d3fefd3cc5488e2c4b2b1
+2025-08-01 16:56:40,365 - lightrag - INFO - Chunk 39 of 45 extracted 14 Ent + 8 Rel
+2025-08-01 16:57:20,880 - lightrag - INFO -  == LLM cache == saving: default:extract:f2ed2c9db0aa6245bc5a8756d0e21340
+2025-08-01 16:57:20,881 - lightrag - INFO - Chunk 40 of 45 extracted 19 Ent + 10 Rel
+2025-08-01 16:58:50,253 - lightrag - INFO -  == LLM cache == saving: default:extract:87044d018f5b3ae5b4d082d9bdbcba04
+2025-08-01 16:58:50,253 - lightrag - INFO - Chunk 41 of 45 extracted 20 Ent + 13 Rel
+2025-08-01 16:59:12,625 - lightrag - INFO -  == LLM cache == saving: default:extract:8bb4814d7b77f0197d4a13657e6699c5
+2025-08-01 16:59:52,149 - lightrag - INFO -  == LLM cache == saving: default:extract:c5e9ea957599ddfca384ad39be2f752e
+2025-08-01 17:00:25,651 - lightrag - INFO -  == LLM cache == saving: default:extract:9e8ca30ebc057fe8f045d80dcc387dfc
+2025-08-01 17:00:58,749 - lightrag - INFO -  == LLM cache == saving: default:extract:8f97e130bda5d640581d227bd7a03bc3
+2025-08-01 17:00:58,749 - lightrag - INFO - Chunk 42 of 45 extracted 16 Ent + 9 Rel
+2025-08-01 17:01:52,103 - lightrag - INFO -  == LLM cache == saving: default:extract:6ff3cfdfcdc3f08a867a1b3d94659c94
+2025-08-01 17:01:52,103 - lightrag - INFO - Chunk 43 of 45 extracted 18 Ent + 14 Rel
+2025-08-01 17:02:27,824 - lightrag - INFO -  == LLM cache == saving: default:extract:5c3f1eac19559ee55f43c549e85c0d40
+2025-08-01 17:02:27,824 - lightrag - INFO - Chunk 44 of 45 extracted 12 Ent + 12 Rel
+2025-08-01 17:27:11,712 - lightrag - INFO -  == LLM cache == saving: default:extract:2a3a404bb4af26960435755dea2cc2fb
+2025-08-01 17:27:16,263 - lightrag - INFO -  == LLM cache == saving: default:extract:d82b6e6c9170e751b9f5f04e6fc1c768
+2025-08-01 17:27:16,263 - lightrag - INFO - Chunk 45 of 45 extracted 75 Ent + 0 Rel
+2025-08-01 17:27:16,264 - lightrag - INFO - Merging stage 2/2: unknown_source
+2025-08-01 17:27:16,264 - lightrag - INFO - Processing: 902 entities and 614 relations (async: 8)
+2025-08-01 17:27:16,270 - lightrag - INFO - LLM merge N: South Africa | 12+1
+2025-08-01 17:27:16,271 - lightrag - INFO - Merge N: Department of Health | 2+0
+2025-08-01 17:27:16,271 - lightrag - INFO - Merge N: Society for Endocrinology, Metabolism and Diabetes for South Africa (SEMDSA) | 2+0
+2025-08-01 17:27:18,788 - lightrag - INFO - Merge N: Directorate: Chronic Diseases, Disabilities and Geriatrics | 2+0
+2025-08-01 17:27:19,130 - lightrag - INFO - LLM merge N: Type 2 Diabetes | 13+0
+2025-08-01 17:27:21,114 - lightrag - INFO - Merge N: Follow-up | 2+0
+2025-08-01 17:27:21,279 - lightrag - INFO - LLM merge N: Hypoglycaemia | 8+0
+2025-08-01 17:27:21,833 - lightrag - INFO - LLM merge N: Obesity | 4+0
+2025-08-01 17:27:22,565 - lightrag - INFO - Merge N: Aspirin therapy | 2+0
+2025-08-01 17:27:22,793 - lightrag - INFO - LLM merge N: Hypertension | 6+0
+2025-08-01 17:27:22,820 - lightrag - INFO - Merge N: Chronic Kidney Disease (CKD) | 3+0
+2025-08-01 17:27:22,982 - lightrag - INFO - LLM merge N: Retinopathy | 4+0
+2025-08-01 17:27:23,293 - lightrag - INFO - Merge N: Pregnancy | 3+0
+2025-08-01 17:27:23,781 - lightrag - INFO - Merge N: Older Persons | 2+0
+2025-08-01 17:27:24,279 - lightrag - INFO - LLM merge N: HIV | 5+0
+2025-08-01 17:27:24,492 - lightrag - INFO - Merge N: Fasting | 3+0
+2025-08-01 17:27:25,863 - lightrag - INFO - Merge N: Tuberculosis | 2+0
+2025-08-01 17:27:26,820 - lightrag - INFO - Merge N: Rehabilitation | 3+0
+2025-08-01 17:27:27,693 - lightrag - INFO -  == LLM cache == saving: default:extract:48302a8a7e7fd5dea74121e7ae24af11
+2025-08-01 17:27:30,348 - lightrag - INFO - Merge N: Monitoring of patients with diabetes and frequency of tests | 2+0
+2025-08-01 17:27:32,264 - lightrag - INFO - Merge N: Diabetes Education | 2+0
+2025-08-01 17:27:32,533 - lightrag - INFO - Merge N: Lifestyle Modification | 3+0
+2025-08-01 17:27:32,775 - lightrag - INFO - Merge N: Foot Care | 3+0
+2025-08-01 17:27:34,739 - lightrag - INFO - Merge N: World Health Organization | 2+0
+2025-08-01 17:27:34,947 - lightrag - INFO - Merge N: Diabetes Mellitus | 3+0
+2025-08-01 17:27:35,223 - lightrag - INFO - Merge N: Metabolic Syndrome | 2+0
+2025-08-01 17:27:35,438 - lightrag - INFO - Merge N: Impaired Fasting Glucose (IFG) | 3+0
+2025-08-01 17:27:35,801 - lightrag - INFO -  == LLM cache == saving: default:extract:e9954213ab35f4079ffd337065f88491
+2025-08-01 17:27:36,041 - lightrag - INFO - LLM merge N: Impaired Glucose Tolerance (IGT) | 4+0
+2025-08-01 17:27:36,079 - lightrag - INFO - Merge N: Non-Communicable Diseases (NCDs) | 2+0
+2025-08-01 17:27:36,289 - lightrag - INFO - Merge N: Cardiovascular Disease (CVD) | 2+0
+2025-08-01 17:27:36,547 - lightrag - INFO - Merge N: Peripheral Artery Disease (PAD) | 2+0
+2025-08-01 17:27:36,794 - lightrag - INFO - Merge N: Gestational Diabetes Mellitus (GDM) | 2+0
+2025-08-01 17:27:37,044 - lightrag - INFO - Merge N: Chronic Conditions | 2+0
+2025-08-01 17:27:37,376 - lightrag - INFO -  == LLM cache == saving: default:extract:19d1dd780fc9bcaf83ead62091bf1995
+2025-08-01 17:27:37,794 - lightrag - INFO - Merge N: Annexure F | 2+0
+2025-08-01 17:27:39,645 - lightrag - INFO - Merge N: Microvascular Complications | 2+0
+2025-08-01 17:27:42,245 - lightrag - INFO -  == LLM cache == saving: default:extract:825a74b357e7bc263d90bfb375632d70
+2025-08-01 17:27:42,420 - lightrag - INFO - LLM merge N: Diabetes | 4+0
+2025-08-01 17:27:42,643 - lightrag - INFO - Merge N: Fasting Plasma Glucose (FPG) | 2+0
+2025-08-01 17:27:43,257 - lightrag - INFO - LLM merge N: World Health Organization (WHO) | 4+0
+2025-08-01 17:27:43,357 - lightrag - INFO - Merge N: High-risk individuals | 2+0
+2025-08-01 17:27:46,085 - lightrag - INFO -  == LLM cache == saving: default:extract:487f1bf3d3799ded84320c7def2abcc6
+2025-08-01 17:27:47,305 - lightrag - INFO - Merge N: Basic PHC Equipment | 2+0
+2025-08-01 17:27:47,694 - lightrag - INFO - Merge N: Patient Recall System | 2+0
+2025-08-01 17:27:48,181 - lightrag - INFO - Merge N: Support Groups | 2+0
+2025-08-01 17:27:48,680 - lightrag - INFO -  == LLM cache == saving: default:extract:514dd9f20510b14b4564c29dc6ff0c2b
+2025-08-01 17:27:52,989 - lightrag - INFO - Merge N: Waist circumference | 3+0
+2025-08-01 17:27:53,932 - lightrag - INFO - LLM merge N: HbA1c | 7+0
+2025-08-01 17:27:55,968 - lightrag - INFO -  == LLM cache == saving: default:extract:17a52e16cb307f3f68e241aed32fbd5c
+2025-08-01 17:27:56,181 - lightrag - INFO -  == LLM cache == saving: default:extract:ea27fddee14f73f5bfc1162954ec29ab
+2025-08-01 17:27:57,930 - lightrag - INFO - Merge N: Blood Pressure | 2+0
+2025-08-01 17:27:59,110 - lightrag - INFO - Merge N: Fasting Plasma Glucose | 2+0
+2025-08-01 17:27:59,950 - lightrag - INFO - Merge N: BMI | 2+0
+2025-08-01 17:28:01,562 - lightrag - INFO - Merge N: Biguanides | 2+0
+2025-08-01 17:28:01,729 - lightrag - INFO - LLM merge N: Sulphonylureas | 4+0
+2025-08-01 17:28:01,920 - lightrag - INFO -  == LLM cache == saving: default:extract:e39b0fca0adf7c9099635b12054f67d4
+2025-08-01 17:28:02,089 - lightrag - INFO - LLM merge N: Insulin | 7+0
+2025-08-01 17:28:02,089 - lightrag - INFO - LLM merge N: Metformin | 7+0
+2025-08-01 17:28:02,090 - lightrag - INFO - Merge N: Lifestyle modification | 3+0
+2025-08-01 17:28:02,902 - lightrag - INFO - Merge N: Sulphonylurea | 3+0
+2025-08-01 17:28:03,118 - lightrag - INFO - Merge N: Gliclazide | 3+0
+2025-08-01 17:28:03,281 - lightrag - INFO - Merge N: Glibenclamide | 3+0
+2025-08-01 17:28:04,410 - lightrag - INFO -  == LLM cache == saving: default:extract:a4eaf412c7359ca5e4f1eab04befca40
+2025-08-01 17:28:05,405 - lightrag - INFO - Merge N: Biphasic Insulin | 2+0
+2025-08-01 17:28:05,567 - lightrag - INFO - Merge N: Ketoacidosis | 2+0
+2025-08-01 17:28:05,758 - lightrag - INFO - Merge N: Self-Monitoring of Blood Glucose (SMBG) | 2+0
+2025-08-01 17:28:05,921 - lightrag - INFO - Merge N: Fasting Glucose | 2+0
+2025-08-01 17:28:07,108 - lightrag - INFO - LLM merge N: Diabetic Ketoacidosis (DKA) | 5+0
+2025-08-01 17:28:07,948 - lightrag - INFO - Merge N: Insulin Regimen | 2+0
+2025-08-01 17:28:09,464 - lightrag - INFO - Merge N: Intensive Insulin Therapy | 2+0
+2025-08-01 17:28:09,627 - lightrag - INFO - Merge N: Specialist Referral | 2+0
+2025-08-01 17:28:12,063 - lightrag - INFO -  == LLM cache == saving: default:extract:0de68e063e48c5ee69548317867ad8b7
+2025-08-01 17:28:12,291 - lightrag - INFO - Merge N: Therapeutic Education | 2+0
+2025-08-01 17:28:12,682 - lightrag - INFO - Merge N: Clinic | 2+0
+2025-08-01 17:28:12,845 - lightrag - INFO - Merge N: Hospital | 2+0
+2025-08-01 17:28:13,081 - lightrag - INFO - Merge N: Hyperglycaemia | 3+0
+2025-08-01 17:28:13,612 - lightrag - INFO -  == LLM cache == saving: default:extract:2d6e48767e61628ceabca5b0f50e1f60
+2025-08-01 17:28:14,744 - lightrag - INFO - Merge N: Self-Care | 3+0
+2025-08-01 17:28:17,032 - lightrag - INFO - Merge N: Gangrene | 2+0
+2025-08-01 17:28:22,082 - lightrag - INFO - Merge N: Hyperglycaemic Hyperosmolar State (HHS) | 2+0
+2025-08-01 17:28:23,026 - lightrag - INFO -  == LLM cache == saving: default:extract:be11552b9c775ef27c2b13b64de95edf
+2025-08-01 17:28:23,808 - lightrag - INFO - Merge N: Alcohol Abuse | 2+0
+2025-08-01 17:28:24,578 - lightrag - INFO - Merge N: Type 1 Diabetes | 3+0
+2025-08-01 17:28:24,767 - lightrag - INFO - Merge N: Type 2 Diabetes Mellitus | 1+1
+2025-08-01 17:28:25,381 - lightrag - INFO - LLM merge N: Dyslipidaemia | 5+0
+2025-08-01 17:28:25,920 - lightrag - INFO - Merge N: Neuropathy | 3+0
+2025-08-01 17:28:26,088 - lightrag - INFO - Merge N: Myocardial infarction | 2+0
+2025-08-01 17:28:29,232 - lightrag - INFO -  == LLM cache == saving: default:extract:3fa05b0c42dfecffc71245679fe875c9
+2025-08-01 17:28:29,630 - lightrag - INFO - Merge N: Triglycerides | 2+0
+2025-08-01 17:28:30,192 - lightrag - INFO - Merge N: Sleep Apnoea | 2+0
+2025-08-01 17:28:33,510 - lightrag - INFO -  == LLM cache == saving: default:extract:c5af815869c03ea2c4e321f57b9938b8
+2025-08-01 17:28:37,240 - lightrag - INFO - Merge N: Estimated Glomerular Filtration Rate (eGFR) | 2+0
+2025-08-01 17:28:37,240 - lightrag - INFO - Merge N: Peripheral Vascular Disease | 2+0
+2025-08-01 17:28:38,686 - lightrag - INFO - Merge N: Hyperkalemia | 2+0
+2025-08-01 17:28:39,940 - lightrag - INFO -  == LLM cache == saving: default:extract:2eab0cdfdcd2e84c321619f4ff76c623
+2025-08-01 17:28:40,994 - lightrag - INFO - Merge N: Diabetic Retinopathy | 2+0
+2025-08-01 17:28:42,340 - lightrag - INFO - Merge N: Mobile Fundus Camera | 2+0
+2025-08-01 17:28:46,956 - lightrag - INFO - Merge N: Podiatrist | 2+0
+2025-08-01 17:28:47,119 - lightrag - INFO - Merge N: Vascular Unit | 2+0
+2025-08-01 17:28:47,119 - lightrag - INFO - Merge N: Orthotist | 2+0
+2025-08-01 17:28:47,120 - lightrag - INFO - Merge N: Surgeon | 2+0
+2025-08-01 17:28:47,120 - lightrag - INFO - Merge N: Wound Care Unit | 2+0
+2025-08-01 17:28:48,481 - lightrag - INFO - Merge N: Category 0 | 2+0
+2025-08-01 17:28:48,643 - lightrag - INFO - Merge N: Category 1 | 2+0
+2025-08-01 17:28:48,644 - lightrag - INFO - Merge N: Category 2 | 2+0
+2025-08-01 17:28:49,333 - lightrag - INFO - Merge N: Patient | 2+0
+2025-08-01 17:28:50,189 - lightrag - INFO - Merge N: Charcot Foot | 2+0
+2025-08-01 17:28:52,582 - lightrag - INFO - Merge N: Periodontal Disease | 2+0
+2025-08-01 17:28:54,134 - lightrag - INFO - Merge N: Diabetic Complications | 2+0
+2025-08-01 17:28:55,726 - lightrag - INFO - Merge N: Dysglycaemia | 2+0
+2025-08-01 17:28:55,887 - lightrag - INFO - Merge N: Lipodystrophy | 2+0
+2025-08-01 17:28:56,431 - lightrag - INFO - Merge N: Type 2 diabetes | 2+0
+2025-08-01 17:28:57,267 - lightrag - INFO - Merge N: Aspirin | 2+0
+2025-08-01 17:28:57,267 - lightrag - INFO - Merge N: Glimepiride | 2+0
+2025-08-01 17:29:03,507 - lightrag - INFO - Merge N: American Diabetes Association | 3+0
+2025-08-01 17:29:08,858 - lightrag - INFO - Merge N: Calculus | 2+0
+2025-08-01 17:29:09,704 - lightrag - INFO - Merge N: SEMDSA Steering Committee | 2+0
+2025-08-01 17:29:10,397 - lightrag - INFO - Merge N: International Diabetes Federation | 2+0
+2025-08-01 17:29:10,397 - lightrag - INFO - LLM merge N: Canadian Diabetes Association | 4+0
+2025-08-01 17:29:16,823 - lightrag - INFO -  == LLM cache == saving: default:extract:628c1ef0ba1dd6ccda1f33ae0c4ff5d0
+2025-08-01 17:29:20,279 - lightrag - INFO - Merge N: Palmer AJ | 2+0
+2025-08-01 17:29:20,280 - lightrag - INFO - Merge N: Valentine WJ | 2+0
+2025-08-01 17:29:20,808 - lightrag - INFO - Merge N: Chen R | 2+0
+2025-08-01 17:29:20,970 - lightrag - INFO - Merge N: Diabetes Care | 3+0
+2025-08-01 17:29:21,826 - lightrag - INFO - Merge N: BMJ | 2+0
+2025-08-01 17:29:23,405 - lightrag - INFO - Merge N: Nephrol Dial Transplant | 2+0
+2025-08-01 17:29:24,797 - lightrag - INFO - Merge N: N Engl J Med | 2+0
+2025-08-01 17:29:28,048 - lightrag - INFO - Merge N: Reiber GE | 2+0
+2025-08-01 17:29:31,848 - lightrag - INFO - Merge N: Clinical Diabetes | 2+0
+2025-08-01 17:29:31,848 - lightrag - INFO - Merge N: Subramaniam I | 2+0
+2025-08-01 17:29:31,849 - lightrag - INFO - Merge N: Danny Gold JL | 2+0
+2025-08-01 17:29:32,539 - lightrag - INFO - Merge N: Journal of Indian Academy of Geriatrics | 2+0
+2025-08-01 17:29:41,180 - lightrag - INFO - Merge N: Ramachandran A | 2+0
+2025-08-01 17:29:41,874 - lightrag - INFO - Merge N: Snehalatha C | 2+0
+2025-08-01 17:29:42,037 - lightrag - INFO - Merge N: Mary S | 2+0
+2025-08-01 17:29:42,038 - lightrag - INFO - Merge N: ADA Position Statement | 2+0
+2025-08-01 17:29:46,742 - lightrag - INFO - Merge N: Resistance Exercise | 2+0
+2025-08-01 17:29:47,438 - lightrag - INFO - Merge N: Pharmacotherapy | 2+0
+2025-08-01 17:30:46,887 - lightrag - INFO - Merge E: Diabetic Ketoacidosis (DKA) - Hyperglycaemic Hyperosmolar State (HHS) | 2+0
+2025-08-01 17:32:07,527 - lightrag - INFO - Writing graph with 1010 nodes, 629 edges
+2025-08-01 17:32:07,563 - lightrag - INFO - In memory DB persist to disk
+2025-08-01 17:32:07,563 - lightrag - INFO - Completed processing file 2/2: unknown_source
+2025-08-01 17:32:07,563 - lightrag - INFO - Document processing pipeline completed
+2025-08-01 17:32:08,028 - lightrag - INFO - Naive query: 10 chunks (chunk_top_k: 10)
+2025-08-01 17:32:08,029 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 17:32:08,035 - lightrag - INFO - Final context: 10 chunks
+2025-08-01 17:32:10,649 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-08-01 17:32:10,649 - lightrag - INFO - Process 245588 building query context...
+2025-08-01 17:32:10,649 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 17:32:11,102 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-01 17:32:11,107 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-01 17:32:11,108 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-01 17:32:11,113 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 17:32:11,128 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-01 17:32:13,720 - lightrag - INFO - Process 245588 building query context...
+2025-08-01 17:32:13,720 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 17:32:14,192 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-01 17:32:14,197 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-01 17:32:14,198 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-01 17:32:14,203 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 17:32:14,217 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-01 17:32:16,372 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-08-01 17:32:16,372 - lightrag - INFO - Process 245588 building query context...
+2025-08-01 17:32:16,372 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-01 17:32:16,809 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-01 17:32:16,814 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-01 17:32:16,814 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-01 17:32:16,819 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-01 17:32:16,834 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-01 17:32:19,203 - lightrag - INFO - Storage Finalization completed!
+2025-08-05 11:55:47,234 - lightrag - INFO - Created new empty graph
+2025-08-05 11:55:47,234 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-05 11:55:47,235 - lightrag - INFO - Process 273080 KV load full_docs with 0 records
+2025-08-05 11:55:47,235 - lightrag - INFO - Process 273080 KV load text_chunks with 0 records
+2025-08-05 11:55:47,273 - lightrag - INFO - Process 273080 KV load llm_response_cache with 189 records
+2025-08-05 11:55:47,273 - lightrag - INFO - Process 273080 doc status load doc_status with 0 records
+2025-08-05 11:55:47,274 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-05 11:55:47,456 - lightrag - INFO - Storage Initialization completed!
+2025-08-05 11:55:56,711 - lightrag - INFO - Stored 2 new unique documents
+2025-08-05 11:55:56,711 - lightrag - INFO - Processing 2 document(s)
+2025-08-05 11:55:56,711 - lightrag - INFO - Extracting stage 1/2: unknown_source
+2025-08-05 11:55:56,711 - lightrag - INFO - Processing d-id: doc-80681e8c2fc66feb6c3ece9e9e90db38
+2025-08-05 11:55:56,749 - lightrag - INFO - Extracting stage 2/2: unknown_source
+2025-08-05 11:55:56,749 - lightrag - INFO - Processing d-id: doc-9df3eee697bdb1267ac01d432905579f
+2025-08-05 11:55:58,112 - lightrag - INFO - Chunk 1 of 2 extracted 15 Ent + 11 Rel
+2025-08-05 11:55:58,113 - lightrag - INFO - Chunk 2 of 2 extracted 5 Ent + 4 Rel
+2025-08-05 11:55:58,113 - lightrag - INFO - Merging stage 2/2: unknown_source
+2025-08-05 11:55:58,113 - lightrag - INFO - Processing: 20 entities and 15 relations (async: 8)
+2025-08-05 11:55:59,718 - lightrag - INFO - Chunk 1 of 45 extracted 14 Ent + 13 Rel
+2025-08-05 11:55:59,719 - lightrag - INFO - Chunk 2 of 45 extracted 61 Ent + 2 Rel
+2025-08-05 11:55:59,720 - lightrag - INFO - Chunk 3 of 45 extracted 26 Ent + 17 Rel
+2025-08-05 11:55:59,721 - lightrag - INFO - Chunk 4 of 45 extracted 13 Ent + 11 Rel
+2025-08-05 11:55:59,722 - lightrag - INFO - Chunk 5 of 45 extracted 14 Ent + 11 Rel
+2025-08-05 11:55:59,722 - lightrag - INFO - Chunk 6 of 45 extracted 9 Ent + 6 Rel
+2025-08-05 11:55:59,723 - lightrag - INFO - Chunk 7 of 45 extracted 19 Ent + 17 Rel
+2025-08-05 11:55:59,725 - lightrag - INFO - Chunk 8 of 45 extracted 37 Ent + 41 Rel
+2025-08-05 11:55:59,726 - lightrag - INFO - Chunk 9 of 45 extracted 19 Ent + 9 Rel
+2025-08-05 11:55:59,726 - lightrag - INFO - Chunk 10 of 45 extracted 10 Ent + 9 Rel
+2025-08-05 11:55:59,727 - lightrag - INFO - Chunk 11 of 45 extracted 13 Ent + 9 Rel
+2025-08-05 11:55:59,728 - lightrag - INFO - Chunk 12 of 45 extracted 32 Ent + 16 Rel
+2025-08-05 11:55:59,729 - lightrag - INFO - Chunk 13 of 45 extracted 26 Ent + 24 Rel
+2025-08-05 11:55:59,730 - lightrag - INFO - Chunk 14 of 45 extracted 50 Ent + 5 Rel
+2025-08-05 11:55:59,730 - lightrag - INFO - Chunk 15 of 45 extracted 12 Ent + 9 Rel
+2025-08-05 11:55:59,731 - lightrag - INFO - Chunk 16 of 45 extracted 8 Ent + 10 Rel
+2025-08-05 11:55:59,732 - lightrag - INFO - Chunk 17 of 45 extracted 22 Ent + 16 Rel
+2025-08-05 11:55:59,733 - lightrag - INFO - Chunk 18 of 45 extracted 23 Ent + 19 Rel
+2025-08-05 11:55:59,733 - lightrag - INFO - Chunk 19 of 45 extracted 21 Ent + 14 Rel
+2025-08-05 11:55:59,734 - lightrag - INFO - Chunk 20 of 45 extracted 20 Ent + 14 Rel
+2025-08-05 11:55:59,735 - lightrag - INFO - Chunk 21 of 45 extracted 25 Ent + 22 Rel
+2025-08-05 11:55:59,736 - lightrag - INFO - Chunk 22 of 45 extracted 16 Ent + 10 Rel
+2025-08-05 11:55:59,742 - lightrag - INFO - Chunk 23 of 45 extracted 35 Ent + 21 Rel
+2025-08-05 11:55:59,743 - lightrag - INFO - Chunk 24 of 45 extracted 21 Ent + 13 Rel
+2025-08-05 11:55:59,744 - lightrag - INFO - Chunk 25 of 45 extracted 23 Ent + 10 Rel
+2025-08-05 11:55:59,744 - lightrag - INFO - Chunk 26 of 45 extracted 11 Ent + 11 Rel
+2025-08-05 11:55:59,745 - lightrag - INFO - Chunk 27 of 45 extracted 32 Ent + 24 Rel
+2025-08-05 11:55:59,746 - lightrag - INFO - Chunk 28 of 45 extracted 15 Ent + 10 Rel
+2025-08-05 11:55:59,747 - lightrag - INFO - Chunk 29 of 45 extracted 36 Ent + 16 Rel
+2025-08-05 11:55:59,748 - lightrag - INFO - Chunk 30 of 45 extracted 10 Ent + 7 Rel
+2025-08-05 11:55:59,749 - lightrag - INFO - Chunk 31 of 45 extracted 19 Ent + 18 Rel
+2025-08-05 11:55:59,750 - lightrag - INFO - Chunk 32 of 45 extracted 28 Ent + 25 Rel
+2025-08-05 11:55:59,751 - lightrag - INFO - Chunk 33 of 45 extracted 20 Ent + 15 Rel
+2025-08-05 11:55:59,752 - lightrag - INFO - Chunk 34 of 45 extracted 64 Ent + 23 Rel
+2025-08-05 11:55:59,763 - lightrag - INFO - Chunk 35 of 45 extracted 75 Ent + 0 Rel
+2025-08-05 11:55:59,764 - lightrag - INFO - Chunk 36 of 45 extracted 56 Ent + 5 Rel
+2025-08-05 11:55:59,765 - lightrag - INFO - Chunk 37 of 45 extracted 18 Ent + 13 Rel
+2025-08-05 11:55:59,766 - lightrag - INFO - Chunk 38 of 45 extracted 22 Ent + 16 Rel
+2025-08-05 11:55:59,767 - lightrag - INFO - Chunk 39 of 45 extracted 33 Ent + 18 Rel
+2025-08-05 11:55:59,768 - lightrag - INFO - Chunk 40 of 45 extracted 14 Ent + 8 Rel
+2025-08-05 11:55:59,769 - lightrag - INFO - Chunk 41 of 45 extracted 19 Ent + 10 Rel
+2025-08-05 11:55:59,769 - lightrag - INFO - Chunk 42 of 45 extracted 20 Ent + 13 Rel
+2025-08-05 11:55:59,770 - lightrag - INFO - Chunk 43 of 45 extracted 16 Ent + 9 Rel
+2025-08-05 11:55:59,771 - lightrag - INFO - Chunk 44 of 45 extracted 18 Ent + 14 Rel
+2025-08-05 11:55:59,771 - lightrag - INFO - Chunk 45 of 45 extracted 12 Ent + 12 Rel
+2025-08-05 11:55:59,773 - lightrag - INFO - Merging stage 1/2: unknown_source
+2025-08-05 11:55:59,773 - lightrag - INFO - Processing: 902 entities and 614 relations (async: 8)
+2025-08-05 11:55:59,775 - lightrag - INFO - Merge N: Department of Health | 2+0
+2025-08-05 11:55:59,775 - lightrag - INFO - Merge N: Society for Endocrinology, Metabolism and Diabetes for South Africa (SEMDSA) | 2+0
+2025-08-05 11:56:00,994 - lightrag - INFO - LLM merge N: South Africa | 12+1
+2025-08-05 11:56:02,768 - lightrag - INFO - Merge N: Directorate: Chronic Diseases, Disabilities and Geriatrics | 2+0
+2025-08-05 11:56:02,971 - lightrag - INFO - LLM merge N: Type 2 Diabetes | 13+0
+2025-08-05 11:56:05,979 - lightrag - INFO - Merge N: Follow-up | 2+0
+2025-08-05 11:56:07,037 - lightrag - INFO - LLM merge N: Hypoglycaemia | 8+0
+2025-08-05 11:56:07,627 - lightrag - INFO - LLM merge N: Obesity | 4+0
+2025-08-05 11:56:07,965 - lightrag - INFO - Merge N: Aspirin therapy | 2+0
+2025-08-05 11:56:07,966 - lightrag - INFO - LLM merge N: Hypertension | 6+0
+2025-08-05 11:56:08,689 - lightrag - INFO - Merge N: Chronic Kidney Disease (CKD) | 3+0
+2025-08-05 11:56:09,199 - lightrag - INFO - LLM merge N: Retinopathy | 4+0
+2025-08-05 11:56:09,200 - lightrag - INFO - Merge N: Pregnancy | 3+0
+2025-08-05 11:56:09,572 - lightrag - INFO - Merge N: Older Persons | 2+0
+2025-08-05 11:56:10,079 - lightrag - INFO - LLM merge N: HIV | 5+0
+2025-08-05 11:56:10,997 - lightrag - INFO - Merge N: Fasting | 3+0
+2025-08-05 11:56:11,211 - lightrag - INFO - Merge N: Tuberculosis | 2+0
+2025-08-05 11:56:11,722 - lightrag - INFO - Merge N: Rehabilitation | 3+0
+2025-08-05 11:56:14,607 - lightrag - INFO - Merge N: Monitoring of patients with diabetes and frequency of tests | 2+0
+2025-08-05 11:56:15,523 - lightrag - INFO - Writing graph with 83 nodes, 15 edges
+2025-08-05 11:56:16,046 - lightrag - INFO - In memory DB persist to disk
+2025-08-05 11:56:16,046 - lightrag - INFO - Completed processing file 2/2: unknown_source
+2025-08-05 11:56:16,256 - lightrag - INFO - Merge N: Diabetes Education | 2+0
+2025-08-05 11:56:16,256 - lightrag - INFO - Merge N: Lifestyle Modification | 3+0
+2025-08-05 11:56:16,257 - lightrag - INFO - Merge N: Foot Care | 3+0
+2025-08-05 11:56:17,864 - lightrag - INFO - Merge N: World Health Organization | 2+0
+2025-08-05 11:56:17,864 - lightrag - INFO - Merge N: Diabetes Mellitus | 3+0
+2025-08-05 11:56:18,409 - lightrag - INFO - Merge N: Metabolic Syndrome | 2+0
+2025-08-05 11:56:18,587 - lightrag - INFO - Merge N: Impaired Fasting Glucose (IFG) | 3+0
+2025-08-05 11:56:18,587 - lightrag - INFO - LLM merge N: Impaired Glucose Tolerance (IGT) | 4+0
+2025-08-05 11:56:18,588 - lightrag - INFO - Merge N: Non-Communicable Diseases (NCDs) | 2+0
+2025-08-05 11:56:18,588 - lightrag - INFO - Merge N: Cardiovascular Disease (CVD) | 2+0
+2025-08-05 11:56:19,319 - lightrag - INFO - Merge N: Peripheral Artery Disease (PAD) | 2+0
+2025-08-05 11:56:19,489 - lightrag - INFO - Merge N: Gestational Diabetes Mellitus (GDM) | 2+0
+2025-08-05 11:56:19,489 - lightrag - INFO - Merge N: Chronic Conditions | 2+0
+2025-08-05 11:56:20,062 - lightrag - INFO - Merge N: Annexure F | 2+0
+2025-08-05 11:56:21,670 - lightrag - INFO - Merge N: Microvascular Complications | 2+0
+2025-08-05 11:56:23,430 - lightrag - INFO - LLM merge N: Diabetes | 4+0
+2025-08-05 11:56:24,135 - lightrag - INFO - Merge N: Fasting Plasma Glucose (FPG) | 2+0
+2025-08-05 11:56:24,303 - lightrag - INFO - LLM merge N: World Health Organization (WHO) | 4+0
+2025-08-05 11:56:24,863 - lightrag - INFO - Merge N: High-risk individuals | 2+0
+2025-08-05 11:56:27,520 - lightrag - INFO - Merge N: Basic PHC Equipment | 2+0
+2025-08-05 11:56:28,078 - lightrag - INFO - Merge N: Patient Recall System | 2+0
+2025-08-05 11:56:28,247 - lightrag - INFO - Merge N: Support Groups | 2+0
+2025-08-05 11:56:32,303 - lightrag - INFO - Merge N: Waist circumference | 3+0
+2025-08-05 11:56:33,010 - lightrag - INFO - LLM merge N: HbA1c | 7+0
+2025-08-05 11:56:36,211 - lightrag - INFO - Merge N: Blood Pressure | 2+0
+2025-08-05 11:56:37,842 - lightrag - INFO - Merge N: Fasting Plasma Glucose | 2+0
+2025-08-05 11:56:38,735 - lightrag - INFO - Merge N: BMI | 2+0
+2025-08-05 11:56:40,336 - lightrag - INFO - Merge N: Biguanides | 2+0
+2025-08-05 11:56:40,336 - lightrag - INFO - LLM merge N: Sulphonylureas | 4+0
+2025-08-05 11:56:40,891 - lightrag - INFO - LLM merge N: Insulin | 7+0
+2025-08-05 11:56:41,059 - lightrag - INFO - LLM merge N: Metformin | 7+0
+2025-08-05 11:56:41,060 - lightrag - INFO - Merge N: Lifestyle modification | 3+0
+2025-08-05 11:56:41,778 - lightrag - INFO - Merge N: Sulphonylurea | 3+0
+2025-08-05 11:56:41,948 - lightrag - INFO - Merge N: Gliclazide | 3+0
+2025-08-05 11:56:41,948 - lightrag - INFO - Merge N: Glibenclamide | 3+0
+2025-08-05 11:56:43,553 - lightrag - INFO - Merge N: Biphasic Insulin | 2+0
+2025-08-05 11:56:43,553 - lightrag - INFO - Merge N: Ketoacidosis | 2+0
+2025-08-05 11:56:44,111 - lightrag - INFO - Merge N: Self-Monitoring of Blood Glucose (SMBG) | 2+0
+2025-08-05 11:56:44,279 - lightrag - INFO - Merge N: Fasting Glucose | 2+0
+2025-08-05 11:56:45,162 - lightrag - INFO - LLM merge N: Diabetic Ketoacidosis (DKA) | 5+0
+2025-08-05 11:56:45,869 - lightrag - INFO - Merge N: Insulin Regimen | 2+0
+2025-08-05 11:56:47,493 - lightrag - INFO - Merge N: Intensive Insulin Therapy | 2+0
+2025-08-05 11:56:47,493 - lightrag - INFO - Merge N: Specialist Referral | 2+0
+2025-08-05 11:56:49,090 - lightrag - INFO - Merge N: Therapeutic Education | 2+0
+2025-08-05 11:56:49,967 - lightrag - INFO - Merge N: Clinic | 2+0
+2025-08-05 11:56:49,967 - lightrag - INFO - Merge N: Hospital | 2+0
+2025-08-05 11:56:49,967 - lightrag - INFO - Merge N: Hyperglycaemia | 3+0
+2025-08-05 11:56:51,580 - lightrag - INFO - Merge N: Self-Care | 3+0
+2025-08-05 11:56:53,940 - lightrag - INFO - Merge N: Gangrene | 2+0
+2025-08-05 11:56:58,817 - lightrag - INFO - Merge N: Hyperglycaemic Hyperosmolar State (HHS) | 2+0
+2025-08-05 11:57:00,253 - lightrag - INFO - Merge N: Alcohol Abuse | 2+0
+2025-08-05 11:57:00,435 - lightrag - INFO - Merge N: Type 1 Diabetes | 3+0
+2025-08-05 11:57:01,145 - lightrag - INFO - Merge N: Type 2 Diabetes Mellitus | 1+1
+2025-08-05 11:57:01,871 - lightrag - INFO - LLM merge N: Dyslipidaemia | 5+0
+2025-08-05 11:57:02,056 - lightrag - INFO - Merge N: Neuropathy | 3+0
+2025-08-05 11:57:02,056 - lightrag - INFO - Merge N: Myocardial infarction | 2+0
+2025-08-05 11:57:05,297 - lightrag - INFO - Merge N: Triglycerides | 2+0
+2025-08-05 11:57:06,218 - lightrag - INFO - Merge N: Sleep Apnoea | 2+0
+2025-08-05 11:57:12,732 - lightrag - INFO - Merge N: Estimated Glomerular Filtration Rate (eGFR) | 2+0
+2025-08-05 11:57:13,299 - lightrag - INFO - Merge N: Peripheral Vascular Disease | 2+0
+2025-08-05 11:57:14,353 - lightrag - INFO - Merge N: Hyperkalemia | 2+0
+2025-08-05 11:57:16,700 - lightrag - INFO - Merge N: Diabetic Retinopathy | 2+0
+2025-08-05 11:57:17,617 - lightrag - INFO - Merge N: Mobile Fundus Camera | 2+0
+2025-08-05 11:57:22,500 - lightrag - INFO - Merge N: Podiatrist | 2+0
+2025-08-05 11:57:23,055 - lightrag - INFO - Merge N: Vascular Unit | 2+0
+2025-08-05 11:57:23,225 - lightrag - INFO - Merge N: Orthotist | 2+0
+2025-08-05 11:57:23,225 - lightrag - INFO - Merge N: Surgeon | 2+0
+2025-08-05 11:57:23,225 - lightrag - INFO - Merge N: Wound Care Unit | 2+0
+2025-08-05 11:57:24,096 - lightrag - INFO - Merge N: Category 0 | 2+0
+2025-08-05 11:57:24,653 - lightrag - INFO - Merge N: Category 1 | 2+0
+2025-08-05 11:57:24,854 - lightrag - INFO - Merge N: Category 2 | 2+0
+2025-08-05 11:57:24,854 - lightrag - INFO - Merge N: Patient | 2+0
+2025-08-05 11:57:26,278 - lightrag - INFO - Merge N: Charcot Foot | 2+0
+2025-08-05 11:57:28,754 - lightrag - INFO - Merge N: Periodontal Disease | 2+0
+2025-08-05 11:57:30,357 - lightrag - INFO - Merge N: Diabetic Complications | 2+0
+2025-08-05 11:57:31,962 - lightrag - INFO - Merge N: Dysglycaemia | 2+0
+2025-08-05 11:57:32,130 - lightrag - INFO - Merge N: Lipodystrophy | 2+0
+2025-08-05 11:57:32,676 - lightrag - INFO - Merge N: Type 2 diabetes | 2+0
+2025-08-05 11:57:33,555 - lightrag - INFO - Merge N: Aspirin | 2+0
+2025-08-05 11:57:33,726 - lightrag - INFO - Merge N: Glimepiride | 2+0
+2025-08-05 11:57:40,102 - lightrag - INFO - Merge N: American Diabetes Association | 3+0
+2025-08-05 11:57:45,403 - lightrag - INFO - Merge N: Calculus | 2+0
+2025-08-05 11:57:46,468 - lightrag - INFO - Merge N: SEMDSA Steering Committee | 2+0
+2025-08-05 11:57:47,016 - lightrag - INFO - Merge N: International Diabetes Federation | 2+0
+2025-08-05 11:57:47,186 - lightrag - INFO - LLM merge N: Canadian Diabetes Association | 4+0
+2025-08-05 11:57:56,916 - lightrag - INFO - Merge N: Palmer AJ | 2+0
+2025-08-05 11:57:56,916 - lightrag - INFO - Merge N: Valentine WJ | 2+0
+2025-08-05 11:57:56,916 - lightrag - INFO - Merge N: Chen R | 2+0
+2025-08-05 11:57:57,813 - lightrag - INFO - Merge N: Diabetes Care | 3+0
+2025-08-05 11:57:58,582 - lightrag - INFO - Merge N: BMJ | 2+0
+2025-08-05 11:58:00,194 - lightrag - INFO - Merge N: Nephrol Dial Transplant | 2+0
+2025-08-05 11:58:01,654 - lightrag - INFO - Merge N: N Engl J Med | 2+0
+2025-08-05 11:58:05,090 - lightrag - INFO - Merge N: Reiber GE | 2+0
+2025-08-05 11:58:09,297 - lightrag - INFO - Merge N: Clinical Diabetes | 2+0
+2025-08-05 11:58:09,297 - lightrag - INFO - Merge N: Subramaniam I | 2+0
+2025-08-05 11:58:09,297 - lightrag - INFO - Merge N: Danny Gold JL | 2+0
+2025-08-05 11:58:09,845 - lightrag - INFO - Merge N: Journal of Indian Academy of Geriatrics | 2+0
+2025-08-05 11:58:19,099 - lightrag - INFO - Merge N: Ramachandran A | 2+0
+2025-08-05 11:58:19,655 - lightrag - INFO - Merge N: Snehalatha C | 2+0
+2025-08-05 11:58:19,829 - lightrag - INFO - Merge N: Mary S | 2+0
+2025-08-05 11:58:19,830 - lightrag - INFO - Merge N: ADA Position Statement | 2+0
+2025-08-05 11:58:24,734 - lightrag - INFO - Merge N: Resistance Exercise | 2+0
+2025-08-05 11:58:25,469 - lightrag - INFO - Merge N: Pharmacotherapy | 2+0
+2025-08-05 11:59:27,836 - lightrag - INFO - Merge E: Diabetic Ketoacidosis (DKA) - Hyperglycaemic Hyperosmolar State (HHS) | 2+0
+2025-08-05 12:00:51,326 - lightrag - INFO - Writing graph with 1010 nodes, 629 edges
+2025-08-05 12:00:51,353 - lightrag - INFO - In memory DB persist to disk
+2025-08-05 12:00:51,353 - lightrag - INFO - Completed processing file 1/2: unknown_source
+2025-08-05 12:00:51,354 - lightrag - INFO - Document processing pipeline completed
+2025-08-05 12:00:51,823 - lightrag - INFO - Naive query: 10 chunks (chunk_top_k: 10)
+2025-08-05 12:00:51,823 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-05 12:00:51,831 - lightrag - INFO - Final context: 10 chunks
+2025-08-05 12:00:51,845 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-05 12:00:59,499 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-08-05 12:00:59,499 - lightrag - INFO - Process 273080 building query context...
+2025-08-05 12:00:59,500 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-05 12:00:59,953 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-05 12:00:59,958 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-05 12:00:59,959 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-05 12:00:59,963 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-05 12:00:59,978 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-05 12:01:08,671 - lightrag - INFO - Process 273080 building query context...
+2025-08-05 12:01:08,672 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-05 12:01:09,139 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-05 12:01:09,145 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-05 12:01:09,145 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-05 12:01:09,150 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-05 12:01:09,165 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-05 12:01:13,043 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-08-05 12:01:13,043 - lightrag - INFO - Process 273080 building query context...
+2025-08-05 12:01:13,044 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-05 12:01:13,503 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-05 12:01:13,508 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-05 12:01:13,509 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-05 12:01:13,514 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-05 12:01:13,529 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-05 12:01:18,805 - lightrag - INFO - Storage Finalization completed!
+2025-08-07 13:01:17,958 - lightrag - INFO - Loaded graph from C:\Users\2132249\Desktop\repos\lightRAG-pip\t2d-ground-truth\graph_chunk_entity_relation.graphml with 1010 nodes, 629 edges
+2025-08-07 13:01:18,010 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-07 13:01:18,019 - lightrag - INFO - Process 275416 KV load full_docs with 2 records
+2025-08-07 13:01:18,035 - lightrag - INFO - Process 275416 KV load text_chunks with 47 records
+2025-08-07 13:01:18,072 - lightrag - INFO - Process 275416 KV load llm_response_cache with 189 records
+2025-08-07 13:01:18,079 - lightrag - INFO - Process 275416 doc status load doc_status with 2 records
+2025-08-07 13:01:18,079 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-07 13:01:18,259 - lightrag - INFO - Storage Initialization completed!
+2025-08-07 13:01:21,492 - lightrag - INFO - No new unique documents were found.
+2025-08-07 13:01:21,492 - lightrag - INFO - No documents to process
+2025-08-07 13:01:21,950 - lightrag - INFO - Naive query: 10 chunks (chunk_top_k: 10)
+2025-08-07 13:01:21,951 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-07 13:01:21,958 - lightrag - INFO - Final context: 10 chunks
+2025-08-07 13:01:21,971 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-07 13:01:30,496 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-08-07 13:01:30,496 - lightrag - INFO - Process 275416 building query context...
+2025-08-07 13:01:30,497 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-07 13:01:30,948 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-07 13:01:30,953 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-07 13:01:30,954 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-07 13:01:30,958 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-07 13:01:30,973 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-07 13:01:40,092 - lightrag - INFO - Process 275416 building query context...
+2025-08-07 13:01:40,092 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-07 13:01:40,547 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-07 13:01:40,551 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-07 13:01:40,552 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-07 13:01:40,556 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-07 13:01:40,571 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-07 13:01:44,203 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-08-07 13:01:44,203 - lightrag - INFO - Process 275416 building query context...
+2025-08-07 13:01:44,203 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-07 13:01:44,656 - lightrag - INFO - Global query: 62 entites, 40 relations
+2025-08-07 13:01:44,661 - lightrag - INFO - Truncated KG query results: 62 entities, 40 relations
+2025-08-07 13:01:44,662 - lightrag - INFO - KG related chunks: 38 from entitys, 19 from relations
+2025-08-07 13:01:44,667 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-07 13:01:44,682 - lightrag - INFO - Final context: 62 entities, 40 relations, 10 chunks
+2025-08-07 13:01:49,323 - lightrag - INFO - Storage Finalization completed!
