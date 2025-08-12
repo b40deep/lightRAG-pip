@@ -1,0 +1,1921 @@
+{
+  "table_of_contents": [
+    {
+      "title": "1. INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.49799531698227,
+          69.40484529733658
+        ],
+        [
+          180.36199736595154,
+          69.40484529733658
+        ],
+        [
+          180.36199736595154,
+          84.28211671113968
+        ],
+        [
+          49.49799531698227,
+          84.28211671113968
+        ]
+      ]
+    },
+    {
+      "title": "2. GUIDELINES FOR USE OF THE NATIONAL NUTRITION WEEK 2023 MESSAGES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.84718143939972,
+          210.5720887184143
+        ],
+        [
+          540.3590211868286,
+          210.5720887184143
+        ],
+        [
+          540.3590211868286,
+          226.05802202224731
+        ],
+        [
+          48.84718143939972,
+          226.05802202224731
+        ]
+      ]
+    },
+    {
+      "title": "3. RATIONALE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.860910803079605,
+          467.79307079315186
+        ],
+        [
+          157.15120124816895,
+          467.79307079315186
+        ],
+        [
+          157.15120124816895,
+          482.92731285095215
+        ],
+        [
+          49.860910803079605,
+          482.92731285095215
+        ]
+      ]
+    },
+    {
+      "title": "4. TARGET AUDIENCES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.74202886223793,
+          69.40404868125916
+        ],
+        [
+          191.98738539218903,
+          69.40404868125916
+        ],
+        [
+          191.98738539218903,
+          84.43451821804047
+        ],
+        [
+          49.74202886223793,
+          84.43451821804047
+        ]
+      ]
+    },
+    {
+      "title": "5. FOCUS AREAS AND COMMUNICATION OBJECTIVES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.81490743160248,
+          98.25530558824539
+        ],
+        [
+          371.80150079727173,
+          98.25530558824539
+        ],
+        [
+          371.09991455078125,
+          113.37614679336548
+        ],
+        [
+          48.61959493160248,
+          113.37614679336548
+        ]
+      ]
+    },
+    {
+      "title": "6. QUICK FACTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          49.682897955179214,
+          99.11440587043762
+        ],
+        [
+          151.22319102287292,
+          99.11440587043762
+        ],
+        [
+          150.02787852287292,
+          113.34057641029358
+        ],
+        [
+          48.487585455179214,
+          113.34057641029358
+        ]
+      ]
+    },
+    {
+      "title": "7. MESSAGES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.409590780735016,
+          181.14751017093658
+        ],
+        [
+          156.54887580871582,
+          181.14751017093658
+        ],
+        [
+          155.35356330871582,
+          195.43455398082733
+        ],
+        [
+          48.214278280735016,
+          195.43455398082733
+        ]
+      ]
+    },
+    {
+      "title": "7.1 HEALTHY EATING FOR ALL",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.510589361190796,
+          289.2142403125763
+        ],
+        [
+          233.49587774276733,
+          289.2142403125763
+        ],
+        [
+          232.30056524276733,
+          304.1024401187897
+        ],
+        [
+          48.315276861190796,
+          304.1024401187897
+        ]
+      ]
+    },
+    {
+      "title": "Tips:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.001045763492584,
+          153.84252047538757
+        ],
+        [
+          81.05956381559372,
+          153.84252047538757
+        ],
+        [
+          81.05956381559372,
+          169.6256446838379
+        ],
+        [
+          50.001045763492584,
+          169.6256446838379
+        ]
+      ]
+    },
+    {
+      "title": "7.2 EAT PLENTY OF VEGETABLES AND FRUIT EVERY DAY",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.90368592739105,
+          90.01352155208588
+        ],
+        [
+          392.7632431983948,
+          90.01352155208588
+        ],
+        [
+          391.5679306983948,
+          105.06752371788025
+        ],
+        [
+          47.70837342739105,
+          105.06752371788025
+        ]
+      ]
+    },
+    {
+      "title": "Tips:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.88250130414963,
+          559.2529993057251
+        ],
+        [
+          80.54170328378677,
+          557.7061243057251
+        ],
+        [
+          80.54170328378677,
+          573.234543800354
+        ],
+        [
+          48.88250130414963,
+          574.781418800354
+        ]
+      ]
+    },
+    {
+      "title": "7.3 EAT DRY BEANS, PEAS, LENTILS AND SOYA REGULARLY",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          49.51394534111023,
+          99.03608965873718
+        ],
+        [
+          411.50303506851196,
+          97.48920875787735
+        ],
+        [
+          410.30772256851196,
+          112.73742592334747
+        ],
+        [
+          48.31863284111023,
+          114.28430092334747
+        ]
+      ]
+    },
+    {
+      "title": "Tips:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          50.400001525878906,
+          402.2616620063782
+        ],
+        [
+          82.13209122419357,
+          400.7147870063782
+        ],
+        [
+          80.93677872419357,
+          416.35924100875854
+        ],
+        [
+          49.46661052107811,
+          417.90611600875854
+        ]
+      ]
+    },
+    {
+      "title": "7.4 PLAN AND PREPARE HEALTHY HOME MEALS RATHER THAN BUYING READY-TO-\nEAT FOOD MEALS/SNACKS OR EATING OUT FREQUENTLY",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          49.57898569107056,
+          308.3880457878113
+        ],
+        [
+          552.7115442752838,
+          308.3880457878113
+        ],
+        [
+          552.7115442752838,
+          345.6619362831116
+        ],
+        [
+          49.57898569107056,
+          345.6619362831116
+        ]
+      ]
+    },
+    {
+      "title": "Tips:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          49.65904587507248,
+          292.51088547706604
+        ],
+        [
+          80.61345559358597,
+          292.51088547706604
+        ],
+        [
+          80.61345559358597,
+          307.6911070346832
+        ],
+        [
+          49.65904587507248,
+          307.6911070346832
+        ]
+      ]
+    },
+    {
+      "title": "Tips to pack a healthy breakfast/lunch:",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.400001525878906,
+          272.7190947532654
+        ],
+        [
+          272.96865820884705,
+          272.7190947532654
+        ],
+        [
+          271.885986328125,
+          287.83143281936646
+        ],
+        [
+          49.377544820308685,
+          287.83143281936646
+        ]
+      ]
+    },
+    {
+      "title": "ANNEXURE I",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          491.7662558555603,
+          71.04865962266922
+        ],
+        [
+          561.6082763671875,
+          69.50178462266922
+        ],
+        [
+          561.6082763671875,
+          82.25927734375
+        ],
+        [
+          491.7662558555603,
+          83.69173568487167
+        ]
+      ]
+    },
+    {
+      "title": "SOUTH AFRICAN GUIDELINES FOR HEALTHY EATING (FBDGs) FOR ADULTS AND CHILDREN \nFIVE YEARS AND OLDER AND THE FOOD GUIDE",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          48.33145487308502,
+          87.79799062013626
+        ],
+        [
+          548.6904907226562,
+          86.25111562013626
+        ],
+        [
+          548.6904907226562,
+          121.03709149360657
+        ],
+        [
+          48.33145487308502,
+          122.58396649360657
+        ]
+      ]
+    },
+    {
+      "title": "ANNEXURE III",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          494.3216886520386,
+          70.36994862556458
+        ],
+        [
+          562.8467130661011,
+          70.36994862556458
+        ],
+        [
+          562.8467130661011,
+          81.57851386070251
+        ],
+        [
+          494.3216886520386,
+          81.57851386070251
+        ]
+      ]
+    },
+    {
+      "title": "USES FOR INDIGENOUS VEGETABLES, FRUIT AND LEGUMES",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          45.82574164867401,
+          104.51191055774689
+        ],
+        [
+          351.2681565284729,
+          104.51191055774689
+        ],
+        [
+          351.2681565284729,
+          116.74052202701569
+        ],
+        [
+          45.82574164867401,
+          116.74052202701569
+        ]
+      ]
+    },
+    {
+      "title": "CONVERSION GUIDE AND COOKING TIMES FOR DRY BEANS, PEAS AND LENTILS",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          49.47445785999298,
+          94.51996690034866
+        ],
+        [
+          449.4242949485779,
+          94.51996690034866
+        ],
+        [
+          449.4242949485779,
+          106.75907599925995
+        ],
+        [
+          49.47445785999298,
+          106.75907599925995
+        ]
+      ]
+    },
+    {
+      "title": "CONVERSION (Raw/cooked/tinned)",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          211.54404830932617,
+          177.2581708431244
+        ],
+        [
+          398.3612060546875,
+          177.2581708431244
+        ],
+        [
+          398.3612060546875,
+          190.52689146995544
+        ],
+        [
+          211.54404830932617,
+          190.52689146995544
+        ]
+      ]
+    },
+    {
+      "title": "COOKING TIMES",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          260.248965382576,
+          349.03581190109253
+        ],
+        [
+          353.7154235839844,
+          349.03581190109253
+        ],
+        [
+          353.7154235839844,
+          361.23949813842773
+        ],
+        [
+          260.248965382576,
+          361.23949813842773
+        ]
+      ]
+    },
+    {
+      "title": "ANNEXURE V",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          488.44817662239075,
+          71.07567965984344
+        ],
+        [
+          562.0808565616608,
+          69.52880465984344
+        ],
+        [
+          562.0808565616608,
+          82.43023216724396
+        ],
+        [
+          488.44817662239075,
+          83.97710716724396
+        ]
+      ]
+    },
+    {
+      "title": "USE A WONDERBAG OR HAY BOX TO SAVE ELECTRICITY",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          49.0350615978241,
+          89.21594363451004
+        ],
+        [
+          333.82169365882874,
+          87.66906863451004
+        ],
+        [
+          333.82169365882874,
+          100.17584228515625
+        ],
+        [
+          49.0350615978241,
+          101.17412459850311
+        ]
+      ]
+    },
+    {
+      "title": "Wonderbag",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          50.205436795949936,
+          263.9926199913025
+        ],
+        [
+          108.42653131484985,
+          262.4457449913025
+        ],
+        [
+          107.23121881484985,
+          275.0762758255005
+        ],
+        [
+          49.010124295949936,
+          276.6231508255005
+        ]
+      ]
+    },
+    {
+      "title": "Haybox",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          50.003704100847244,
+          333.375449180603
+        ],
+        [
+          89.55328452587128,
+          331.828574180603
+        ],
+        [
+          88.35797202587128,
+          344.31805086135864
+        ],
+        [
+          48.808391600847244,
+          345.86492586135864
+        ]
+      ]
+    },
+    {
+      "title": "Examples of insulation material:",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          50.22309672832489,
+          350.6594216823578
+        ],
+        [
+          207.10423278808594,
+          349.1125466823578
+        ],
+        [
+          206.532958984375,
+          361.1668231487274
+        ],
+        [
+          49.02778422832489,
+          362.7136981487274
+        ]
+      ]
+    },
+    {
+      "title": "Examples of containers for the insulation (the lid must latch or otherwise secure tightly):",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          50.400001525878906,
+          491.37333154678345
+        ],
+        [
+          477.63006591796875,
+          489.82645654678345
+        ],
+        [
+          477.63006591796875,
+          502.22589111328125
+        ],
+        [
+          50.400001525878906,
+          503.52060556411743
+        ]
+      ]
+    },
+    {
+      "title": "Method:",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          50.17264759540558,
+          597.6441349983215
+        ],
+        [
+          91.55014729499817,
+          596.0972599983215
+        ],
+        [
+          90.35483479499817,
+          608.8059182167053
+        ],
+        [
+          48.97733509540558,
+          610.3527932167053
+        ]
+      ]
+    },
+    {
+      "title": "Cooking time in the wonderbag/haybox:",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          49.81338447332382,
+          122.39483213424683
+        ],
+        [
+          240.3038113117218,
+          122.39483213424683
+        ],
+        [
+          240.3038113117218,
+          134.92544960975647
+        ],
+        [
+          49.81338447332382,
+          134.92544960975647
+        ]
+      ]
+    },
+    {
+      "title": "ANNEXURE VI",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          664.2722539901733,
+          51.30686393380165
+        ],
+        [
+          742.2383794784546,
+          50.11155143380165
+        ],
+        [
+          742.2383794784546,
+          62.4393310546875
+        ],
+        [
+          664.2722539901733,
+          62.4393310546875
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLE OF A MENU PLAN",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          118.75022506713867,
+          78.45587158203125
+        ],
+        [
+          261.02689504623413,
+          77.275705575943
+        ],
+        [
+          261.02689504623413,
+          88.41583251953125
+        ],
+        [
+          118.75022506713867,
+          89.14671850204468
+        ]
+      ]
+    },
+    {
+      "title": "ANNEXURE VII",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          483.4599914550781,
+          50.42290037870407
+        ],
+        [
+          561.7377805709839,
+          48.87602537870407
+        ],
+        [
+          561.7377805709839,
+          62.4393310546875
+        ],
+        [
+          483.4599914550781,
+          63.31331688165665
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLE OF A MASTER SHOPPING LIST",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          49.94679379463196,
+          77.35418272018433
+        ],
+        [
+          251.36720037460327,
+          75.80730772018433
+        ],
+        [
+          251.36720037460327,
+          88.41583251953125
+        ],
+        [
+          49.94679379463196,
+          89.81796705722809
+        ]
+      ]
+    },
+    {
+      "title": "ANNEXURE VIII",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          480.1754672527313,
+          78.35805469751358
+        ],
+        [
+          562.3635613918304,
+          76.81117969751358
+        ],
+        [
+          562.3635613918304,
+          89.85976284742355
+        ],
+        [
+          480.1754672527313,
+          91.40663784742355
+        ]
+      ]
+    },
+    {
+      "title": "TIPS WHEN BUYING GROCERIES",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          48.80385464429855,
+          104.27598237991333
+        ],
+        [
+          226.82039594650269,
+          102.72910737991333
+        ],
+        [
+          226.82039594650269,
+          116.45928955078125
+        ],
+        [
+          48.80385464429855,
+          117.7603440284729
+        ]
+      ]
+    },
+    {
+      "title": "Choose healthier options when buying food",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          50.03632915019989,
+          592.8098201751709
+        ],
+        [
+          243.91900420188904,
+          591.2629451751709
+        ],
+        [
+          242.72369170188904,
+          603.4628076553345
+        ],
+        [
+          48.84101665019989,
+          605.0096826553345
+        ]
+      ]
+    },
+    {
+      "title": "ANNEXURE IX",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          484.8743133544922,
+          78.4193115234375
+        ],
+        [
+          562.0687093734741,
+          77.00878179073334
+        ],
+        [
+          562.0687093734741,
+          89.54301059246063
+        ],
+        [
+          484.8743133544922,
+          91.08988559246063
+        ]
+      ]
+    },
+    {
+      "title": "5 KEYS TO SAFER FO\nO\nD",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          48.907101184129715,
+          105.47988760471344
+        ],
+        [
+          184.31335365772247,
+          103.93301260471344
+        ],
+        [
+          184.31335365772247,
+          116.57928466796875
+        ],
+        [
+          48.907101184129715,
+          117.25052154064178
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "TableCell",
+          22
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          29
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          136
+        ],
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          114
+        ],
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "TableCell",
+          136
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          140
+        ],
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          78
+        ],
+        [
+          "Span",
+          77
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "TableCell",
+          31
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          355
+        ],
+        [
+          "TableCell",
+          160
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "TableCell",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          287
+        ],
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          7
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\NNW2023-CONCEPT-FINAL"
+}

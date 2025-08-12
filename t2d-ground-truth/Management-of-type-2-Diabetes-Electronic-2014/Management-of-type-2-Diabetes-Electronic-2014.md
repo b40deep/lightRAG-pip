@@ -2,193 +2,13 @@ Management of
 
 # type 2 diabetes in adults
 
-## *AT PRIMARY CARE LEVEL - JANUARY 2014*
+# *AT PRIMARY CARE LEVEL - JANUARY 2014*
 
 ![](_page_0_Picture_3.jpeg)
 
 A Long and Healthy Life for All South Africans
 
 ![](_page_0_Picture_5.jpeg)
-
-# Foreword by the Minister
-
-![](_page_2_Picture_2.jpeg)
-
-Diabetes is a major public health problem. The rising incidence of Diabetes Type 2 is related to the effects of urbanization and unhealthy lifestyles. Research studies show that healthy eating and regular physical activity can prevent or delay the onset of Diabetes Type 2, even in high-risk individuals.
-
-Early detection and effective management may be associated with a normal lifespan and quality of life. Lifestyle modification, behavioural change, team decision-making and self-care will aid every individual with diabetes to manage his/her condition and prevent deterioration and complications.
-
-The implementation of this updated guideline, as one of the tools available to manage diabetes, will, with the cooperation of the patients and relevant health professionals, achieve the reduction of complications of diabetes and the reduction of premature mortality from diabetes. The guideline is an integral part of the Diabetes Implementation Strategy for South Africa, which was developed in response to the African Diabetes Declaration and Strategy.
-
-Health professionals should acquire the relevant knowledge, skills and attitudes needed for successful management of diabetes, so that patients can be empowered with the necessary information and skills. Support from family, friends, community and health professionals is encouraged.
-
-I would like to thank all the role players who have given many hours of their time to the development of this guideline. This collaborative effort, involving experts in various fields, has resulted in a single guideline being available in South Africa.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Dr A Motsoaledi (MP) Minister of Health
-
-![](_page_2_Picture_10.jpeg)
-
-# Statement by the Deputy Minister
-
-![](_page_3_Picture_1.jpeg)
-
-The effective implementation of this diabetes guideline will support the Negotiated Service Delivery Agreement objectives of 'increasing life expectancy' and 'decreasing maternal mortality'.
-
-This guideline will also support the achievement of some of the ambitious targets that have been set by the department, towards reducing the burden of non-communicable diseases by 2020. These targets arose from the Non-Communicable Diseases Summit held in September 2011.
-
-Prevention, screening, diagnosis, non-pharmacological and pharmacological management are included, as well as prevention and management of complications and emergencies.
-
-Persons diagnosed with diabetes, will receive comprehensive diabetes care, and will enter into a partnership with the relevant health professionals so that they may live well and healthy into old age.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Dr G Ramokgopa Deputy Minister: Health
-
-3
-
-# Acknowledgements by the Director General
-
-![](_page_4_Picture_2.jpeg)
-
-It is with very sincere appreciation that I acknowledge, on behalf of the Department of Health, the roles played by the various experts in the development of this collaborative national guideline, Updated Management of type 2 diabetes in Adults at Primary Care Level.
-
-Particular thanks are due to the members of the SEMDSA Steering Committee and the Advisory Committee, who were representing their respective organisations. Their contributions and comments gave rise to vociferous debate with ultimate agreement.
-
-The leadership provided by The Society for Endocrinology, Metabolism and Diabetes for South Africa was invaluable.
-
-Thank you, one and all.
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-Ms MP Matsoso Director-General: Health
-
-This document was compiled by Directorate: Chronic Diseases, Disabilities and Geriatrics, National Department of Health.
-
-ISBN: 978-1-920031-21-3
-
-# TABLE OF CONTENTS
-
-| Statement by the Deputy Minister 2            |  |
-|-----------------------------------------------|--|
-| Acknowledgements by the<br>Director General 3 |  |
-| Abbreviations 6                               |  |
-| Introduction 6                                |  |
-| Goals at PHC level  8                         |  |
-| Scope of the Policy guidelines 8              |  |
-
-Foreword by the Minister.......................... 1
-
-![](_page_5_Picture_2.jpeg)
-
-**A. DEFINITION, SYMPTOMS, DIAGNOSIS, SCREENING, ORGANIZATION OF DIABETES CARE...................9**
-
-|   | Definition of diabetes mellitus 9                        |  |
-|---|----------------------------------------------------------|--|
-|   | Symptoms 9                                               |  |
-|   | Diagnosis10                                              |  |
-|   | Screening for early detection11                          |  |
-|   | Organization of diabetes care 12                         |  |
-| - | Requirements at Clinic level for a<br>diabetes service12 |  |
-
-- Schedule of visits to a diabetes clinic...............................................................14
-
-![](_page_5_Picture_6.jpeg)
-
-| B. MANAGEMENT OF BLOOD          |  |
-|---------------------------------|--|
-| GLUCOSE  17                     |  |
-|                                 |  |
-| Targets for glycaemic control17 |  |
-| Glycaemic management18          |  |
-| -<br>Non-pharmacological 18     |  |
-| -<br>Pharmacological 18         |  |
-| Self monitoring of blood        |  |
-| glucose (SMBG) 22               |  |
-| "Sick days"23                   |  |
-| Follow-up 24                    |  |
-| Referrals24                     |  |
-| Hypoglycaemia25                 |  |
-| Hyperglycaemic emergencies27    |  |
-| -<br>DKA 27                     |  |
-| -<br>HHS27                      |  |
-|                                 |  |
-
-![](_page_5_Picture_8.jpeg)
-
-**C. MANAGEMENT OF COMORBIDITIES AND COMPLICATIONS IN PATIENTS WITH DIABETES ...................... 30**
-
-| Obesity30                                  |  |
-|--------------------------------------------|--|
-| Cardiovascular risk and<br>dyslipidaemia31 |  |
-| Aspirin therapy35                          |  |
-| Hypertension 35                            |  |
-| Chronic Kidney Disease (CKD) 36            |  |
-| Retinopathy38                              |  |
-| Feet40                                     |  |
-
-![](_page_6_Picture_0.jpeg)
-
-#### **D. DIABETES CARE IN SPECIFIC POPULATIONS ........................ 44**
-
-| Pregnancy 44                       |
-|------------------------------------|
-| Family planning and                |
-| pre-conception care46              |
-| Older Persons46                    |
-| High risk ethnic groups47          |
-| HIV48                              |
-| Fasting50                          |
-| High risk individuals – prevention |
-| and delay of type 2 diabetes52     |
-| Driving53                          |
-| Tuberculosis55                     |
-| Periodontal (gum) disease56        |
-| Rehabilitation56                   |
-| REFERENCES  57                     |
-| ACKNOWLEDGEMENTS  59               |
-
-![](_page_6_Picture_3.jpeg)
-
-#### **List of Algorithms, Figure and Tables**
-
-| Algorithm 1:                                                                                                                              |
-|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Non-insulin and insulin therapy19                                                                                                         |
-| Algorithm 2: Statin therapy34                                                                                                             |
-| Figure 1: Progression of<br>classic diabetic nephropathy 37                                                                               |
-| Table 1: Criteria for the diagnosis<br>of diabetes and categories of<br>intermediate hyperglycaemia 10                                    |
-| Table 2: Use of HbA1c in<br>the diagnosis of diabetes mellitus10                                                                          |
-| Table 3: Criteria for screening for<br>type 2 diabetes in asymptomatic<br>adults12                                                        |
-| Table 4: Patient history, physical<br>examination, biochemistry and<br>other activities recommended<br>for visits to a diabetes clinic 14 |
-| Table 5: Monitoring of patients<br>with diabetes and frequency<br>of tests15                                                              |
-| Table 6: Targets for fasting plasma<br>glucose, post-prandial glucose,<br>HbA1c in different patient types17                              |
-| Table 7: Differentiation between<br>the types of hyperglycaemic coma 29                                                                   |
-| Table 8: CVD risk factors and<br>targets for patients with type 2<br>diabetes32                                                           |
-
-![](_page_6_Picture_6.jpeg)
-
-| Table 9: Harmonised criteria for the                           |  |
-|----------------------------------------------------------------|--|
-| clinical diagnosis of the metabolic                            |  |
-| syndrome 33                                                    |  |
-| Table 10: Ideal lipid profile<br>for a patient with diabetes33 |  |
-| Table 11: Risk categorisation<br>system for diabetic feet42    |  |
-| Table 12: Targets for control in                               |  |
-| older persons 46                                               |  |
-
-#### **Annexures**
-
-| Annexure A1<br>Diabetes Education60                                   |
-|-----------------------------------------------------------------------|
-| Annexure A2<br>Lifestyle Modification62                               |
-| Annexure B<br>General Principles for Foot Care65                      |
-| Annexure C1<br>Foot Screening Assessment Form 66                      |
-| Annexure C2<br>Rapid screening for diabetic<br>neuropathy67           |
-| Annexure D<br>Clinic structure69                                      |
-| Annexure E<br>Glycated haemoglobin70                                  |
-| Annexure F<br>A guide to patient adherence in<br>chronic conditions71 |
 
 # ABBREVIATIONS
 
@@ -276,7 +96,7 @@ Notwithstanding the responsibilities of government, it is extremely important to
 - • Health professionals at other levels of care
 - • Provincial, District and Facility Managers and NCD Managers
 
-![](_page_10_Picture_1.jpeg)
+![](_page_4_Picture_1.jpeg)
 
 # A. DEFINITION, SYMPTOMS, DIAGNOSIS, SCREENING, ORGANIZATION OF DIABETES CARE
 
@@ -320,11 +140,11 @@ HbA1c – provided the test method meets stringent quality assurance, that the a
 
 #### *Table 2 Use of HbA1c in the diagnosis of diabetes mellitus*
 
-| Diagnosis of diabetes                                                                    | •<br>HbA1c > 6.5%<br>•<br>HbA1c < 6.5% does not exclude diagnosis by blood glucose<br>•<br>Glucose-based tests (FPG, OGTT) are still valid                                                                                                                                                                                               |  |  |
-|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|
-| Interpretation of HbA1c<br>< 6.5%                                                        | •<br>No recommendation because of insufficient evidence                                                                                                                                                                                                                                                                                  |  |  |
-| Provisos for use of HbA1c for<br>diagnosis                                               | •<br>Stringent quality assurance tests in place<br>•<br>Assays standardized to criteria aligned with international reference values<br>•<br>Low cost and wide availability<br>•<br>No conditions present which preclude accurate measurement                                                                                             |  |  |
-| Choice between HbA1c<br>and plasma glucose<br>should be based on local<br>considerations | •<br>Cost<br>•<br>Availability of equipment<br>•<br>National quality assurance system<br>•<br>Population characteristics (prevalence of malaria or haemoglobinopathies)<br>•<br>Accurate blood glucose measurement must generally be available at primary<br>health care level before introducing HbA1c measurement as a diagnostic tool |  |  |
+| Diagnosis of diabetes                                                                    | •<br>HbA1c > 6.5%<br>•<br>HbA1c < 6.5% does not exclude diagnosis by blood glucose<br>•<br>Glucose-based tests (FPG, OGTT) are still valid                                                                                                                                                                                               |  |
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Interpretation of HbA1c<br>< 6.5%                                                        | •<br>No recommendation because of insufficient evidence                                                                                                                                                                                                                                                                                  |  |
+| Provisos for use of HbA1c for<br>diagnosis                                               | •<br>Stringent quality assurance tests in place<br>•<br>Assays standardized to criteria aligned with international reference values<br>•<br>Low cost and wide availability<br>•<br>No conditions present which preclude accurate measurement                                                                                             |  |
+| Choice between HbA1c<br>and plasma glucose<br>should be based on local<br>considerations | •<br>Cost<br>•<br>Availability of equipment<br>•<br>National quality assurance system<br>•<br>Population characteristics (prevalence of malaria or haemoglobinopathies)<br>•<br>Accurate blood glucose measurement must generally be available at primary<br>health care level before introducing HbA1c measurement as a diagnostic tool |  |
 
 #### **1. Diagnosis in symptomatic individuals and unequivocal hyperglycaemia (Table 1)**
 
@@ -496,7 +316,7 @@ A process of regular audit needs to be instituted, to review implementation of i
 - • Education material
 - • Support groups
 
-![](_page_14_Picture_13.jpeg)
+![](_page_8_Picture_13.jpeg)
 
 #### 14**REFER: Annexure D - Clinic structure**
 
@@ -506,29 +326,29 @@ The frequency of examinations and tests are based on the assumption that the las
 
 #### *Table 4 Patient history, physical examination, bio-chemistry and other activities recommended during visits to a diabetes clinic*
 
-| INITIAL VISIT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |  |  |  |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| HISTORY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | PHYSICAL EXAMINATION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | BIOCHEMISTRY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |  |  |  |  |
-| •<br>Symptoms of hyperglycaemia and<br>duration<br>•<br>Relevant family history<br>•<br>Other risk factors:<br>–<br>high birth-weight baby<br>–<br>gestational diabetes<br>•<br>Relevant medical history<br>–<br>co-morbid conditions<br>–<br>symptoms of complications<br>*<br>Cardiovascular; neurological<br>*<br>bladder and sexual<br>functions (i.e. erectile<br>dysfunction)<br>*<br>Feet/vision<br>*<br>Infections<br>•<br>Medication history<br>–<br>current medicine use<br>–<br>allergies to medication<br>•<br>Symptoms of hypoglycaemia<br>•<br>Vaccinations<br>–<br>Pneumococcal (date)<br>–<br>Influenza (date)<br>•<br>Lifestyle<br>–<br>weight history<br>–<br>physical activity<br>–<br>eating pattern<br>–<br>tobacco smoking<br>–<br>alcohol consumption<br>•<br>Psycho-social<br>–<br>depression<br>–<br>occupation<br>–<br>family/community support<br>•<br>Home monitoring chart (if | •<br>Weight & height & BMI kg/m2<br>•<br>Waist circumference (cm)<br>•<br>Blood pressure (mmHg)<br>•<br>Feet<br>–<br>Inspection: soft tissue injuries,<br>ulcers, infections,<br>–<br>deformities, Footwear<br>–<br>monofilament assessment<br>–<br>vibration sense using tuning<br>fork, or pinprick sensation<br>–<br>Ankle jerk<br>–<br>peripheral neuropathy:<br>–<br>foot pulses<br>•<br>Oral cavity<br>–<br>dental caries<br>–<br>gum disease<br>•<br>Eyes<br>–<br>visual acuity<br>–<br>direct fundoscopy (dilated<br>pupils) indirect fundoscopy, or<br>fundus photographs<br>•<br>Cardiovascular system<br>•<br>Injection sites (if appropriate)<br>•<br>ECG: for patient with known<br>ischaemic heart disease, >45 years,<br>other CVD risk factors | •<br>Blood<br>–<br>glucose<br>–<br>HbA1c<br>–<br>lipids (TC, HDLC, LDLC, TG)<br>–<br>creatinine; calculate eGFR<br>–<br>potassium<br>–<br>HIV<br>•<br>Urine<br>–<br>protein: (albumin/creatinine<br>ratio)<br>OTHER ACTIVITIES<br>•<br>Education<br>–<br>Lifestyle and behavioural<br>changes including smoking<br>cessation<br>–<br>self-management<br>–<br>nutrition advice, eating habits<br>and meal planning<br>•<br>Goal setting<br>•<br>Pre-conception counselling/family<br>planning (as appropriate)<br>•<br>Medication revision/adjustment<br>•<br>Immunisations |  |  |  |  |
-| relevant)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |  |  |  |  |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | INITIAL VISIT                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HISTORY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | PHYSICAL EXAMINATION                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | BIOCHEMISTRY                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| •<br>Symptoms of hyperglycaemia and<br>duration<br>•<br>Relevant family history<br>•<br>Other risk factors:<br>–<br>high birth-weight baby<br>–<br>gestational diabetes<br>•<br>Relevant medical history<br>–<br>co-morbid conditions<br>–<br>symptoms of complications<br>*<br>Cardiovascular; neurological<br>*<br>bladder and sexual<br>functions (i.e. erectile<br>dysfunction)<br>*<br>Feet/vision<br>*<br>Infections<br>•<br>Medication history<br>–<br>current medicine use<br>–<br>allergies to medication<br>•<br>Symptoms of hypoglycaemia<br>•<br>Vaccinations<br>–<br>Pneumococcal (date)<br>–<br>Influenza (date)<br>•<br>Lifestyle<br>–<br>weight history<br>–<br>physical activity<br>–<br>eating pattern<br>–<br>tobacco smoking<br>–<br>alcohol consumption<br>•<br>Psycho-social<br>–<br>depression<br>–<br>occupation<br>–<br>family/community support<br>•<br>Home monitoring chart (if | •<br>Weight & height & BMI kg/m2<br>•<br>Waist circumference (cm)<br>•<br>Blood pressure (mmHg)<br>•<br>Feet<br>–<br>Inspection: soft tissue injuries,<br>ulcers, infections,<br>–<br>deformities, Footwear<br>–<br>monofilament assessment<br>–<br>vibration sense using tuning<br>fork, or pinprick sensation<br>–<br>Ankle jerk<br>–<br>peripheral neuropathy:<br>–<br>foot pulses<br>•<br>Oral cavity<br>–<br>dental caries<br>–<br>gum disease<br>•<br>Eyes<br>–<br>visual acuity<br>–<br>direct fundoscopy (dilated<br>pupils) indirect fundoscopy, or<br>fundus photographs<br>•<br>Cardiovascular system<br>•<br>Injection sites (if appropriate)<br>•<br>ECG: for patient with known<br>ischaemic heart disease, >45 years,<br>other CVD risk factors | •<br>Blood<br>–<br>glucose<br>–<br>HbA1c<br>–<br>lipids (TC, HDLC, LDLC, TG)<br>–<br>creatinine; calculate eGFR<br>–<br>potassium<br>–<br>HIV<br>•<br>Urine<br>–<br>protein: (albumin/creatinine<br>ratio)<br>OTHER ACTIVITIES<br>•<br>Education<br>–<br>Lifestyle and behavioural<br>changes including smoking<br>cessation<br>–<br>self-management<br>–<br>nutrition advice, eating habits<br>and meal planning<br>•<br>Goal setting<br>•<br>Pre-conception counselling/family<br>planning (as appropriate)<br>•<br>Medication revision/adjustment<br>•<br>Immunisations |
+| relevant)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 
 #### **3-6 MONTHLY VISITS UNTIL TREATMENT GOALS ARE ACHIEVED**
 
-| HISTORY                                                                                                                                                                                                                                           | PHYSICAL EXAMINATION                                                                                                                                                                                                  | BIOCHEMISTRY                                                                                                                                                                          |  |  |  |  |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|--|
-| •<br>Symptoms of hyperglycaemia and<br>duration<br>•<br>Medication<br>–<br>assess adherence and side<br>effects<br>•<br>Symptoms of hypoglycaemia<br>•<br>Lifestyle (as at initial visit)<br>•<br>Depression<br>•<br>Review home monitoring chart | •<br>Weight & BMI<br>•<br>Waist circumference<br>•<br>Blood pressure<br>•<br>Feet<br>•<br>- Inspection: soft tissue injuries,<br>ulcers, infections, deformities,<br>Footwear<br>•<br>Injection sites (if applicable) | •<br>Blood<br>–<br>glucose<br>–<br>HbA1c – 3-6 monthly if NOT<br>at target and when changing<br>medication<br>OTHER ACTIVITIES<br>As at initial visit especially medication<br>review |  |  |  |  |
-| ANNUAL VISIT                                                                                                                                                                                                                                      |                                                                                                                                                                                                                       |                                                                                                                                                                                       |  |  |  |  |
-| HISTORY                                                                                                                                                                                                                                           | PHYSICAL EXAMINATION                                                                                                                                                                                                  | BIOCHEMISTRY                                                                                                                                                                          |  |  |  |  |
-| As at initial visit                                                                                                                                                                                                                               | As at initial visit                                                                                                                                                                                                   | As at initial visit                                                                                                                                                                   |  |  |  |  |
-|                                                                                                                                                                                                                                                   | Screening for retinopathy:                                                                                                                                                                                            | OTHER ACTIVITIES                                                                                                                                                                      |  |  |  |  |
-|                                                                                                                                                                                                                                                   | •<br>2 yearly if last 2 examinations were<br>normal;                                                                                                                                                                  | As at initial visit                                                                                                                                                                   |  |  |  |  |
-|                                                                                                                                                                                                                                                   | •<br>more frequent examinations in the<br>presence of abnormalities                                                                                                                                                   |                                                                                                                                                                                       |  |  |  |  |
+| HISTORY                                                                                                                                                                                                                                           | PHYSICAL EXAMINATION                                                                                                                                                                                                  | BIOCHEMISTRY                                                                                                                                                                          |  |  |  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|--|--|
+| •<br>Symptoms of hyperglycaemia and<br>duration<br>•<br>Medication<br>–<br>assess adherence and side<br>effects<br>•<br>Symptoms of hypoglycaemia<br>•<br>Lifestyle (as at initial visit)<br>•<br>Depression<br>•<br>Review home monitoring chart | •<br>Weight & BMI<br>•<br>Waist circumference<br>•<br>Blood pressure<br>•<br>Feet<br>•<br>- Inspection: soft tissue injuries,<br>ulcers, infections, deformities,<br>Footwear<br>•<br>Injection sites (if applicable) | •<br>Blood<br>–<br>glucose<br>–<br>HbA1c – 3-6 monthly if NOT<br>at target and when changing<br>medication<br>OTHER ACTIVITIES<br>As at initial visit especially medication<br>review |  |  |  |
+| ANNUAL VISIT                                                                                                                                                                                                                                      |                                                                                                                                                                                                                       |                                                                                                                                                                                       |  |  |  |
+| HISTORY                                                                                                                                                                                                                                           | PHYSICAL EXAMINATION                                                                                                                                                                                                  | BIOCHEMISTRY                                                                                                                                                                          |  |  |  |
+| As at initial visit                                                                                                                                                                                                                               | As at initial visit                                                                                                                                                                                                   | As at initial visit                                                                                                                                                                   |  |  |  |
+|                                                                                                                                                                                                                                                   | Screening for retinopathy:                                                                                                                                                                                            | OTHER ACTIVITIES                                                                                                                                                                      |  |  |  |
+|                                                                                                                                                                                                                                                   | •<br>2 yearly if last 2 examinations were<br>normal;                                                                                                                                                                  | As at initial visit                                                                                                                                                                   |  |  |  |
+|                                                                                                                                                                                                                                                   | •<br>more frequent examinations in the<br>presence of abnormalities                                                                                                                                                   |                                                                                                                                                                                       |  |  |  |
 
 #### *Table 5 Monitoring of patients with diabetes and frequency of tests*
 
-|                                                                                                 | FREQUENCY OF TESTS |            |           |           |            |
+| TESTS/PROCEDURES                                                                                | FREQUENCY OF TESTS |            |           |           |            |
 |-------------------------------------------------------------------------------------------------|--------------------|------------|-----------|-----------|------------|
-| TESTS/PROCEDURES                                                                                | First visit        | Each Visit | 3 monthly | 6 monthly | 12 monthly |
+|                                                                                                 | First visit        | Each Visit | 3 monthly | 6 monthly | 12 monthly |
 | Blood glucose (finger prick)                                                                    | Ÿ                  | Ÿ          |           |           |            |
 | HbA1c – at target; no change in<br>treatment                                                    | Ÿ                  |            |           |           | Ÿ          |
 | HbA1c - above target or medication has<br>been adjusted                                         | Ÿ                  |            | Ÿ or      | Ÿ         |            |
@@ -569,9 +389,9 @@ Glycosuria is a poor measure of glycaemic control.
 
 If this is the only tool available, then test the second voided specimen of the day.
 
-![](_page_18_Picture_1.jpeg)
+![](_page_12_Picture_1.jpeg)
 
-## B. MANAGEMENT OF BLOOD GLUCOSE
+# B. MANAGEMENT OF BLOOD GLUCOSE
 
 #### **TARGETS FOR GLYCAEMIC CONTROL 8,9,10**
 
@@ -619,17 +439,17 @@ About 30% of users will report gastro-intestinal side-effects, which can be mini
 
 In patients with severe renal impairment, adjust metformin dose according to the table below:
 
-| eGFR                | Action                                                     |  |  |
-|---------------------|------------------------------------------------------------|--|--|
-| > 30 – 60 ml/minute | Continue, use 50% of dose (maximum 500 mg 12 hourly)       |  |  |
-|                     | Increase monitoring of renal function (every 3 – 6 months) |  |  |
-| < 30 ml/minute      | Stop metformin                                             |  |  |
+| eGFR                | Action                                                     |
+|---------------------|------------------------------------------------------------|
+| > 30 – 60 ml/minute | Continue, use 50% of dose (maximum 500 mg 12 hourly)       |
+|                     | Increase monitoring of renal function (every 3 – 6 months) |
+| < 30 ml/minute      | Stop metformin                                             |
 
 *Sulphonylureas*: Major adverse effects include hypoglycaemia (the most serious adverse effect) especially in older persons and in the presence of poly-pharmacy and weight gain (average weight gain of 5.3 kg over the first 6 years with most of the weight gain occurring in the first year of treatment). HbA1c reduction ranges from 1.5 – 2 %
 
 *Insulin*: Patients with type 2 diabetes often require insulin to achieve glycaemic control, thus insulin may be added to other therapies, as second- or third-line therapy.
 
-![](_page_19_Picture_13.jpeg)
+![](_page_13_Picture_13.jpeg)
 
 #### **STEPS 1 – 3 TO ACHIEVE EFFECTIVE GLYCAEMIC MANAGEMENT**
 
@@ -661,11 +481,11 @@ Before adding the sulphonylurea check dietary and medicine regimen adherence.
 
 Prescribe second oral agent incrementally.
 
-| STEPS                                                                                  | TREATMENT AND<br>DURATION                                                                                                                                                                                     | TARGET                                                    | CAUTION                                                                                                                                                                                                                        | CONTRA<br>INDICATIONS                                                                                                                                                                                 |
-|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Lifestyle modification<br>+ metformin at<br>maximum dose                               | Continue                                                                                                                                                                                                      | HbA1c < 7<br>Body weight further<br>reduced, if necessary |                                                                                                                                                                                                                                |                                                                                                                                                                                                       |
-| + Sulphonylurea<br>a) Gliclazide, oral -<br>every dose to be<br>taken with meals<br>OR | 40mg daily with<br>breakfast<br>Increase dose by<br>40mg daily at<br>2-weekly intervals.<br>If more than 80mg<br>daily is needed, divide<br>total daily dose in two                                           | MAX: 320mg daily,<br>in two divided<br>doses              | Hypoglycaemia<br>occurs in > 11% of<br>patients.<br>Older persons<br>Causes weight gain<br>Persons with<br>porphyria<br>During lactation                                                                                       | •<br>Brittle or unstable<br>diabetes<br>•<br>Renal impairment<br>(eGFR < 60 ml/<br>minute)<br>•<br>Severe liver<br>dysfunction<br>•<br>Allergy to<br>sulphonamides<br>Sulphonyureas<br>are ABSOLUTELY |
-| b) Glibenclamide,<br>oral - every dose<br>to be taken with<br>meals                    | 2.5mg daily with<br>breakfast<br>Increase dose by<br>2.5mg daily at<br>2-weekly intervals.<br>If 7.5mg daily or more<br>is needed, divide total<br>daily dose into two,<br>with larger dose in<br>the morning | MAX: 15 mg daily, in<br>two divided doses                 | Glibenclamide has<br>a long duration<br>of action and is<br>associated with<br>a high rate of<br>hypoglycaemia<br>Older persons – risk<br>of hypoglycaemia<br>increases<br>exponentially with<br>age (gliclazide<br>preferred) | contra-indicated in<br>renal impairment<br>- eGFR has not<br>been measured in<br>the preceding year<br>or it is < 60 ml/<br>minute/1.73m2                                                             |
+| STEPS                                                                                  | TREATMENT AND<br>DURATION                                                                                                                                                                                     | TARGET                                                    | CAUTION                                                                                                                                                                                                                        | CONTRA<br>INDICATIONS                                                                                                                                                                                                        |
+|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lifestyle modification<br>+ metformin at<br>maximum dose                               | Continue                                                                                                                                                                                                      | HbA1c < 7<br>Body weight further<br>reduced, if necessary |                                                                                                                                                                                                                                |                                                                                                                                                                                                                              |
+| + Sulphonylurea<br>a) Gliclazide, oral -<br>every dose to be<br>taken with meals<br>OR | 40mg daily with<br>breakfast<br>Increase dose by<br>40mg daily at<br>2-weekly intervals.<br>If more than 80mg<br>daily is needed, divide<br>total daily dose in two                                           | MAX: 320mg daily,<br>in two divided<br>doses              | Hypoglycaemia<br>occurs in > 11% of<br>patients.<br>Older persons<br>Causes weight gain<br>Persons with<br>porphyria<br>During lactation                                                                                       | •<br>Brittle or unstable<br>diabetes<br>•<br>Renal impairment<br>(eGFR < 60 ml/<br>minute)<br>•<br>Severe liver<br>dysfunction<br>•<br>Allergy to<br>sulphonamides<br>Sulphonyureas<br>are ABSOLUTELY<br>contra-indicated in |
+| b) Glibenclamide,<br>oral - every dose<br>to be taken with<br>meals                    | 2.5mg daily with<br>breakfast<br>Increase dose by<br>2.5mg daily at<br>2-weekly intervals.<br>If 7.5mg daily or more<br>is needed, divide total<br>daily dose into two,<br>with larger dose in<br>the morning | MAX: 15 mg daily, in<br>two divided doses                 | Glibenclamide has<br>a long duration<br>of action and is<br>associated with<br>a high rate of<br>hypoglycaemia<br>Older persons – risk<br>of hypoglycaemia<br>increases<br>exponentially with<br>age (gliclazide<br>preferred) | renal impairment<br>- eGFR has not<br>been measured in<br>the preceding year<br>or it is < 60 ml/<br>minute/1.73m2                                                                                                           |
 
 #### **ENTRY TO STEP 3**
 
@@ -1036,7 +856,7 @@ See section 8.6.2: Diabetic Ketoacidosis (DKA) and Hyperosmolar Nonketotic Diabe
 | Blood pH          | Decreased                                                                                        | Normal or slightly decreased                                                        |
 | Serum bicarbonate | Low                                                                                              | Normal or slightly decreased                                                        |
 
-![](_page_31_Picture_0.jpeg)
+![](_page_25_Picture_0.jpeg)
 
 # C. MANAGEMENT OF CO-MORBIDITIES AND COMPLICATIONS
 
@@ -1074,10 +894,10 @@ Weight loss should be supported by **'behavioural therapy'** and should involve:
 
 The South Africa Demographic and Health Survey, 2003 reported the following percentages for overweight and obese adult persons:
 
-| Age              | Overweight |       | Obese |       |
-|------------------|------------|-------|-------|-------|
-|                  | Men        | Women | Men   | Women |
-| Adults 15+ years | 21%        | 28%   | 8.8%  | 27%   |
+| Age              | Overweight |       |      | Obese |
+|------------------|------------|-------|------|-------|
+|                  | Men        | Women | Men  | Women |
+| Adults 15+ years | 21%        | 28%   | 8.8% | 27%   |
 
 These percentages infer the potential magnitude of worsening hyperglycaemia and associated complications.
 
@@ -1154,16 +974,16 @@ Other ancillary features may include the polycystic ovarian syndrome (PCOS), non
 
 #### *Table 9: Harmonised criteria for the clinical diagnosis of the Metabolic Syndrome*
 
-| Measure                      | Categorical cut points |         |
-|------------------------------|------------------------|---------|
-| Elevated waist circumference | Men                    | Women   |
-|                              | ≥ 94 cm                | ≥ 80 cm |
-| Elevated triglycerides       | ≥ 1.7 mmol/L           |         |
-| Reduced HDLC                 | < 1.0 mmol/L – males   |         |
-|                              | < 1.3 mmol/L - females |         |
-| Elevated blood pressure      | Systolic ≥ 130 and/or  |         |
-|                              | Diastolic ≥ 85 mmHg    |         |
-| Elevated fasting glucose     | ≥ 5.6 mmol/L           |         |
+| Measure                      | Categorical cut points |         |  |
+|------------------------------|------------------------|---------|--|
+| Elevated waist circumference | Men                    | Women   |  |
+|                              | ≥ 94 cm                | ≥ 80 cm |  |
+| Elevated triglycerides       | ≥ 1.7 mmol/L           |         |  |
+| Reduced HDLC                 | < 1.0 mmol/L – males   |         |  |
+|                              | < 1.3 mmol/L - females |         |  |
+| Elevated blood pressure      | Systolic ≥ 130 and/or  |         |  |
+|                              | Diastolic ≥ 85 mmHg    |         |  |
+| Elevated fasting glucose     | ≥ 5.6 mmol/L           |         |  |
 
 The presence of 3 of the 5 risk factors constitutes the diagnosis of the Metabolic syndrome.
 
@@ -1342,7 +1162,7 @@ Classic diabetic nephropathy progresses from subclinical disease through to the 
 
 #### *Figure 1: Progression of classic diabetic nephropathy*
 
-![](_page_38_Figure_1.jpeg)
+![](_page_32_Figure_1.jpeg)
 
 #### **Screening for CKD in diabetes: two tests are required**
 
@@ -1427,13 +1247,13 @@ This service should be available at District level.
 
 #### *Frequency of screening*
 
-| Diabetic retinopathy                        | Frequency of screening                          |  |
-|---------------------------------------------|-------------------------------------------------|--|
-| Nil or minimal (only a few micro-aneurysms) | Annually                                        |  |
-| Retinopathy present, other than above       | Refer patient immediately to an ophthalmologist |  |
-| High-risk (pregnancy) and no retinopathy    | See patient in 3 months                         |  |
+| Diabetic retinopathy                        | Frequency of screening                          |
+|---------------------------------------------|-------------------------------------------------|
+| Nil or minimal (only a few micro-aneurysms) | Annually                                        |
+| Retinopathy present, other than above       | Refer patient immediately to an ophthalmologist |
+| High-risk (pregnancy) and no retinopathy    | See patient in 3 months                         |
 
-## **Screening methods for DR**
+### **Screening methods for DR**
 
 - • Indirect ophthalmoscopy
 - • Direct ophthalmoscopy
@@ -1619,7 +1439,7 @@ Optimize cardiovascular risk management - BP<130/85 mm Hg, adjust statin therapy
 
 **Annexure C2: Rapid screening for diabetic neuropathy**
 
-![](_page_45_Picture_1.jpeg)
+![](_page_39_Picture_1.jpeg)
 
 # D. DIABETES CARE IN SPECIFIC POPULATIONS/SETTINGS
 
@@ -2129,7 +1949,7 @@ A patient/client who requires rehabilitation should be identified and referred e
 
 Rehabilitation will focus on empowering patients through detailed rehabilitation plans, home programmes as well as the provision of technical aids and devices (e.g. wheelchairs, low vision aids, white canes) when required.
 
-![](_page_58_Picture_1.jpeg)
+![](_page_52_Picture_1.jpeg)
 
 # REFERENCES
 
@@ -2244,7 +2064,7 @@ Sufficient time and resources should be made available in order to do this effec
 - • Effective and ongoing, and in conjunction with comprehensive healthcare.
 - • Includes the involvement of family and/or caregiver.
 
-## **Topics to be covered to achieve patient empowerment:**
+# **Topics to be covered to achieve patient empowerment:**
 
 - • Basic knowledge of diabetes
 - • The importance of good comprehensive control
@@ -2445,101 +2265,6 @@ Updated Management Of Type 2 Diabe tes In Adults At Primary Care Level
 - 2. If special insoles are needed, take them with you when buying shoes.
 - 3. The more you walk, the more the feet swell; allow for this when buying shoes.
 
-#### **Foot Screening Assessment Form**
-
-|                               | Patient Name: __________________________________<br>Hosp/Clinic number: ____________________________ |  |
-|-------------------------------|------------------------------------------------------------------------------------------------------|--|
-|                               | Year that diabetes was diagnosed: ____________________________                                       |  |
-| Diabetes treatment:           | Diet only / Oral agents / Insulin / Oral agents + insulin                                            |  |
-| Patient Name:                 | Hosp/Clinic number:                                                                                  |  |
-| Deformity or bony prominences | YES<br>NO                                                                                            |  |
-| Skin not intact (ulcer)       | YES<br>NO                                                                                            |  |
-| Plantar Callus                | YES<br>NO                                                                                            |  |
-| Neuropathy                    |                                                                                                      |  |
-
-• Monofilament left big toe (4 times) /of 4
-
-• Monofilament right big toe (4 times) /of 4
-
-| Monofilament neuropathy if score < 7/8 | YES | NO |
-|----------------------------------------|-----|----|
-|                                        |     |    |
-
-- Tuning fork right big toe ("on" twice, "off" twice) /of 4
-- Tuning fork left big toe ("on" twice, "off" twice) /of 4
-
-| Tuning fork neuropathy if score < 7/8                     | YES | NO |
-|-----------------------------------------------------------|-----|----|
-| Optional if Monofilament and/or tuning fork not available |     |    |
-| Light touch (3 spots each foot)                           | YES | NO |
-
-| Light touch neuropathy if score < 5/6           | YES | NO |
-|-------------------------------------------------|-----|----|
-| Foot pulses                                     |     |    |
-| •<br>Dorsalis pedis pulse – left – present      | YES | NO |
-| •<br>Dorsalis pedis pulse – right – present     | YES | NO |
-| •<br>Tibialis posterior pulse – left – present  | YES | NO |
-| •<br>Tibialis posterior pulse – right – present | YES | NO |
-
-| Peripheral vascular disease if both pulses absent on | YES | NO |
-|------------------------------------------------------|-----|----|
-| a foot                                               |     |    |
-| Other                                                |     |    |
-| •<br>previous ulcer                                  | YES | NO |
-| •<br>previous amputation                             | YES | NO |
-
-• Inappropriate footwear **YES NO**
-
-#### **Risk Categorisation system for diabetic feet**
-
-| Category | Risk profile                                                   | Check up frequency      | Tick one or<br>more |
-|----------|----------------------------------------------------------------|-------------------------|---------------------|
-| 0        | No sensory neuropathy and no peripheral artery disease (PAD)   | Once a year             |                     |
-| 1        | Sensory neuropathy present but no foot deformity or PAD        | Once every 6 months     |                     |
-| 2        | Sensory neuropathy and signs of foot deformity and PAD present | Once every 3 months     |                     |
-| 3        | Previous ulceration or amputation                              | Once every 1 - 3 months |                     |
-
-66
-
-**Total** /of 8
-
-**Total** /of 8
-
-| Total<br>/of 6 |
-|----------------|
-|----------------|
-
-# ANNEXURE C2
-
-#### **RAPID SCREENING FOR DIABETIC NEUROPATHY**
-
-Taken, with permission, from the Canadian Diabetes Association Clinical Practice Guidelines (2008) 37 - via the 2012 SEMDSA Guideline Committee.
-
-Multiple screening methods are published. These methods are designed to screen for the presence or absence of diabetic neuropathy, as opposed to screening for specific sites on the feet that are at risk of ulceration (multisite testing). If neuropathy is identified by either of these methods, other sites may be tested to identify high-risk areas for ulceration.
-
-#### **1. Using the 10-g Semmes-Weinstein Monofilament.**
-
-- 1. Show the 10-g Semmes-Weinstein monofilament to the patient.
-- 2. Touch it first to the patient's forehead or sternum so that the sensation is understood.
-- 3. Instruct the patient to say "yes" every time the monofilament stimulus is perceived.
-- 4. With the patient's eyes closed, apply the monofilament to the dorsum of the great toe proximal to the nail bed as shown in the illustration below. Use a smooth motion – touch the skin, bend the filament for a full second, then lift from the skin.
-- 5. Perform this stimulus 4 times per foot in an arrhythmic manner so the patient does not anticipate when the stimulus is to be applied.
-- 6. Add up all correct stimuli for a score out of 8. A score of 7 or 8 correct responses likely rules out the presence of neuropathy.
-
-![](_page_68_Picture_12.jpeg)
-
-#### 68**2. Using the 128-Hz Vibration Tuning Fork (The "On-Off" Method).**
-
-- 1. Strike the tuning fork against the palm of your hand hard enough that it will vibrate for approximately 40 seconds.
-- 2. Apply the base of the tuning fork to the patient's forehead or sternum and ensure that the vibration sensation (not just the touch sensation) is understood.
-- 3. With the patient's eyes closed, apply the tuning fork to the bony prominence situated at the dorsum of the first toe just proximal to the nail bed. Ask if the vibration sensation is perceived.
-- 4. Ask the patient to tell you when the vibration stimulus is stopped, and then dampen the tuning fork with your other hand.
-- 5. One point is assigned for each vibration sensation perceived (vibration "on"). Another point is assigned if the correct timing of dampening of the vibration is perceived (vibration "off").
-- 6. Repeat this procedure again on the same foot, then twice on the other foot in an arrhythmic manner so the patient does not anticipate when the stimulus is to be applied.
-- 7. Add up all correct stimuli for a score out of 8. A score of 7 or 8 correct responses likely rules out the presence of neuropathy.
-
-![](_page_69_Picture_8.jpeg)
-
 # ANNEXURE D
 
 ## **CLINIC STRUCTURE**
@@ -2690,45 +2415,15 @@ Some patient's lifestyles make certain adverse responses acceptable which others
 - • When the patient seeks medical attention for any other complaints such as a cold or headache he/she must inform that person about any other condition/disease and its management
 - • If a patient indicates that he/she is unable to comply with a prescribed regimen, consider an alternative not to treat might be one option, but be aware of the consequences e.g. ethical
 
-![](_page_75_Picture_13.jpeg)
-
-| Folder No. | Date (dd/mm/yyyy) | / | / |  |
-|------------|-------------------|---|---|--|
-
-#### **Self-Reporting**
-
-| Question                                                                       | Yes | No |
-|--------------------------------------------------------------------------------|-----|----|
-| Do you sometimes find it difficult to remember to take your medicine?          |     |    |
-| When you feel better, do you sometimes stop taking your medication?            |     |    |
-| Thinking back over the past four days, have you missed any of your doses?      |     |    |
-| Sometimes if you feel worse when you take the medicine, do you stop taking it? |     |    |
-
-#### **Visual Analogue Scale (VAS)**
-
-![](_page_76_Figure_5.jpeg)
-
-#### **Pill Identification Test (PIT)**
-
-| Medication | Knows the<br>name<br>(Y/N) | Knows the                            |                   | Time the medication is taken |                                   |                                        |
-|------------|----------------------------|--------------------------------------|-------------------|------------------------------|-----------------------------------|----------------------------------------|
-|            |                            | number of<br>pills per dose<br>(Y/N) | Morning<br>(hour) | Evening<br>(hour)            | Considered<br>Acceptable<br>(Y/N) | Knows any<br>additional<br>instruction |
-|            |                            |                                      |                   |                              |                                   |                                        |
-|            |                            |                                      |                   |                              |                                   |                                        |
-|            |                            |                                      |                   |                              |                                   |                                        |
-|            |                            |                                      |                   |                              |                                   |                                        |
-
-## **Pill Count**
-
-![](_page_76_Figure_9.jpeg)
+![](_page_66_Picture_13.jpeg)
 
 #### 76**Adherence Assessment**
 
-| Self-reporting        | Answered 'No' to all<br>questions | Answered 'Yes' to 1 question | Answered 'Yes' to 2 or more<br>questions |  |
-|-----------------------|-----------------------------------|------------------------------|------------------------------------------|--|
-| VAS                   | > 95%                             | 75–94%                       | Less than 75%                            |  |
-| PIT—Client knows the… | Dose, Time, and Instructions      | Dose and Time                | Dose only or confused                    |  |
-| Pill count<br>> 95%   |                                   | 75–94%                       | Less than 75%                            |  |
-| Overall Adherence     | High                              | Moderate                     | Low                                      |  |
+| Self-reporting        | Answered 'No' to all<br>questions | Answered 'Yes' to 1 question | Answered 'Yes' to 2 or more<br>questions |
+|-----------------------|-----------------------------------|------------------------------|------------------------------------------|
+| VAS                   | > 95%                             | 75–94%                       | Less than 75%                            |
+| PIT—Client knows the… | Dose, Time, and Instructions      | Dose and Time                | Dose only or confused                    |
+| Pill count            | > 95%                             | 75–94%                       | Less than 75%                            |
+| Overall Adherence     | High                              | Moderate                     | Low                                      |
 
-![](_page_77_Picture_3.jpeg)
+![](_page_67_Picture_3.jpeg)

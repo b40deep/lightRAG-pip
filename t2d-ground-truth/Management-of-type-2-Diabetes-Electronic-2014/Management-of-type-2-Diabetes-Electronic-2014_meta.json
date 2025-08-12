@@ -47,170 +47,9 @@
       ]
     },
     {
-      "title": "Foreword by the Minister",
-      "heading_level": null,
-      "page_id": 2,
-      "polygon": [
-        [
-          41.1457976102829,
-          65.76583628356457
-        ],
-        [
-          342.8220901489258,
-          64.12130503356457
-        ],
-        [
-          341.8132019042969,
-          99.24554443359375
-        ],
-        [
-          39.9817351102829,
-          100.86451850831509
-        ]
-      ]
-    },
-    {
-      "title": "Statement by the Deputy Minister",
-      "heading_level": null,
-      "page_id": 3,
-      "polygon": [
-        [
-          56.69289779663086,
-          66.23910701274872
-        ],
-        [
-          465.44609928131104,
-          66.23910701274872
-        ],
-        [
-          465.44609928131104,
-          101.25042602419853
-        ],
-        [
-          56.69289779663086,
-          101.25042602419853
-        ]
-      ]
-    },
-    {
-      "title": "Acknowledgements by the Director General",
-      "heading_level": null,
-      "page_id": 4,
-      "polygon": [
-        [
-          40.27102780342102,
-          64.16742698848248
-        ],
-        [
-          536.1381711959839,
-          64.16742698848248
-        ],
-        [
-          536.1381711959839,
-          101.56949685513973
-        ],
-        [
-          40.27102780342102,
-          101.56949685513973
-        ]
-      ]
-    },
-    {
-      "title": "TABLE OF CONTENTS",
-      "heading_level": null,
-      "page_id": 5,
-      "polygon": [
-        [
-          58.393699645996094,
-          73.38915178179741
-        ],
-        [
-          341.9250998497009,
-          73.38915178179741
-        ],
-        [
-          341.9250998497009,
-          112.06317138671875
-        ],
-        [
-          58.393699645996094,
-          112.06317138671875
-        ]
-      ]
-    },
-    {
-      "title": "D. DIABETES CARE IN SPECIFIC \nPOPULATIONS ........................ 44",
-      "heading_level": null,
-      "page_id": 6,
-      "polygon": [
-        [
-          43.087005615234375,
-          251.26651340723038
-        ],
-        [
-          198.8670196533203,
-          251.26651340723038
-        ],
-        [
-          198.8670196533203,
-          276.999755859375
-        ],
-        [
-          43.087005615234375,
-          276.999755859375
-        ]
-      ]
-    },
-    {
-      "title": "List of Algorithms, Figure\nand Tables",
-      "heading_level": null,
-      "page_id": 6,
-      "polygon": [
-        [
-          212.98199462890625,
-          251.99774169921875
-        ],
-        [
-          351.4956133365631,
-          250.36309522390366
-        ],
-        [
-          351.4956133365631,
-          276.99774169921875
-        ],
-        [
-          212.98199462890625,
-          277.4530939459801
-        ]
-      ]
-    },
-    {
-      "title": "Annexures",
-      "heading_level": null,
-      "page_id": 6,
-      "polygon": [
-        [
-          381.3045725822449,
-          420.33010244369507
-        ],
-        [
-          443.1686968803406,
-          418.68557119369507
-        ],
-        [
-          443.1686968803406,
-          431.3124475479126
-        ],
-        [
-          381.3045725822449,
-          432.9569787979126
-        ]
-      ]
-    },
-    {
       "title": "ABBREVIATIONS",
       "heading_level": null,
-      "page_id": 7,
+      "page_id": 1,
       "polygon": [
         [
           56.69289779663086,
@@ -233,7 +72,7 @@
     {
       "title": "INTRODUCTION 1,2",
       "heading_level": null,
-      "page_id": 7,
+      "page_id": 1,
       "polygon": [
         [
           56.69289779663086,
@@ -256,7 +95,7 @@
     {
       "title": "IFG and IGT are high-risk states for developing diabetes.",
       "heading_level": null,
-      "page_id": 8,
+      "page_id": 2,
       "polygon": [
         [
           42.51969909667969,
@@ -279,7 +118,7 @@
     {
       "title": "GOALS AT PRIMARY HEALTH CARE LEVEL",
       "heading_level": null,
-      "page_id": 9,
+      "page_id": 3,
       "polygon": [
         [
           56.69289779663086,
@@ -302,7 +141,7 @@
     {
       "title": "SCOPE OF THE POLICY GUIDELINES",
       "heading_level": null,
-      "page_id": 9,
+      "page_id": 3,
       "polygon": [
         [
           56.69289779663086,
@@ -325,7 +164,7 @@
     {
       "title": "Target population",
       "heading_level": null,
-      "page_id": 9,
+      "page_id": 3,
       "polygon": [
         [
           56.81279754638672,
@@ -348,7 +187,7 @@
     {
       "title": "Primary target:",
       "heading_level": null,
-      "page_id": 9,
+      "page_id": 3,
       "polygon": [
         [
           56.442119896411896,
@@ -371,7 +210,7 @@
     {
       "title": "Secondary target:",
       "heading_level": null,
-      "page_id": 9,
+      "page_id": 3,
       "polygon": [
         [
           56.408638179302216,
@@ -394,7 +233,7 @@
     {
       "title": "A. DEFINITION, SYMPTOMS, DIAGNOSIS, SCREENING, \nORGANIZATION OF DIABETES CARE",
       "heading_level": null,
-      "page_id": 10,
+      "page_id": 4,
       "polygon": [
         [
           41.677757263183594,
@@ -417,7 +256,7 @@
     {
       "title": "DEFINITION OF DIABETES MELLITUS 2,3,4,5,6",
       "heading_level": null,
-      "page_id": 10,
+      "page_id": 4,
       "polygon": [
         [
           41.408935487270355,
@@ -440,7 +279,7 @@
     {
       "title": "SYMPTOMS of diabetes",
       "heading_level": null,
-      "page_id": 10,
+      "page_id": 4,
       "polygon": [
         [
           42.2228165268898,
@@ -463,7 +302,7 @@
     {
       "title": "10\nDIAGNOSIS OF DIABETES AND OTHER CATEGORIES OF INTERMEDIATE GLYCAEMIA 2,3,4,5,6",
       "heading_level": null,
-      "page_id": 11,
+      "page_id": 5,
       "polygon": [
         [
           30.99449920654297,
@@ -486,7 +325,7 @@
     {
       "title": "Table 1 Criteria for the diagnosis of diabetes and categories of intermediate hyperglycaemia",
       "heading_level": null,
-      "page_id": 11,
+      "page_id": 5,
       "polygon": [
         [
           56.6076545715332,
@@ -509,7 +348,7 @@
     {
       "title": "Table 2 Use of HbA1c in the diagnosis of diabetes mellitus",
       "heading_level": null,
-      "page_id": 11,
+      "page_id": 5,
       "polygon": [
         [
           55.325544595718384,
@@ -532,7 +371,7 @@
     {
       "title": "1. Diagnosis in symptomatic individuals and unequivocal hyperglycaemia (Table 1)",
       "heading_level": null,
-      "page_id": 11,
+      "page_id": 5,
       "polygon": [
         [
           56.696014404296875,
@@ -555,7 +394,7 @@
     {
       "title": "2. Diagnosis in asymptomatic individuals or doubtful hyperglycaemia and high risk individuals",
       "heading_level": null,
-      "page_id": 12,
+      "page_id": 6,
       "polygon": [
         [
           41.95072650909424,
@@ -578,7 +417,7 @@
     {
       "title": "OR",
       "heading_level": null,
-      "page_id": 12,
+      "page_id": 6,
       "polygon": [
         [
           69.60930693149567,
@@ -601,7 +440,7 @@
     {
       "title": "REFER Annexure E \u2013 Glycated Haemoglobin",
       "heading_level": null,
-      "page_id": 12,
+      "page_id": 6,
       "polygon": [
         [
           42.40301388502121,
@@ -624,7 +463,7 @@
     {
       "title": "SCREENING FOR EARLY DETECTION OF TYPE 2 DIABETES IN ADULTS 2,3,4,5,6",
       "heading_level": null,
-      "page_id": 12,
+      "page_id": 6,
       "polygon": [
         [
           42.24170660972595,
@@ -647,7 +486,7 @@
     {
       "title": "or",
       "heading_level": null,
-      "page_id": 12,
+      "page_id": 6,
       "polygon": [
         [
           68.2669520676136,
@@ -670,7 +509,7 @@
     {
       "title": "12\nTable 3 Criteria for screening for type 2 diabetes in asymptomatic adults",
       "heading_level": null,
-      "page_id": 13,
+      "page_id": 7,
       "polygon": [
         [
           30.99449920654297,
@@ -693,7 +532,7 @@
     {
       "title": "ORGANIZATION OF DIABETES CARE 4,5",
       "heading_level": null,
-      "page_id": 13,
+      "page_id": 7,
       "polygon": [
         [
           54.43071240186691,
@@ -716,7 +555,7 @@
     {
       "title": "Requirements at Clinic Level for a Diabetes Service",
       "heading_level": null,
-      "page_id": 13,
+      "page_id": 7,
       "polygon": [
         [
           55.66600126028061,
@@ -739,7 +578,7 @@
     {
       "title": "14\nREFER: Annexure D - Clinic structure",
       "heading_level": null,
-      "page_id": 15,
+      "page_id": 9,
       "polygon": [
         [
           30.99449920654297,
@@ -762,7 +601,7 @@
     {
       "title": "Schedule of visits to a diabetes clinic",
       "heading_level": null,
-      "page_id": 15,
+      "page_id": 9,
       "polygon": [
         [
           56.2536187171936,
@@ -785,7 +624,7 @@
     {
       "title": "Table 4 Patient history, physical examination, bio-chemistry and other activities recommended during visits to a diabetes \nclinic",
       "heading_level": null,
-      "page_id": 15,
+      "page_id": 9,
       "polygon": [
         [
           56.69289779663086,
@@ -808,7 +647,7 @@
     {
       "title": "3-6 MONTHLY VISITS UNTIL TREATMENT GOALS ARE ACHIEVED",
       "heading_level": null,
-      "page_id": 16,
+      "page_id": 10,
       "polygon": [
         [
           156.22300720214844,
@@ -831,7 +670,7 @@
     {
       "title": "Table 5 Monitoring of patients with diabetes and frequency of tests",
       "heading_level": null,
-      "page_id": 16,
+      "page_id": 10,
       "polygon": [
         [
           41.29649198055267,
@@ -854,7 +693,7 @@
     {
       "title": "B. MANAGEMENT OF BLOOD GLUCOSE",
       "heading_level": null,
-      "page_id": 18,
+      "page_id": 12,
       "polygon": [
         [
           42.00303614139557,
@@ -877,7 +716,7 @@
     {
       "title": "TARGETS FOR GLYCAEMIC CONTROL 8,9,10",
       "heading_level": null,
-      "page_id": 18,
+      "page_id": 12,
       "polygon": [
         [
           41.9463392496109,
@@ -900,7 +739,7 @@
     {
       "title": "Blood glucose targets:",
       "heading_level": null,
-      "page_id": 18,
+      "page_id": 12,
       "polygon": [
         [
           42.29822587966919,
@@ -923,7 +762,7 @@
     {
       "title": "1. Fasting plasma glucose (FPG)",
       "heading_level": null,
-      "page_id": 18,
+      "page_id": 12,
       "polygon": [
         [
           42.51969909667969,
@@ -946,7 +785,7 @@
     {
       "title": "2. Post-prandial glucose (PPG)",
       "heading_level": null,
-      "page_id": 18,
+      "page_id": 12,
       "polygon": [
         [
           42.519691467285156,
@@ -969,7 +808,7 @@
     {
       "title": "HbA1c targets:",
       "heading_level": null,
-      "page_id": 18,
+      "page_id": 12,
       "polygon": [
         [
           41.902404487133026,
@@ -992,7 +831,7 @@
     {
       "title": "Table 6 Targets for fasting plasma glucose, post-prandial glucose, HbA1\n in different patient types",
       "heading_level": null,
-      "page_id": 18,
+      "page_id": 12,
       "polygon": [
         [
           42.39543831348419,
@@ -1015,7 +854,7 @@
     {
       "title": "18\nGLYCAEMIC MANAGEMENT OF TYPE 2 DIABETES 3",
       "heading_level": null,
-      "page_id": 19,
+      "page_id": 13,
       "polygon": [
         [
           30.99449920654297,
@@ -1038,7 +877,7 @@
     {
       "title": "1. Non-pharmacological management:",
       "heading_level": null,
-      "page_id": 19,
+      "page_id": 13,
       "polygon": [
         [
           51.8919723033905,
@@ -1061,7 +900,7 @@
     {
       "title": "REFER: Annexure A1 - Diabetes Education",
       "heading_level": null,
-      "page_id": 19,
+      "page_id": 13,
       "polygon": [
         [
           85.04290008544922,
@@ -1084,7 +923,7 @@
     {
       "title": "Annexure A2 - Lifestyle Modification",
       "heading_level": null,
-      "page_id": 19,
+      "page_id": 13,
       "polygon": [
         [
           56.692901611328125,
@@ -1107,7 +946,7 @@
     {
       "title": "2. Pharmacological management:",
       "heading_level": null,
-      "page_id": 19,
+      "page_id": 13,
       "polygon": [
         [
           56.30018228292465,
@@ -1130,7 +969,7 @@
     {
       "title": "HbA1c < 7% is the primary target for glycaemic control",
       "heading_level": null,
-      "page_id": 19,
+      "page_id": 13,
       "polygon": [
         [
           55.307249546051025,
@@ -1153,7 +992,7 @@
     {
       "title": "STEPS 1 \u2013 3 TO ACHIEVE EFFECTIVE GLYCAEMIC MANAGEMENT",
       "heading_level": null,
-      "page_id": 20,
+      "page_id": 14,
       "polygon": [
         [
           46.865886986255646,
@@ -1176,7 +1015,7 @@
     {
       "title": "ENTRY TO STEP 1",
       "heading_level": null,
-      "page_id": 20,
+      "page_id": 14,
       "polygon": [
         [
           48.375668197870255,
@@ -1199,7 +1038,7 @@
     {
       "title": "STEP 1",
       "heading_level": null,
-      "page_id": 20,
+      "page_id": 14,
       "polygon": [
         [
           48.500061213970184,
@@ -1222,7 +1061,7 @@
     {
       "title": "ENTRY TO STEP 2",
       "heading_level": null,
-      "page_id": 21,
+      "page_id": 15,
       "polygon": [
         [
           62.96220016479492,
@@ -1245,7 +1084,7 @@
     {
       "title": "STEP 2",
       "heading_level": null,
-      "page_id": 21,
+      "page_id": 15,
       "polygon": [
         [
           58.93383905291557,
@@ -1268,7 +1107,7 @@
     {
       "title": "ENTRY TO STEP 3",
       "heading_level": null,
-      "page_id": 22,
+      "page_id": 16,
       "polygon": [
         [
           47.37159729003906,
@@ -1291,7 +1130,7 @@
     {
       "title": "STEP 3 - Insulin therapy",
       "heading_level": null,
-      "page_id": 22,
+      "page_id": 16,
       "polygon": [
         [
           46.933343321084976,
@@ -1314,7 +1153,7 @@
     {
       "title": "ENTRY TO STEP 4 \u2013 HOSITAL LEVEL CARE",
       "heading_level": null,
-      "page_id": 22,
+      "page_id": 16,
       "polygon": [
         [
           45.79958754777908,
@@ -1337,7 +1176,7 @@
     {
       "title": "22\nGeneral notes when patients are started on insulin:",
       "heading_level": null,
-      "page_id": 23,
+      "page_id": 17,
       "polygon": [
         [
           30.99449920654297,
@@ -1360,7 +1199,7 @@
     {
       "title": "SELF-MONITORING OF BLOOD GLUCOSE (SMBG) :",
       "heading_level": null,
-      "page_id": 23,
+      "page_id": 17,
       "polygon": [
         [
           52.92563372850418,
@@ -1383,7 +1222,7 @@
     {
       "title": "Self-monitoring for individuals on oral agents",
       "heading_level": null,
-      "page_id": 23,
+      "page_id": 17,
       "polygon": [
         [
           55.764741241931915,
@@ -1406,7 +1245,7 @@
     {
       "title": "Self-monitoring for individuals on insulin:",
       "heading_level": null,
-      "page_id": 23,
+      "page_id": 17,
       "polygon": [
         [
           56.24426692724228,
@@ -1429,7 +1268,7 @@
     {
       "title": "'SICK DAYS' - Information for patients during periods of illness or stress",
       "heading_level": null,
-      "page_id": 24,
+      "page_id": 18,
       "polygon": [
         [
           42.30952262878418,
@@ -1452,7 +1291,7 @@
     {
       "title": "24\nFOLLOW-UP",
       "heading_level": null,
-      "page_id": 25,
+      "page_id": 19,
       "polygon": [
         [
           30.99449920654297,
@@ -1475,7 +1314,7 @@
     {
       "title": "The aims of follow-up are to:",
       "heading_level": null,
-      "page_id": 25,
+      "page_id": 19,
       "polygon": [
         [
           54.070055693387985,
@@ -1498,7 +1337,7 @@
     {
       "title": "REFERRALS",
       "heading_level": null,
-      "page_id": 25,
+      "page_id": 19,
       "polygon": [
         [
           55.070390820503235,
@@ -1521,7 +1360,7 @@
     {
       "title": "1. Urgent Referrals \u2013 same day",
       "heading_level": null,
-      "page_id": 25,
+      "page_id": 19,
       "polygon": [
         [
           54.917937994003296,
@@ -1544,7 +1383,7 @@
     {
       "title": "2. Standard Referrals (as per guidelines)",
       "heading_level": null,
-      "page_id": 25,
+      "page_id": 19,
       "polygon": [
         [
           56.71290588378906,
@@ -1567,7 +1406,7 @@
     {
       "title": "3. Back-referrals",
       "heading_level": null,
-      "page_id": 26,
+      "page_id": 20,
       "polygon": [
         [
           42.41238343715668,
@@ -1590,7 +1429,7 @@
     {
       "title": "HYPOGLYCAEMIA 11,12",
       "heading_level": null,
-      "page_id": 26,
+      "page_id": 20,
       "polygon": [
         [
           42.226515501737595,
@@ -1613,7 +1452,7 @@
     {
       "title": "Presenting features (symptoms and signs) of hypoglycaemia:",
       "heading_level": null,
-      "page_id": 26,
+      "page_id": 20,
       "polygon": [
         [
           42.51969909667969,
@@ -1636,7 +1475,7 @@
     {
       "title": "26\nTreatment of Mild Hypoglycaemia",
       "heading_level": null,
-      "page_id": 27,
+      "page_id": 21,
       "polygon": [
         [
           30.99449920654297,
@@ -1659,7 +1498,7 @@
     {
       "title": "Treatment of Severe Hypoglycaemia (requires the intervention of another person)",
       "heading_level": null,
-      "page_id": 27,
+      "page_id": 21,
       "polygon": [
         [
           55.159308314323425,
@@ -1682,7 +1521,7 @@
     {
       "title": "NOTE: For patients that are alcoholic, malnourished, mal-absorbers etc. \u2013 continue IV infusion with 5% Dextrose \nin Water + Thiamine 100mg IMI",
       "heading_level": null,
-      "page_id": 27,
+      "page_id": 21,
       "polygon": [
         [
           54.62189567089081,
@@ -1705,7 +1544,7 @@
     {
       "title": "Important points to remember:",
       "heading_level": null,
-      "page_id": 27,
+      "page_id": 21,
       "polygon": [
         [
           56.69289779663086,
@@ -1728,7 +1567,7 @@
     {
       "title": "Patient education:",
       "heading_level": null,
-      "page_id": 27,
+      "page_id": 21,
       "polygon": [
         [
           56.57149076461792,
@@ -1751,7 +1590,7 @@
     {
       "title": "Recurrent hypoglycaemia:",
       "heading_level": null,
-      "page_id": 27,
+      "page_id": 21,
       "polygon": [
         [
           56.02156022191048,
@@ -1774,7 +1613,7 @@
     {
       "title": "Hypoglycaemia awareness:",
       "heading_level": null,
-      "page_id": 28,
+      "page_id": 22,
       "polygon": [
         [
           41.994523614645004,
@@ -1797,7 +1636,7 @@
     {
       "title": "HYPERGLYCAEMIC EMERGENCIES 13,14,15",
       "heading_level": null,
-      "page_id": 28,
+      "page_id": 22,
       "polygon": [
         [
           42.588229060173035,
@@ -1820,7 +1659,7 @@
     {
       "title": "(1) Diabetic ketoacidosis (DKA)",
       "heading_level": null,
-      "page_id": 28,
+      "page_id": 22,
       "polygon": [
         [
           42.51969909667969,
@@ -1843,7 +1682,7 @@
     {
       "title": "(2) Hyperglycaemic hyperosmolar state (HHS)",
       "heading_level": null,
-      "page_id": 28,
+      "page_id": 22,
       "polygon": [
         [
           42.51969909667969,
@@ -1866,7 +1705,7 @@
     {
       "title": "1. DIABETIC KETOACIDOSIS [DKA]",
       "heading_level": null,
-      "page_id": 28,
+      "page_id": 22,
       "polygon": [
         [
           42.51969909667969,
@@ -1889,7 +1728,7 @@
     {
       "title": "2. HYPERGLYCAEMIC HYPEROSMOLAR STATE [HHS]",
       "heading_level": null,
-      "page_id": 28,
+      "page_id": 22,
       "polygon": [
         [
           42.51969909667969,
@@ -1912,7 +1751,7 @@
     {
       "title": "28\nClinical features",
       "heading_level": null,
-      "page_id": 29,
+      "page_id": 23,
       "polygon": [
         [
           30.99449920654297,
@@ -1935,7 +1774,7 @@
     {
       "title": "Precipitating factors of DKA and HHS",
       "heading_level": null,
-      "page_id": 29,
+      "page_id": 23,
       "polygon": [
         [
           55.074618220329285,
@@ -1958,7 +1797,7 @@
     {
       "title": "Treatment of Hyperglycaemic Coma at Primary Care Level",
       "heading_level": null,
-      "page_id": 29,
+      "page_id": 23,
       "polygon": [
         [
           55.45047491788864,
@@ -1981,7 +1820,7 @@
     {
       "title": "Rapid treatment and referral is essential.",
       "heading_level": null,
-      "page_id": 29,
+      "page_id": 23,
       "polygon": [
         [
           55.607696890830994,
@@ -2004,7 +1843,7 @@
     {
       "title": "CAUTION",
       "heading_level": null,
-      "page_id": 30,
+      "page_id": 24,
       "polygon": [
         [
           48.788902282714844,
@@ -2027,7 +1866,7 @@
     {
       "title": "Refer urgently with drip in place and running at planned rate.",
       "heading_level": null,
-      "page_id": 30,
+      "page_id": 24,
       "polygon": [
         [
           42.51890182495117,
@@ -2050,7 +1889,7 @@
     {
       "title": "Table 7: Differentiation between the types of hyperglycaemic coma",
       "heading_level": null,
-      "page_id": 30,
+      "page_id": 24,
       "polygon": [
         [
           42.51890182495117,
@@ -2073,7 +1912,7 @@
     {
       "title": "C. MANAGEMENT OF CO-MORBIDITIES AND COMPLICATIONS",
       "heading_level": null,
-      "page_id": 31,
+      "page_id": 25,
       "polygon": [
         [
           56.872798919677734,
@@ -2096,7 +1935,7 @@
     {
       "title": "Obesity",
       "heading_level": null,
-      "page_id": 31,
+      "page_id": 25,
       "polygon": [
         [
           54.77780324220657,
@@ -2119,7 +1958,7 @@
     {
       "title": "C1. OBESITY 16,17,18",
       "heading_level": null,
-      "page_id": 31,
+      "page_id": 25,
       "polygon": [
         [
           56.44767501950264,
@@ -2142,7 +1981,7 @@
     {
       "title": "REFER: Annexure A1 \u2013 Diabetes Education",
       "heading_level": null,
-      "page_id": 32,
+      "page_id": 26,
       "polygon": [
         [
           42.3248336315155,
@@ -2165,7 +2004,7 @@
     {
       "title": "Annexure A2 \u2013 Lifestyle Modification",
       "heading_level": null,
-      "page_id": 32,
+      "page_id": 26,
       "polygon": [
         [
           78.49822324514389,
@@ -2188,7 +2027,7 @@
     {
       "title": "C2. CARDIOVASCULAR RISK AND THE MANAGEMENT OF DYSLIPIDAEMIA 19,20",
       "heading_level": null,
-      "page_id": 32,
+      "page_id": 26,
       "polygon": [
         [
           41.97941243648529,
@@ -2211,7 +2050,7 @@
     {
       "title": "2.1 Macrovascular disease",
       "heading_level": null,
-      "page_id": 32,
+      "page_id": 26,
       "polygon": [
         [
           42.51969909667969,
@@ -2234,7 +2073,7 @@
     {
       "title": "32\nTable 8: CVD risk factors and targets for patients with type 2 diabetes",
       "heading_level": null,
-      "page_id": 33,
+      "page_id": 27,
       "polygon": [
         [
           30.99449920654297,
@@ -2257,7 +2096,7 @@
     {
       "title": "2.2 The Metabolic Syndrome",
       "heading_level": null,
-      "page_id": 33,
+      "page_id": 27,
       "polygon": [
         [
           56.69289779663086,
@@ -2280,7 +2119,7 @@
     {
       "title": "Table 9: Harmonised criteria for the clinical diagnosis of the Metabolic Syndrome",
       "heading_level": null,
-      "page_id": 34,
+      "page_id": 28,
       "polygon": [
         [
           42.34039330482483,
@@ -2303,7 +2142,7 @@
     {
       "title": "2.3 Diabetic dyslipidaemia",
       "heading_level": null,
-      "page_id": 34,
+      "page_id": 28,
       "polygon": [
         [
           41.961072981357574,
@@ -2326,7 +2165,7 @@
     {
       "title": "2.3.1 Goals of therapy",
       "heading_level": null,
-      "page_id": 34,
+      "page_id": 28,
       "polygon": [
         [
           42.51969909667969,
@@ -2349,7 +2188,7 @@
     {
       "title": "Table 10: Ideal lipid profile for a patient with diabetes",
       "heading_level": null,
-      "page_id": 34,
+      "page_id": 28,
       "polygon": [
         [
           42.51969909667969,
@@ -2372,7 +2211,7 @@
     {
       "title": "2.3.2 Monitoring serum lipids",
       "heading_level": null,
-      "page_id": 34,
+      "page_id": 28,
       "polygon": [
         [
           41.917742133140564,
@@ -2395,7 +2234,7 @@
     {
       "title": "2.3.3 Non-pharmacological therapy",
       "heading_level": null,
-      "page_id": 35,
+      "page_id": 29,
       "polygon": [
         [
           55.81215739250183,
@@ -2418,7 +2257,7 @@
     {
       "title": "2.3.4 Pharmacological therapy",
       "heading_level": null,
-      "page_id": 35,
+      "page_id": 29,
       "polygon": [
         [
           54.99121144413948,
@@ -2441,7 +2280,7 @@
     {
       "title": "Algorithm 2: Statin therapy",
       "heading_level": null,
-      "page_id": 35,
+      "page_id": 29,
       "polygon": [
         [
           56.409400939941406,
@@ -2464,7 +2303,7 @@
     {
       "title": "Group 1",
       "heading_level": null,
-      "page_id": 35,
+      "page_id": 29,
       "polygon": [
         [
           61.26130294799805,
@@ -2487,7 +2326,7 @@
     {
       "title": "Group 2",
       "heading_level": null,
-      "page_id": 35,
+      "page_id": 29,
       "polygon": [
         [
           59.84662437438965,
@@ -2510,7 +2349,7 @@
     {
       "title": "C3. ASPIRIN THERAPY IN DIABETES 21,22,23",
       "heading_level": null,
-      "page_id": 36,
+      "page_id": 30,
       "polygon": [
         [
           42.05401360988617,
@@ -2533,7 +2372,7 @@
     {
       "title": "C4. MANAGEMENT OF HYPERTENSION IN PATIENTS WITH TYPE 2 DIABETES 24,25,26,27",
       "heading_level": null,
-      "page_id": 36,
+      "page_id": 30,
       "polygon": [
         [
           41.454930663108826,
@@ -2556,7 +2395,7 @@
     {
       "title": "Diagnosis of hypertension",
       "heading_level": null,
-      "page_id": 36,
+      "page_id": 30,
       "polygon": [
         [
           42.380939930677414,
@@ -2579,7 +2418,7 @@
     {
       "title": "Treatment of hypertension",
       "heading_level": null,
-      "page_id": 36,
+      "page_id": 30,
       "polygon": [
         [
           42.35391476750374,
@@ -2602,7 +2441,7 @@
     {
       "title": "Potential problems with certain antihypertensives",
       "heading_level": null,
-      "page_id": 37,
+      "page_id": 31,
       "polygon": [
         [
           54.91870176792145,
@@ -2625,7 +2464,7 @@
     {
       "title": "Additional treatment instructions for the healthcare provider",
       "heading_level": null,
-      "page_id": 37,
+      "page_id": 31,
       "polygon": [
         [
           56.32711863517761,
@@ -2648,7 +2487,7 @@
     {
       "title": "C5. CHRONIC KIDNEY DISEASE (CKD) /NEPHROPATHY - screening and\nmanagement 28,29,30,31,32",
       "heading_level": null,
-      "page_id": 37,
+      "page_id": 31,
       "polygon": [
         [
           55.70082402229309,
@@ -2671,7 +2510,7 @@
     {
       "title": "Figure 1: Progression of classic diabetic nephropathy",
       "heading_level": null,
-      "page_id": 38,
+      "page_id": 32,
       "polygon": [
         [
           41.06116968393326,
@@ -2694,7 +2533,7 @@
     {
       "title": "Screening for CKD in diabetes: two tests are required",
       "heading_level": null,
-      "page_id": 38,
+      "page_id": 32,
       "polygon": [
         [
           41.83283889293671,
@@ -2717,7 +2556,7 @@
     {
       "title": "Frequency of screening",
       "heading_level": null,
-      "page_id": 38,
+      "page_id": 32,
       "polygon": [
         [
           41.6441867351532,
@@ -2740,7 +2579,7 @@
     {
       "title": "Management of CKD:",
       "heading_level": null,
-      "page_id": 38,
+      "page_id": 32,
       "polygon": [
         [
           41.42370918393135,
@@ -2763,7 +2602,7 @@
     {
       "title": "NOTE: Coughing, the most common side-effect of ACE-inhibitors, may respond to a decreased dose or may \nspontaneously disappear after a few months. If intractable cough, refer patient.",
       "heading_level": null,
-      "page_id": 38,
+      "page_id": 32,
       "polygon": [
         [
           41.18931496143341,
@@ -2786,7 +2625,7 @@
     {
       "title": "Referral for specialised renal care",
       "heading_level": null,
-      "page_id": 39,
+      "page_id": 33,
       "polygon": [
         [
           52.09328889846802,
@@ -2809,7 +2648,7 @@
     {
       "title": "Other causes of CKD in diabetes",
       "heading_level": null,
-      "page_id": 39,
+      "page_id": 33,
       "polygon": [
         [
           54.70524471998215,
@@ -2832,7 +2671,7 @@
     {
       "title": "C6. DIABETIC RETINOPATHY (DR) 33,34,35,36",
       "heading_level": null,
-      "page_id": 39,
+      "page_id": 33,
       "polygon": [
         [
           55.83808130025864,
@@ -2855,7 +2694,7 @@
     {
       "title": "Prevalence of diabetic retinopathy",
       "heading_level": null,
-      "page_id": 39,
+      "page_id": 33,
       "polygon": [
         [
           55.49083948135376,
@@ -2878,7 +2717,7 @@
     {
       "title": "Updated Management Of \nType 2 Diabe\ntes In Adults \nAt Primary Care Level",
       "heading_level": null,
-      "page_id": 40,
+      "page_id": 34,
       "polygon": [
         [
           569.574061870575,
@@ -2901,7 +2740,7 @@
     {
       "title": "Who should be screened?",
       "heading_level": null,
-      "page_id": 40,
+      "page_id": 34,
       "polygon": [
         [
           42.434968054294586,
@@ -2924,7 +2763,7 @@
     {
       "title": "Risk factors",
       "heading_level": null,
-      "page_id": 40,
+      "page_id": 34,
       "polygon": [
         [
           42.069049298763275,
@@ -2947,7 +2786,7 @@
     {
       "title": "Frequency of screening",
       "heading_level": null,
-      "page_id": 40,
+      "page_id": 34,
       "polygon": [
         [
           41.96089091897011,
@@ -2970,7 +2809,7 @@
     {
       "title": "Screening methods for DR",
       "heading_level": null,
-      "page_id": 40,
+      "page_id": 34,
       "polygon": [
         [
           41.824059933423996,
@@ -2993,7 +2832,7 @@
     {
       "title": "Referrals from Primary level to Secondary level",
       "heading_level": null,
-      "page_id": 40,
+      "page_id": 34,
       "polygon": [
         [
           42.455065965652466,
@@ -3016,7 +2855,7 @@
     {
       "title": "40\nHow should DR be managed?",
       "heading_level": null,
-      "page_id": 41,
+      "page_id": 35,
       "polygon": [
         [
           30.99449920654297,
@@ -3039,7 +2878,7 @@
     {
       "title": "C7. PREVENTION AND TREATMENT OF FOOT PROBLEMS IN DIABETES 37,38,39,40,41,42,43",
       "heading_level": null,
-      "page_id": 41,
+      "page_id": 35,
       "polygon": [
         [
           56.81279754638672,
@@ -3062,7 +2901,7 @@
     {
       "title": "Defining the problem",
       "heading_level": null,
-      "page_id": 41,
+      "page_id": 35,
       "polygon": [
         [
           55.81328085064888,
@@ -3085,7 +2924,7 @@
     {
       "title": "Risk factors for ulceration.",
       "heading_level": null,
-      "page_id": 41,
+      "page_id": 35,
       "polygon": [
         [
           56.4788076877594,
@@ -3108,7 +2947,7 @@
     {
       "title": "Understanding how ulcers develop",
       "heading_level": null,
-      "page_id": 41,
+      "page_id": 35,
       "polygon": [
         [
           55.896403431892395,
@@ -3131,7 +2970,7 @@
     {
       "title": "Prevention of foot ulceration and amputation",
       "heading_level": null,
-      "page_id": 42,
+      "page_id": 36,
       "polygon": [
         [
           42.51969909667969,
@@ -3154,7 +2993,7 @@
     {
       "title": "REFER: Annexure C1",
       "heading_level": null,
-      "page_id": 42,
+      "page_id": 36,
       "polygon": [
         [
           42.34039330482483,
@@ -3177,7 +3016,7 @@
     {
       "title": "General prevention strategies",
       "heading_level": null,
-      "page_id": 42,
+      "page_id": 36,
       "polygon": [
         [
           42.03126913309097,
@@ -3200,7 +3039,7 @@
     {
       "title": "Regular inspection of the shoes.",
       "heading_level": null,
-      "page_id": 42,
+      "page_id": 36,
       "polygon": [
         [
           42.51969909667969,
@@ -3223,7 +3062,7 @@
     {
       "title": "42\nRegular examination of the feet.",
       "heading_level": null,
-      "page_id": 43,
+      "page_id": 37,
       "polygon": [
         [
           30.99449920654297,
@@ -3246,7 +3085,7 @@
     {
       "title": "Risk stratification and follow-up",
       "heading_level": null,
-      "page_id": 43,
+      "page_id": 37,
       "polygon": [
         [
           56.249231457710266,
@@ -3269,7 +3108,7 @@
     {
       "title": "Table 11: Risk categorisation system for diabetic feet",
       "heading_level": null,
-      "page_id": 43,
+      "page_id": 37,
       "polygon": [
         [
           56.69289779663086,
@@ -3292,7 +3131,7 @@
     {
       "title": "Specific management of positive findings after the foot examination",
       "heading_level": null,
-      "page_id": 43,
+      "page_id": 37,
       "polygon": [
         [
           55.46789073944092,
@@ -3315,7 +3154,7 @@
     {
       "title": "1. Painless neuropathy with loss of protective sensation",
       "heading_level": null,
-      "page_id": 43,
+      "page_id": 37,
       "polygon": [
         [
           56.34495186805725,
@@ -3338,7 +3177,7 @@
     {
       "title": "2. Painful peripheral neuropathy",
       "heading_level": null,
-      "page_id": 44,
+      "page_id": 38,
       "polygon": [
         [
           40.153690814971924,
@@ -3361,7 +3200,7 @@
     {
       "title": "AND/OR",
       "heading_level": null,
-      "page_id": 44,
+      "page_id": 38,
       "polygon": [
         [
           69.58153131604195,
@@ -3384,7 +3223,7 @@
     {
       "title": "Refer for secondary level treatment if the patient still has severe symptoms after 14 days of treatment.",
       "heading_level": null,
-      "page_id": 44,
+      "page_id": 38,
       "polygon": [
         [
           69.16118478775024,
@@ -3407,7 +3246,7 @@
     {
       "title": "3. Non-ulcerative foot pathology",
       "heading_level": null,
-      "page_id": 44,
+      "page_id": 38,
       "polygon": [
         [
           40.98124873638153,
@@ -3430,7 +3269,7 @@
     {
       "title": "4. Ulcerative foot pathology",
       "heading_level": null,
-      "page_id": 44,
+      "page_id": 38,
       "polygon": [
         [
           42.529701232910156,
@@ -3453,7 +3292,7 @@
     {
       "title": "D. DIABETES CARE IN SPECIFIC POPULATIONS/SETTINGS",
       "heading_level": null,
-      "page_id": 45,
+      "page_id": 39,
       "polygon": [
         [
           56.872798919677734,
@@ -3476,7 +3315,7 @@
     {
       "title": "D1. PREGNANCY AND DIABETES",
       "heading_level": null,
-      "page_id": 45,
+      "page_id": 39,
       "polygon": [
         [
           56.81279754638672,
@@ -3499,7 +3338,7 @@
     {
       "title": "Inheritance of Diabetes",
       "heading_level": null,
-      "page_id": 46,
+      "page_id": 40,
       "polygon": [
         [
           41.443664997816086,
@@ -3522,7 +3361,7 @@
     {
       "title": "Types of Diabetes in Pregnancy",
       "heading_level": null,
-      "page_id": 46,
+      "page_id": 40,
       "polygon": [
         [
           41.56947010755539,
@@ -3545,7 +3384,7 @@
     {
       "title": "Diagnosis of Gestational Diabetes (GDM)",
       "heading_level": null,
-      "page_id": 46,
+      "page_id": 40,
       "polygon": [
         [
           42.51969909667969,
@@ -3568,7 +3407,7 @@
     {
       "title": "Current criteria for diagnosis - World Health Organization (WHO) *",
       "heading_level": null,
-      "page_id": 46,
+      "page_id": 40,
       "polygon": [
         [
           42.303696632385254,
@@ -3591,7 +3430,7 @@
     {
       "title": "or",
       "heading_level": null,
-      "page_id": 46,
+      "page_id": 40,
       "polygon": [
         [
           70.70163685083389,
@@ -3614,7 +3453,7 @@
     {
       "title": "46\nD2. FAMILY PLANNING, PRE-CONCEPTION CARE AND DIABETES",
       "heading_level": null,
-      "page_id": 47,
+      "page_id": 41,
       "polygon": [
         [
           30.99449920654297,
@@ -3637,7 +3476,7 @@
     {
       "title": "Referral to obstetrician, physician and/or diabetes specialist, midwife is important.",
       "heading_level": null,
-      "page_id": 47,
+      "page_id": 41,
       "polygon": [
         [
           56.61054980754852,
@@ -3660,7 +3499,7 @@
     {
       "title": "D3. OLDER PERSONS AND DIABETES 44.45.46.47",
       "heading_level": null,
-      "page_id": 47,
+      "page_id": 41,
       "polygon": [
         [
           56.26135414838791,
@@ -3683,7 +3522,7 @@
     {
       "title": "Table 12: Targets for control in older persons",
       "heading_level": null,
-      "page_id": 47,
+      "page_id": 41,
       "polygon": [
         [
           56.50238698720932,
@@ -3706,7 +3545,7 @@
     {
       "title": "Precautions with drug therapy:",
       "heading_level": null,
-      "page_id": 48,
+      "page_id": 42,
       "polygon": [
         [
           42.011002480983734,
@@ -3729,7 +3568,7 @@
     {
       "title": "Oral agents:",
       "heading_level": null,
-      "page_id": 48,
+      "page_id": 42,
       "polygon": [
         [
           41.206713020801544,
@@ -3752,7 +3591,7 @@
     {
       "title": "Insulin:",
       "heading_level": null,
-      "page_id": 48,
+      "page_id": 42,
       "polygon": [
         [
           41.47952684760094,
@@ -3775,7 +3614,7 @@
     {
       "title": "Aspirin:",
       "heading_level": null,
-      "page_id": 48,
+      "page_id": 42,
       "polygon": [
         [
           42.287395387887955,
@@ -3798,7 +3637,7 @@
     {
       "title": "Refer: C3 Aspirin Therapy in Diabetes",
       "heading_level": null,
-      "page_id": 48,
+      "page_id": 42,
       "polygon": [
         [
           42.096332013607025,
@@ -3821,7 +3660,7 @@
     {
       "title": "D4. HIGH-RISK ETHNIC GROUPS AND DIABETES 48,49,50,51,52",
       "heading_level": null,
-      "page_id": 48,
+      "page_id": 42,
       "polygon": [
         [
           42.29419386386871,
@@ -3844,7 +3683,7 @@
     {
       "title": "48\nRecommendations",
       "heading_level": null,
-      "page_id": 49,
+      "page_id": 43,
       "polygon": [
         [
           30.99449920654297,
@@ -3867,7 +3706,7 @@
     {
       "title": "D5. HIV AND DIABETES",
       "heading_level": null,
-      "page_id": 49,
+      "page_id": 43,
       "polygon": [
         [
           55.926212817430496,
@@ -3890,7 +3729,7 @@
     {
       "title": "Risk Factors for HIV+ persons developing diabetes",
       "heading_level": null,
-      "page_id": 49,
+      "page_id": 43,
       "polygon": [
         [
           56.69289779663086,
@@ -3913,7 +3752,7 @@
     {
       "title": "Screening and frequency",
       "heading_level": null,
-      "page_id": 49,
+      "page_id": 43,
       "polygon": [
         [
           56.246358424425125,
@@ -3936,7 +3775,7 @@
     {
       "title": "Diagnosis",
       "heading_level": null,
-      "page_id": 50,
+      "page_id": 44,
       "polygon": [
         [
           42.51969909667969,
@@ -3959,7 +3798,7 @@
     {
       "title": "Monitoring and glycaemic targets are the same as for non-HIV persons",
       "heading_level": null,
-      "page_id": 50,
+      "page_id": 44,
       "polygon": [
         [
           42.51969909667969,
@@ -3982,7 +3821,7 @@
     {
       "title": "General Management",
       "heading_level": null,
-      "page_id": 50,
+      "page_id": 44,
       "polygon": [
         [
           42.51969909667969,
@@ -4005,7 +3844,7 @@
     {
       "title": "Medical treatment",
       "heading_level": null,
-      "page_id": 50,
+      "page_id": 44,
       "polygon": [
         [
           42.05770814418793,
@@ -4028,7 +3867,7 @@
     {
       "title": "50\nD6. FASTING AND DIABETES 53,54,55,56",
       "heading_level": null,
-      "page_id": 51,
+      "page_id": 45,
       "polygon": [
         [
           30.99449920654297,
@@ -4051,7 +3890,7 @@
     {
       "title": "Note: Some of the drugs mentioned are not available at primary level.",
       "heading_level": null,
-      "page_id": 51,
+      "page_id": 45,
       "polygon": [
         [
           55.49552869796753,
@@ -4074,7 +3913,7 @@
     {
       "title": "Fasting is contraindicated in individuals with:",
       "heading_level": null,
-      "page_id": 51,
+      "page_id": 45,
       "polygon": [
         [
           53.590756475925446,
@@ -4097,7 +3936,7 @@
     {
       "title": "Approach to persons with type 2 diabetes who are planning to fast:",
       "heading_level": null,
-      "page_id": 51,
+      "page_id": 45,
       "polygon": [
         [
           56.69289779663086,
@@ -4120,7 +3959,7 @@
     {
       "title": "1. Medical assessment",
       "heading_level": null,
-      "page_id": 51,
+      "page_id": 45,
       "polygon": [
         [
           56.69289779663086,
@@ -4143,7 +3982,7 @@
     {
       "title": "2. Fast-focused education",
       "heading_level": null,
-      "page_id": 51,
+      "page_id": 45,
       "polygon": [
         [
           55.592798858881,
@@ -4166,7 +4005,7 @@
     {
       "title": "3. Diet-controlled patients",
       "heading_level": null,
-      "page_id": 52,
+      "page_id": 46,
       "polygon": [
         [
           42.52610778808594,
@@ -4189,7 +4028,7 @@
     {
       "title": "4. Oral hypoglycaemic agents",
       "heading_level": null,
-      "page_id": 52,
+      "page_id": 46,
       "polygon": [
         [
           42.461149513721466,
@@ -4212,7 +4051,7 @@
     {
       "title": "5. Insulin",
       "heading_level": null,
-      "page_id": 52,
+      "page_id": 46,
       "polygon": [
         [
           42.55613708496094,
@@ -4235,7 +4074,7 @@
     {
       "title": "52\nGeneral Considerations",
       "heading_level": null,
-      "page_id": 53,
+      "page_id": 47,
       "polygon": [
         [
           30.99449920654297,
@@ -4258,7 +4097,7 @@
     {
       "title": "D7. HIGH RISK INDIVIDUALS - PREVENTION AND DELAY OF TYPE 2 DIABETES 57,58,59,60,61,62",
       "heading_level": null,
-      "page_id": 53,
+      "page_id": 47,
       "polygon": [
         [
           56.10802209377289,
@@ -4281,7 +4120,7 @@
     {
       "title": "High risk individuals include",
       "heading_level": null,
-      "page_id": 53,
+      "page_id": 47,
       "polygon": [
         [
           53.699110239744186,
@@ -4304,7 +4143,7 @@
     {
       "title": "Recommendation for the prevention of type 2 diabetes",
       "heading_level": null,
-      "page_id": 53,
+      "page_id": 47,
       "polygon": [
         [
           56.4522265791893,
@@ -4327,7 +4166,7 @@
     {
       "title": "Drugs for the prevention of type 2 diabetes",
       "heading_level": null,
-      "page_id": 54,
+      "page_id": 48,
       "polygon": [
         [
           42.51969909667969,
@@ -4350,7 +4189,7 @@
     {
       "title": "D8. DRIVING AND DIABETES 63,64,65",
       "heading_level": null,
-      "page_id": 54,
+      "page_id": 48,
       "polygon": [
         [
           42.403395771980286,
@@ -4373,7 +4212,7 @@
     {
       "title": "\u2022\t Effects of diabetes on ability to drive",
       "heading_level": null,
-      "page_id": 54,
+      "page_id": 48,
       "polygon": [
         [
           42.51969909667969,
@@ -4396,7 +4235,7 @@
     {
       "title": "\u2022\t Current licensing requirements in South Africa",
       "heading_level": null,
-      "page_id": 54,
+      "page_id": 48,
       "polygon": [
         [
           42.51969909667969,
@@ -4419,7 +4258,7 @@
     {
       "title": "54\n\u2022\t Risks of diabetes and driving",
       "heading_level": null,
-      "page_id": 55,
+      "page_id": 49,
       "polygon": [
         [
           30.99449920654297,
@@ -4442,7 +4281,7 @@
     {
       "title": "\u2022\t Recommendations for the South African situation",
       "heading_level": null,
-      "page_id": 55,
+      "page_id": 49,
       "polygon": [
         [
           56.69289779663086,
@@ -4465,7 +4304,7 @@
     {
       "title": "Private vehicles",
       "heading_level": null,
-      "page_id": 55,
+      "page_id": 49,
       "polygon": [
         [
           56.58085587620735,
@@ -4488,7 +4327,7 @@
     {
       "title": "Commercial vehicles",
       "heading_level": null,
-      "page_id": 55,
+      "page_id": 49,
       "polygon": [
         [
           56.292375802993774,
@@ -4511,7 +4350,7 @@
     {
       "title": "Patient education",
       "heading_level": null,
-      "page_id": 56,
+      "page_id": 50,
       "polygon": [
         [
           42.13805538415909,
@@ -4534,7 +4373,7 @@
     {
       "title": "They should not drive when their blood glucose is < 4.0 mmol/L",
       "heading_level": null,
-      "page_id": 56,
+      "page_id": 50,
       "polygon": [
         [
           42.18473440408707,
@@ -4557,7 +4396,7 @@
     {
       "title": "D9. TUBERCULOSIS (TB) AND DIABETES",
       "heading_level": null,
-      "page_id": 56,
+      "page_id": 50,
       "polygon": [
         [
           42.63959503173828,
@@ -4580,7 +4419,7 @@
     {
       "title": "Recommendations in the framework include:",
       "heading_level": null,
-      "page_id": 56,
+      "page_id": 50,
       "polygon": [
         [
           42.51969909667969,
@@ -4603,7 +4442,7 @@
     {
       "title": "D10. PERIODONTAL (GUM) DISEASE AND DIABETES",
       "heading_level": null,
-      "page_id": 57,
+      "page_id": 51,
       "polygon": [
         [
           56.81279754638672,
@@ -4626,7 +4465,7 @@
     {
       "title": "Periodontal disease consists of:",
       "heading_level": null,
-      "page_id": 57,
+      "page_id": 51,
       "polygon": [
         [
           56.238645195961,
@@ -4649,7 +4488,7 @@
     {
       "title": "Refer patient to a dentist.",
       "heading_level": null,
-      "page_id": 57,
+      "page_id": 51,
       "polygon": [
         [
           56.6461541056633,
@@ -4672,7 +4511,7 @@
     {
       "title": "REHABILITATION OF PERSONS DISABLED DUE TO DIABETES",
       "heading_level": null,
-      "page_id": 57,
+      "page_id": 51,
       "polygon": [
         [
           56.81279754638672,
@@ -4695,7 +4534,7 @@
     {
       "title": "REFERENCES",
       "heading_level": null,
-      "page_id": 58,
+      "page_id": 52,
       "polygon": [
         [
           42.35866171121597,
@@ -4718,7 +4557,7 @@
     {
       "title": "ACKNOWLEDGEMENTS",
       "heading_level": null,
-      "page_id": 60,
+      "page_id": 54,
       "polygon": [
         [
           204.7030029296875,
@@ -4741,7 +4580,7 @@
     {
       "title": "DIABETES EDUCATION",
       "heading_level": null,
-      "page_id": 61,
+      "page_id": 55,
       "polygon": [
         [
           55.01848083734512,
@@ -4764,7 +4603,7 @@
     {
       "title": "Education and Patient Empowerment",
       "heading_level": null,
-      "page_id": 61,
+      "page_id": 55,
       "polygon": [
         [
           55.98870462179184,
@@ -4787,7 +4626,7 @@
     {
       "title": "Core standards",
       "heading_level": null,
-      "page_id": 61,
+      "page_id": 55,
       "polygon": [
         [
           52.196127504110336,
@@ -4810,7 +4649,7 @@
     {
       "title": "Diabetes self-management education:",
       "heading_level": null,
-      "page_id": 61,
+      "page_id": 55,
       "polygon": [
         [
           55.61358505487442,
@@ -4833,7 +4672,7 @@
     {
       "title": "Topics to be covered to achieve patient empowerment:",
       "heading_level": null,
-      "page_id": 61,
+      "page_id": 55,
       "polygon": [
         [
           56.20312970876694,
@@ -4856,7 +4695,7 @@
     {
       "title": "What people with diabetes and their families/care givers, need to know:",
       "heading_level": null,
-      "page_id": 62,
+      "page_id": 56,
       "polygon": [
         [
           41.366119742393494,
@@ -4879,7 +4718,7 @@
     {
       "title": "ANNEXURE A2",
       "heading_level": null,
-      "page_id": 63,
+      "page_id": 57,
       "polygon": [
         [
           56.69289779663086,
@@ -4902,7 +4741,7 @@
     {
       "title": "Counselling (motivational interviewing)",
       "heading_level": null,
-      "page_id": 63,
+      "page_id": 57,
       "polygon": [
         [
           54.72524493932724,
@@ -4925,7 +4764,7 @@
     {
       "title": "Introduction to self-care:",
       "heading_level": null,
-      "page_id": 63,
+      "page_id": 57,
       "polygon": [
         [
           53.422655165195465,
@@ -4948,7 +4787,7 @@
     {
       "title": "Weight management",
       "heading_level": null,
-      "page_id": 63,
+      "page_id": 57,
       "polygon": [
         [
           56.1040256023407,
@@ -4971,7 +4810,7 @@
     {
       "title": "Weight control and physical activity",
       "heading_level": null,
-      "page_id": 63,
+      "page_id": 57,
       "polygon": [
         [
           56.473390221595764,
@@ -4994,7 +4833,7 @@
     {
       "title": "Dietary interventions",
       "heading_level": null,
-      "page_id": 64,
+      "page_id": 58,
       "polygon": [
         [
           42.31616568565369,
@@ -5017,7 +4856,7 @@
     {
       "title": "Patient actions:",
       "heading_level": null,
-      "page_id": 64,
+      "page_id": 58,
       "polygon": [
         [
           42.516998291015625,
@@ -5040,7 +4879,7 @@
     {
       "title": "Physical activity (PA) 7, 17,18",
       "heading_level": null,
-      "page_id": 64,
+      "page_id": 58,
       "polygon": [
         [
           42.51969909667969,
@@ -5063,7 +4902,7 @@
     {
       "title": "Getting started:",
       "heading_level": null,
-      "page_id": 64,
+      "page_id": 58,
       "polygon": [
         [
           42.521522521972656,
@@ -5086,7 +4925,7 @@
     {
       "title": "Caution:",
       "heading_level": null,
-      "page_id": 65,
+      "page_id": 59,
       "polygon": [
         [
           54.654320538043976,
@@ -5109,7 +4948,7 @@
     {
       "title": "Benefits of regular physical activity",
       "heading_level": null,
-      "page_id": 65,
+      "page_id": 59,
       "polygon": [
         [
           52.59143823385239,
@@ -5132,7 +4971,7 @@
     {
       "title": "Anti-tobacco message",
       "heading_level": null,
-      "page_id": 65,
+      "page_id": 59,
       "polygon": [
         [
           55.817512691020966,
@@ -5155,7 +4994,7 @@
     {
       "title": "Never start smoking",
       "heading_level": null,
-      "page_id": 65,
+      "page_id": 59,
       "polygon": [
         [
           55.92269146442413,
@@ -5178,7 +5017,7 @@
     {
       "title": "ANNEXURE B",
       "heading_level": null,
-      "page_id": 66,
+      "page_id": 60,
       "polygon": [
         [
           42.51969909667969,
@@ -5201,7 +5040,7 @@
     {
       "title": "GENERAL PRINCIPLES FOR FOOT CARE",
       "heading_level": null,
-      "page_id": 66,
+      "page_id": 60,
       "polygon": [
         [
           42.63959503173828,
@@ -5224,7 +5063,7 @@
     {
       "title": "REMEMBER!",
       "heading_level": null,
-      "page_id": 66,
+      "page_id": 60,
       "polygon": [
         [
           42.346334755420685,
@@ -5245,162 +5084,24 @@
       ]
     },
     {
-      "title": "Foot Screening Assessment Form",
-      "heading_level": null,
-      "page_id": 67,
-      "polygon": [
-        [
-          228.6837158203125,
-          105.8057093322277
-        ],
-        [
-          376.30863857269287,
-          105.8057093322277
-        ],
-        [
-          376.30863857269287,
-          117.19384765625
-        ],
-        [
-          228.6837158203125,
-          117.19384765625
-        ]
-      ]
-    },
-    {
-      "title": "Risk Categorisation system for diabetic feet",
-      "heading_level": null,
-      "page_id": 67,
-      "polygon": [
-        [
-          208.06780588626862,
-          664.5111744403839
-        ],
-        [
-          398.2390389442444,
-          664.5111744403839
-        ],
-        [
-          398.2390389442444,
-          675.6761002540588
-        ],
-        [
-          208.06780588626862,
-          675.6761002540588
-        ]
-      ]
-    },
-    {
-      "title": "ANNEXURE C2",
-      "heading_level": null,
-      "page_id": 68,
-      "polygon": [
-        [
-          42.51969909667969,
-          38.0312782227993
-        ],
-        [
-          216.56678009033203,
-          38.0312782227993
-        ],
-        [
-          215.40271759033203,
-          71.74957275390625
-        ],
-        [
-          41.449708580970764,
-          71.74957275390625
-        ]
-      ]
-    },
-    {
-      "title": "RAPID SCREENING FOR DIABETIC NEUROPATHY",
-      "heading_level": null,
-      "page_id": 68,
-      "polygon": [
-        [
-          42.452508211135864,
-          104.61115571856499
-        ],
-        [
-          304.0187871456146,
-          104.61115571856499
-        ],
-        [
-          302.8547246456146,
-          120.32443901896477
-        ],
-        [
-          41.288445711135864,
-          120.32443901896477
-        ]
-      ]
-    },
-    {
-      "title": "1. Using the 10-g Semmes-Weinstein Monofilament.",
-      "heading_level": null,
-      "page_id": 68,
-      "polygon": [
-        [
-          42.47356528043747,
-          228.31451725959778
-        ],
-        [
-          292.56203627586365,
-          228.31451725959778
-        ],
-        [
-          291.39797377586365,
-          241.29370713233948
-        ],
-        [
-          41.30950278043747,
-          241.29370713233948
-        ]
-      ]
-    },
-    {
-      "title": "68\n2. Using the 128-Hz Vibration Tuning Fork (The \"On-Off\" Method).",
-      "heading_level": null,
-      "page_id": 69,
-      "polygon": [
-        [
-          30.99449920654297,
-          40.08546490222216
-        ],
-        [
-          365.7584340572357,
-          40.08546490222216
-        ],
-        [
-          365.7584340572357,
-          54.77783203125
-        ],
-        [
-          30.99449920654297,
-          54.77783203125
-        ]
-      ]
-    },
-    {
       "title": "ANNEXURE D",
       "heading_level": null,
-      "page_id": 70,
+      "page_id": 61,
       "polygon": [
         [
           42.51969909667969,
-          39.46857434511185
+          39.468571208417416
         ],
         [
-          205.35823798179626,
-          37.82404309511185
+          205.3582557439804,
+          37.824039958417416
         ],
         [
-          204.19417548179626,
+          204.1941932439804,
           71.74957275390625
         ],
         [
-          41.835085809230804,
+          41.83511245250702,
           72.45865765213966
         ]
       ]
@@ -5408,30 +5109,30 @@
     {
       "title": "CLINIC STRUCTURE",
       "heading_level": null,
-      "page_id": 70,
+      "page_id": 61,
       "polygon": [
         [
-          42.37135723233223,
-          105.58353099226952
+          42.371361672878265,
+          105.58351844549179
         ],
         [
           149.49197697639465,
-          103.93899974226952
+          103.93898719549179
         ],
         [
-          148.32791447639465,
+          148.32790559530258,
           119.40130615234375
         ],
         [
-          41.20729473233223,
-          120.70571050047874
+          41.207299172878265,
+          120.70569795370102
         ]
       ]
     },
     {
       "title": "Refer: Primary Health Care Supervision Manual",
       "heading_level": null,
-      "page_id": 70,
+      "page_id": 61,
       "polygon": [
         [
           42.52099609375,
@@ -5454,15 +5155,15 @@
     {
       "title": "ANNEXURE E",
       "heading_level": null,
-      "page_id": 71,
+      "page_id": 62,
       "polygon": [
         [
           56.69289779663086,
-          65.09308433532715
+          65.09305296838284
         ],
         [
           211.3428955078125,
-          65.09308433532715
+          65.09305296838284
         ],
         [
           211.3428955078125,
@@ -5477,10 +5178,10 @@
     {
       "title": "GLYCATED HAEMOGLOBIN",
       "heading_level": null,
-      "page_id": 71,
+      "page_id": 62,
       "polygon": [
         [
-          55.320047199726105,
+          55.32002055644989,
           131.45729526877403
         ],
         [
@@ -5492,7 +5193,7 @@
           146.87005814909935
         ],
         [
-          55.320047199726105,
+          55.32002055644989,
           146.87005814909935
         ]
       ]
@@ -5500,7 +5201,7 @@
     {
       "title": "ANNEXURE F",
       "heading_level": null,
-      "page_id": 72,
+      "page_id": 63,
       "polygon": [
         [
           42.280712366104126,
@@ -5523,7 +5224,7 @@
     {
       "title": "A GUIDE TO PATIENT ADHERENCE IN CHRONIC CONDITIONS",
       "heading_level": null,
-      "page_id": 72,
+      "page_id": 63,
       "polygon": [
         [
           42.52675414085388,
@@ -5546,7 +5247,7 @@
     {
       "title": "Patient Adherence",
       "heading_level": null,
-      "page_id": 72,
+      "page_id": 63,
       "polygon": [
         [
           42.4932724237442,
@@ -5569,15 +5270,15 @@
     {
       "title": "72\nBarriers that contribute toward poor adherence",
       "heading_level": null,
-      "page_id": 73,
+      "page_id": 64,
       "polygon": [
         [
           30.99449920654297,
-          41.19792181253433
+          41.19789671897888
         ],
         [
           254.88987731933594,
-          39.55339056253433
+          39.55336546897888
         ],
         [
           254.88987731933594,
@@ -5592,22 +5293,22 @@
     {
       "title": "Towards concordance when prescribing",
       "heading_level": null,
-      "page_id": 74,
+      "page_id": 65,
       "polygon": [
         [
-          42.0144128203392,
-          41.61051318794489
+          42.01445722579956,
+          41.61051005125046
         ],
         [
           237.59262084960938,
-          39.96598193794489
+          39.96597880125046
         ],
         [
           237.59262084960938,
           53.47112959623337
         ],
         [
-          42.0144128203392,
+          42.01445722579956,
           55.11566084623337
         ]
       ]
@@ -5615,14 +5316,14 @@
     {
       "title": "Note:",
       "heading_level": null,
-      "page_id": 74,
+      "page_id": 65,
       "polygon": [
         [
-          42.421775192022324,
+          42.42178851366043,
           259.9323971271515
         ],
         [
-          68.90665712952614,
+          68.90667045116425,
           258.2878658771515
         ],
         [
@@ -5630,7 +5331,7 @@
           270.8337904214859
         ],
         [
-          41.257712692022324,
+          41.25772601366043,
           272.4783216714859
         ]
       ]
@@ -5638,7 +5339,7 @@
     {
       "title": "Education points to consider",
       "heading_level": null,
-      "page_id": 74,
+      "page_id": 65,
       "polygon": [
         [
           42.17321118712425,
@@ -5661,45 +5362,45 @@
     {
       "title": "Note",
       "heading_level": null,
-      "page_id": 74,
+      "page_id": 65,
       "polygon": [
         [
           42.529701232910156,
-          571.0998120307922
+          571.0997618436813
         ],
         [
-          66.64722293615341,
-          569.4552807807922
+          66.64721405506134,
+          569.4552305936813
         ],
         [
-          65.48316043615341,
-          582.212141752243
+          65.48315155506134,
+          582.2120915651321
         ],
         [
-          41.5206418633461,
-          583.856673002243
+          41.52065074443817,
+          583.8566228151321
         ]
       ]
     },
     {
       "title": "Notes on prescribing in chronic conditions.",
       "heading_level": null,
-      "page_id": 74,
+      "page_id": 65,
       "polygon": [
         [
-          42.12000900506973,
+          42.120017886161804,
           649.1934659481049
         ],
         [
-          252.5574767589569,
+          252.5575122833252,
           647.5489346981049
         ],
         [
-          251.3934142589569,
+          251.3934497833252,
           661.5085296630859
         ],
         [
-          40.95594650506973,
+          40.955955386161804,
           663.0151970386505
         ]
       ]
@@ -5707,7 +5408,7 @@
     {
       "title": "Improving Continuity of Therapy",
       "heading_level": null,
-      "page_id": 75,
+      "page_id": 66,
       "polygon": [
         [
           52.298451006412506,
@@ -5730,133 +5431,41 @@
     {
       "title": "Note: The prescriber should reinforce this only once management of the condition has been established.",
       "heading_level": null,
-      "page_id": 75,
+      "page_id": 66,
       "polygon": [
         [
           56.57779633998871,
-          278.76189851760864
+          278.7618734240532
         ],
         [
           517.6677732467651,
-          278.76189851760864
+          278.7618734240532
         ],
         [
           517.6677732467651,
-          291.94821059703827
+          291.9481855034828
         ],
         [
           56.57779633998871,
-          291.94821059703827
-        ]
-      ]
-    },
-    {
-      "title": "Self-Reporting",
-      "heading_level": null,
-      "page_id": 76,
-      "polygon": [
-        [
-          41.95691218972206,
-          134.78567937016487
-        ],
-        [
-          138.49128794670105,
-          134.78567937016487
-        ],
-        [
-          138.49128794670105,
-          150.76149144768715
-        ],
-        [
-          41.95691218972206,
-          150.76149144768715
-        ]
-      ]
-    },
-    {
-      "title": "Visual Analogue Scale (VAS)",
-      "heading_level": null,
-      "page_id": 76,
-      "polygon": [
-        [
-          41.19689053297043,
-          280.7125209569931
-        ],
-        [
-          221.43838500976562,
-          280.7125209569931
-        ],
-        [
-          221.43838500976562,
-          295.87474977970123
-        ],
-        [
-          41.19689053297043,
-          295.87474977970123
-        ]
-      ]
-    },
-    {
-      "title": "Pill Identification Test (PIT)",
-      "heading_level": null,
-      "page_id": 76,
-      "polygon": [
-        [
-          41.00574278831482,
-          380.4911723136902
-        ],
-        [
-          218.64340209960938,
-          380.4911723136902
-        ],
-        [
-          218.64340209960938,
-          396.558876991272
-        ],
-        [
-          41.00574278831482,
-          396.558876991272
-        ]
-      ]
-    },
-    {
-      "title": "Pill Count",
-      "heading_level": null,
-      "page_id": 76,
-      "polygon": [
-        [
-          42.36471861600876,
-          579.1403894424438
-        ],
-        [
-          108.96798902750015,
-          577.4958581924438
-        ],
-        [
-          107.80392652750015,
-          592.704660654068
-        ],
-        [
-          41.20065611600876,
-          594.349191904068
+          291.9481855034828
         ]
       ]
     },
     {
       "title": "76\nAdherence Assessment",
       "heading_level": null,
-      "page_id": 77,
+      "page_id": 67,
       "polygon": [
         [
           30.99449920654297,
-          40.78269875049591
+          40.78269247710705
         ],
         [
-          201.0733597278595,
-          40.78269875049591
+          201.07337749004364,
+          40.78269247710705
         ],
         [
-          201.0733597278595,
+          201.07337749004364,
           54.77783203125
         ],
         [
@@ -5910,266 +5519,6 @@
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
-          "Text",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 2,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          54
-        ],
-        [
-          "Line",
-          28
-        ],
-        [
-          "Text",
-          5
-        ],
-        [
-          "Picture",
-          2
-        ],
-        [
-          "PageHeader",
-          1
-        ],
-        [
-          "SectionHeader",
-          1
-        ],
-        [
-          "Handwriting",
-          1
-        ],
-        [
-          "Caption",
-          1
-        ],
-        [
-          "PictureGroup",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 3,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          34
-        ],
-        [
-          "Line",
-          16
-        ],
-        [
-          "Text",
-          4
-        ],
-        [
-          "SectionHeader",
-          1
-        ],
-        [
-          "Picture",
-          1
-        ],
-        [
-          "Handwriting",
-          1
-        ],
-        [
-          "Caption",
-          1
-        ],
-        [
-          "PageHeader",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 4,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          36
-        ],
-        [
-          "Line",
-          19
-        ],
-        [
-          "Text",
-          7
-        ],
-        [
-          "PageHeader",
-          1
-        ],
-        [
-          "SectionHeader",
-          1
-        ],
-        [
-          "Picture",
-          1
-        ],
-        [
-          "Handwriting",
-          1
-        ],
-        [
-          "Caption",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 5,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          149
-        ],
-        [
-          "TableCell",
-          78
-        ],
-        [
-          "Line",
-          50
-        ],
-        [
-          "Text",
-          4
-        ],
-        [
-          "TableOfContents",
-          3
-        ],
-        [
-          "Picture",
-          3
-        ],
-        [
-          "ListItem",
-          3
-        ],
-        [
-          "SectionHeader",
-          1
-        ],
-        [
-          "Table",
-          1
-        ],
-        [
-          "PageHeader",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 6,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          175
-        ],
-        [
-          "Line",
-          76
-        ],
-        [
-          "TableCell",
-          49
-        ],
-        [
-          "Picture",
-          3
-        ],
-        [
-          "SectionHeader",
-          3
-        ],
-        [
-          "TableOfContents",
-          2
-        ],
-        [
-          "Table",
-          2
-        ],
-        [
-          "PageHeader",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 7,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
           "Span",
           100
         ],
@@ -6216,7 +5565,7 @@
       }
     },
     {
-      "page_id": 8,
+      "page_id": 2,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6250,7 +5599,7 @@
       }
     },
     {
-      "page_id": 9,
+      "page_id": 3,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6288,7 +5637,7 @@
       }
     },
     {
-      "page_id": 10,
+      "page_id": 4,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6334,7 +5683,7 @@
       }
     },
     {
-      "page_id": 11,
+      "page_id": 5,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6376,7 +5725,7 @@
       }
     },
     {
-      "page_id": 12,
+      "page_id": 6,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6418,7 +5767,7 @@
       }
     },
     {
-      "page_id": 13,
+      "page_id": 7,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6427,7 +5776,7 @@
         ],
         [
           "TableCell",
-          104
+          101
         ],
         [
           "Line",
@@ -6464,7 +5813,7 @@
       }
     },
     {
-      "page_id": 14,
+      "page_id": 8,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6502,7 +5851,7 @@
       }
     },
     {
-      "page_id": 15,
+      "page_id": 9,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6515,7 +5864,7 @@
         ],
         [
           "TableCell",
-          10
+          12
         ],
         [
           "SectionHeader",
@@ -6544,7 +5893,7 @@
       }
     },
     {
-      "page_id": 16,
+      "page_id": 10,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6553,7 +5902,7 @@
         ],
         [
           "TableCell",
-          120
+          119
         ],
         [
           "Line",
@@ -6582,7 +5931,7 @@
       }
     },
     {
-      "page_id": 17,
+      "page_id": 11,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6620,7 +5969,7 @@
       }
     },
     {
-      "page_id": 18,
+      "page_id": 12,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6666,7 +6015,7 @@
       }
     },
     {
-      "page_id": 19,
+      "page_id": 13,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6712,7 +6061,7 @@
       }
     },
     {
-      "page_id": 20,
+      "page_id": 14,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6762,7 +6111,7 @@
       }
     },
     {
-      "page_id": 21,
+      "page_id": 15,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6804,7 +6153,7 @@
       }
     },
     {
-      "page_id": 22,
+      "page_id": 16,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6854,7 +6203,7 @@
       }
     },
     {
-      "page_id": 23,
+      "page_id": 17,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6904,7 +6253,7 @@
       }
     },
     {
-      "page_id": 24,
+      "page_id": 18,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6946,7 +6295,7 @@
       }
     },
     {
-      "page_id": 25,
+      "page_id": 19,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -6988,7 +6337,7 @@
       }
     },
     {
-      "page_id": 26,
+      "page_id": 20,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7038,7 +6387,7 @@
       }
     },
     {
-      "page_id": 27,
+      "page_id": 21,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7080,7 +6429,7 @@
       }
     },
     {
-      "page_id": 28,
+      "page_id": 22,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7122,7 +6471,7 @@
       }
     },
     {
-      "page_id": 29,
+      "page_id": 23,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7164,7 +6513,7 @@
       }
     },
     {
-      "page_id": 30,
+      "page_id": 24,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7214,7 +6563,7 @@
       }
     },
     {
-      "page_id": 31,
+      "page_id": 25,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7252,7 +6601,7 @@
       }
     },
     {
-      "page_id": 32,
+      "page_id": 26,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7265,7 +6614,7 @@
         ],
         [
           "TableCell",
-          13
+          14
         ],
         [
           "Text",
@@ -7302,7 +6651,7 @@
       }
     },
     {
-      "page_id": 33,
+      "page_id": 27,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7344,7 +6693,7 @@
       }
     },
     {
-      "page_id": 34,
+      "page_id": 28,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7357,7 +6706,7 @@
         ],
         [
           "TableCell",
-          35
+          41
         ],
         [
           "Text",
@@ -7394,7 +6743,7 @@
       }
     },
     {
-      "page_id": 35,
+      "page_id": 29,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7444,7 +6793,7 @@
       }
     },
     {
-      "page_id": 36,
+      "page_id": 30,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7486,7 +6835,7 @@
       }
     },
     {
-      "page_id": 37,
+      "page_id": 31,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7528,7 +6877,7 @@
       }
     },
     {
-      "page_id": 38,
+      "page_id": 32,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7574,7 +6923,7 @@
       }
     },
     {
-      "page_id": 39,
+      "page_id": 33,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7616,7 +6965,7 @@
       }
     },
     {
-      "page_id": 40,
+      "page_id": 34,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7629,7 +6978,7 @@
         ],
         [
           "TableCell",
-          25
+          26
         ],
         [
           "ListItem",
@@ -7666,7 +7015,7 @@
       }
     },
     {
-      "page_id": 41,
+      "page_id": 35,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7708,7 +7057,7 @@
       }
     },
     {
-      "page_id": 42,
+      "page_id": 36,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7750,7 +7099,7 @@
       }
     },
     {
-      "page_id": 43,
+      "page_id": 37,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7800,7 +7149,7 @@
       }
     },
     {
-      "page_id": 44,
+      "page_id": 38,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7838,7 +7187,7 @@
       }
     },
     {
-      "page_id": 45,
+      "page_id": 39,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7876,7 +7225,7 @@
       }
     },
     {
-      "page_id": 46,
+      "page_id": 40,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7926,7 +7275,7 @@
       }
     },
     {
-      "page_id": 47,
+      "page_id": 41,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -7976,7 +7325,7 @@
       }
     },
     {
-      "page_id": 48,
+      "page_id": 42,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8026,7 +7375,7 @@
       }
     },
     {
-      "page_id": 49,
+      "page_id": 43,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8068,7 +7417,7 @@
       }
     },
     {
-      "page_id": 50,
+      "page_id": 44,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8110,7 +7459,7 @@
       }
     },
     {
-      "page_id": 51,
+      "page_id": 45,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8152,7 +7501,7 @@
       }
     },
     {
-      "page_id": 52,
+      "page_id": 46,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8194,7 +7543,7 @@
       }
     },
     {
-      "page_id": 53,
+      "page_id": 47,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8236,7 +7585,7 @@
       }
     },
     {
-      "page_id": 54,
+      "page_id": 48,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8278,7 +7627,7 @@
       }
     },
     {
-      "page_id": 55,
+      "page_id": 49,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8320,7 +7669,7 @@
       }
     },
     {
-      "page_id": 56,
+      "page_id": 50,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8362,7 +7711,7 @@
       }
     },
     {
-      "page_id": 57,
+      "page_id": 51,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8404,7 +7753,7 @@
       }
     },
     {
-      "page_id": 58,
+      "page_id": 52,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8450,7 +7799,7 @@
       }
     },
     {
-      "page_id": 59,
+      "page_id": 53,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8484,7 +7833,7 @@
       }
     },
     {
-      "page_id": 60,
+      "page_id": 54,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8530,7 +7879,7 @@
       }
     },
     {
-      "page_id": 61,
+      "page_id": 55,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8572,7 +7921,7 @@
       }
     },
     {
-      "page_id": 62,
+      "page_id": 56,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8610,7 +7959,7 @@
       }
     },
     {
-      "page_id": 63,
+      "page_id": 57,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8652,7 +8001,7 @@
       }
     },
     {
-      "page_id": 64,
+      "page_id": 58,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8702,7 +8051,7 @@
       }
     },
     {
-      "page_id": 65,
+      "page_id": 59,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8740,7 +8089,7 @@
       }
     },
     {
-      "page_id": 66,
+      "page_id": 60,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8778,145 +8127,7 @@
       }
     },
     {
-      "page_id": 67,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          184
-        ],
-        [
-          "TableCell",
-          88
-        ],
-        [
-          "Line",
-          43
-        ],
-        [
-          "Table",
-          7
-        ],
-        [
-          "Text",
-          6
-        ],
-        [
-          "PageHeader",
-          2
-        ],
-        [
-          "SectionHeader",
-          2
-        ],
-        [
-          "ListItem",
-          2
-        ],
-        [
-          "ListGroup",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 68,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          58
-        ],
-        [
-          "Line",
-          23
-        ],
-        [
-          "ListItem",
-          6
-        ],
-        [
-          "SectionHeader",
-          3
-        ],
-        [
-          "Text",
-          2
-        ],
-        [
-          "PageHeader",
-          1
-        ],
-        [
-          "Picture",
-          1
-        ],
-        [
-          "ListGroup",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 69,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          54
-        ],
-        [
-          "Line",
-          18
-        ],
-        [
-          "ListItem",
-          7
-        ],
-        [
-          "SectionHeader",
-          1
-        ],
-        [
-          "Picture",
-          1
-        ],
-        [
-          "PageHeader",
-          1
-        ],
-        [
-          "ListGroup",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 70,
+      "page_id": 61,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8954,7 +8165,7 @@
       }
     },
     {
-      "page_id": 71,
+      "page_id": 62,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -8988,7 +8199,7 @@
       }
     },
     {
-      "page_id": 72,
+      "page_id": 63,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -9030,7 +8241,7 @@
       }
     },
     {
-      "page_id": 73,
+      "page_id": 64,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -9072,7 +8283,7 @@
       }
     },
     {
-      "page_id": 74,
+      "page_id": 65,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -9114,7 +8325,7 @@
       }
     },
     {
-      "page_id": 75,
+      "page_id": 66,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -9156,53 +8367,7 @@
       }
     },
     {
-      "page_id": 76,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Span",
-          131
-        ],
-        [
-          "TableCell",
-          65
-        ],
-        [
-          "Line",
-          47
-        ],
-        [
-          "SectionHeader",
-          4
-        ],
-        [
-          "PageHeader",
-          2
-        ],
-        [
-          "Table",
-          2
-        ],
-        [
-          "Figure",
-          2
-        ],
-        [
-          "Form",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 77,
+      "page_id": 67,
       "text_extraction_method": "pdftext",
       "block_counts": [
         [
@@ -9211,7 +8376,7 @@
         ],
         [
           "TableCell",
-          19
+          20
         ],
         [
           "Line",
@@ -9231,42 +8396,6 @@
         ],
         [
           "Picture",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 78,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Text",
-          1
-        ]
-      ],
-      "block_metadata": {
-        "llm_request_count": 0,
-        "llm_error_count": 0,
-        "llm_tokens_used": 0,
-        "previous_text": "",
-        "previous_type": "",
-        "previous_order": 0
-      }
-    },
-    {
-      "page_id": 79,
-      "text_extraction_method": "pdftext",
-      "block_counts": [
-        [
-          "Text",
           1
         ]
       ],

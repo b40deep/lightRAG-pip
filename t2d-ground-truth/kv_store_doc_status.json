@@ -1,81 +1,161 @@
 {
-  "doc-80681e8c2fc66feb6c3ece9e9e90db38": {
+  "doc-d9b0031962a16c326c631894c57b74a2": {
     "status": "processed",
-    "chunks_count": 45,
+    "chunks_count": 28,
     "chunks_list": [
-      "chunk-76dcee1ddb22a2d709c06cd143cc277a",
-      "chunk-dac3bac69785ad3c5e991f2be5decaf3",
-      "chunk-28b8f1d377e70e65ee6917c0d59e3109",
-      "chunk-48019451fb64599a32100497e8728c0d",
-      "chunk-9b3360eaab1fbda0f4be34916f26a0c1",
-      "chunk-1427a4f3a37a8bc9105d9dc8f4a4b755",
-      "chunk-7817b9988673b530a82175902d6ef212",
-      "chunk-98786d9fc0c669ea92f47d22f68e9730",
-      "chunk-ede226b3a0ceacb1cf58a1a70ebfe39d",
-      "chunk-3b872e8f4507f0b517d813175b50e40d",
-      "chunk-2d53ce416d979deb26807ffd3d639467",
-      "chunk-9bbcd566de8858c4d6aa03975c27d5ed",
-      "chunk-cc794a96abc6fea4b99860aedd47da8b",
-      "chunk-a7f14fa25c0f0f6b50f4346d68fa7305",
-      "chunk-75e013bb28ba01bfbc374edd67be9709",
-      "chunk-8a3fa9809e33f235ebfe9c0204d7fbfb",
-      "chunk-358680bfd64f7682f010caf1db56168e",
-      "chunk-72284fe3e2da042b4841a91a96c6513d",
-      "chunk-79bcdf813ecc9a1a30cad14ddfd21884",
-      "chunk-bb7f04e1dd6acb6d198b1c58406f9ead",
-      "chunk-2747f5a8e50f80ecb003d82a6236b5de",
-      "chunk-3d51f582eadeb6057c2d495ca70b761b",
-      "chunk-95a37fdd4e75602e7ee73f9697d76aa6",
-      "chunk-d4dbac77be4a61fb0b4f8ee844d03453",
-      "chunk-87e7e545e69a570dc134ec02d336fb1d",
-      "chunk-75ca22fbc387195da8d2321ec5c32e2e",
-      "chunk-0d231d8a45d08ffe4e73e7ef3d703442",
-      "chunk-868ccb5351320321cda28e935f38e86b",
-      "chunk-ebdd9159e939274d247a78b6acac88a4",
-      "chunk-13c6d53292dee777497019b48adc774c",
-      "chunk-ca3d853e7f6e836a5bb3c9d9f2ad1b78",
-      "chunk-b752ce36b859046d9641b5096d445e7c",
-      "chunk-e40dd1b6f667a901a4ea2e77d6f8087a",
-      "chunk-6987f72c1a80b0b088e76986e2825547",
-      "chunk-fb086a72b59d81f32eea0b27e415d77b",
-      "chunk-22ea9604ec397a3a7efc9e587557e950",
-      "chunk-29bddf5b5dad63a794a84d0ff0adf023",
-      "chunk-03650d0126e6b49e45077884bfc6007b",
-      "chunk-7328f1285f97b5e01ee98cc53f8391b9",
-      "chunk-64e5a3cde95aa21d4710ea279f09b919",
-      "chunk-b1a4a348ba034ff661690123ff0f6743",
-      "chunk-1ad658d71c2cfb7b36bed8ed79dcb30e",
-      "chunk-0618ebe32404f4b8d6f32d748ff424d5",
-      "chunk-e8553409de2918effb9c98baee2c387e",
-      "chunk-f480f72b48dd45386afd9bcad167646e"
+      "chunk-4ab7e41bfc6dc460c48107220733a6cc",
+      "chunk-b3fcb68825e6fe0cbbb4c9ec35afb646",
+      "chunk-129a310c5d71871c9ee11cf249dcb6c3",
+      "chunk-3c6dac05970727d54d46abd86982b759",
+      "chunk-f5fc341d7bf2fb8dcae642731ec8fb0d",
+      "chunk-58067acb0a4b21e48e826dd7e97d86a5",
+      "chunk-6699a5c79683213ff4dea6e14b493c72",
+      "chunk-d5ee0362fd9870828ed03fba0664efdf",
+      "chunk-7b79825bf243d6abdec856f313bda4e9",
+      "chunk-bd33b3de797d4c6bf9bce23ddb306beb",
+      "chunk-ed98ed052d72337c91c47674a2ba49b6",
+      "chunk-520eb52d6ccc68c424c497fa7e6df29a",
+      "chunk-d1cdf06cb66a1d945131ba0e41ceeaa0",
+      "chunk-c30d19cfece6de65df0c2321c6c977c5",
+      "chunk-e546234b6e9b258b1e7e54862eaa666f",
+      "chunk-25e31297f3300051fe4ba3bfefc44fd6",
+      "chunk-98b62c3e34fa033d4a11fbfd6e2774f2",
+      "chunk-92bd7d456fa9b5f0c564afd5dd3bb0af",
+      "chunk-432b00aa4a62ed1cc5b80a9b6a970a9c",
+      "chunk-8aa0e6c74c724a92061497c3d23b3e29",
+      "chunk-1bea3aa6519bdbc96a177e5b01313158",
+      "chunk-fd181ade08adfe7bcd84304c3336b61d",
+      "chunk-15a1bd10d7b9d9f5d5740a37592a65b5",
+      "chunk-4da35f4d4629ac1c652fb3bee90b4fcd",
+      "chunk-d31872a09bb8d85c85c770ae897d24ba",
+      "chunk-cc4ad7e94065a626630a9e7629bc4f61",
+      "chunk-0b7992edada8563b4687affa28b55ef3",
+      "chunk-9c3dada45a598da1af9a6c9dc041e660"
     ],
-    "content_summary": "<p>Management of</p>\n<h1>type 2 diabetes in adults</h1>\n<h2><em>AT PRIMARY CARE LEVEL - JANUARY 2014</em></h2>\n<p><img alt=\"\" src=\"_page_0_Picture_3.jpeg\" /></p>\n<p>A Long and Healthy Life for All South Africans</p>\n<p><img alt=\"\" src=\"_page_0_Pictur...",
-    "content_length": 233026,
-    "created_at": "2025-08-05T10:55:56.710848+00:00",
-    "updated_at": "2025-08-05T11:00:51.290001+00:00",
+    "content_summary": "<p><img alt=\"\" src=\"_page_0_Picture_0.jpeg\" /></p>\n<p>– to sustain energy &amp; suitable for <strong>those with diabetes</strong></p>\n<blockquote>\n<p>Compiled by <strong>Heleen Meyer</strong> and <strong>Ashleigh Badham-Thornhill</strong> Photography...",
+    "content_length": 123819,
+    "created_at": "2025-08-11T05:34:50.182020+00:00",
+    "updated_at": "2025-08-11T05:38:10.929949+00:00",
     "file_path": "unknown_source",
-    "track_id": "insert_20250805_115556_6ccd647c",
+    "track_id": "insert_20250811_063450_b6cbf4bd",
     "metadata": {
-      "processing_start_time": 1754391356,
-      "processing_end_time": 1754391651
+      "processing_start_time": 1754890490,
+      "processing_end_time": 1754890690
     }
   },
-  "doc-9df3eee697bdb1267ac01d432905579f": {
+  "doc-35265734c2354d7b94f4ba0fd4ca5e43": {
     "status": "processed",
-    "chunks_count": 2,
+    "chunks_count": 8,
     "chunks_list": [
-      "chunk-d6b09b4b09529f8f51aa7d3eb8384af7",
-      "chunk-8fc89353659871857f4a2f36b706fc19"
+      "chunk-809adfa0a14ab6fe4990c753d1ffe33e",
+      "chunk-f2dfcaafdf6869d58b44b99d634f7e8f",
+      "chunk-0c87b51ba48af7d085119b219b21046f",
+      "chunk-d396dda3ce9b0c2f87b5d6ddb9d013b1",
+      "chunk-f547c1ef7d9fdc3451e37273a2a2eb2c",
+      "chunk-a8a58ab095e62951eddfd80f0a0e2848",
+      "chunk-46d94ad4db28a87f2b14b78eb3e34260",
+      "chunk-6a3470aab48da10bd8a36978481943e4"
     ],
-    "content_summary": "<p>See discussions, stats, and author profiles for this publication at: <a href=\"https://www.researchgate.net/publication/344760805_Type_2_Diabetes_Mellitus_patients_with_comorbidities_in_a_South_African_managed_healthcare_organization?enrichId=rgreq...",
-    "content_length": 5663,
-    "created_at": "2025-08-05T10:55:56.710858+00:00",
-    "updated_at": "2025-08-05T10:56:15.347090+00:00",
+    "content_summary": "<p><img alt=\"\" src=\"_page_0_Picture_0.jpeg\" /></p>\n<h2><strong>2023 Diabetes Summit</strong> Diabetes Targets, Translating Policy into Reality</h2>\n<p><img alt=\"\" src=\"_page_0_Picture_2.jpeg\" /></p>\n<p><strong>May 2024</strong></p>\n<p>| Themes       ...",
+    "content_length": 47250,
+    "created_at": "2025-08-11T05:34:50.182002+00:00",
+    "updated_at": "2025-08-11T05:37:08.233777+00:00",
     "file_path": "unknown_source",
-    "track_id": "insert_20250805_115556_6ccd647c",
+    "track_id": "insert_20250811_063450_b6cbf4bd",
     "metadata": {
-      "processing_start_time": 1754391356,
-      "processing_end_time": 1754391375
+      "processing_start_time": 1754890490,
+      "processing_end_time": 1754890628
+    }
+  },
+  "doc-31e15354d11f3e689425f11dcca571b6": {
+    "status": "processed",
+    "chunks_count": 1,
+    "chunks_list": [
+      "chunk-31e15354d11f3e689425f11dcca571b6"
+    ],
+    "content_summary": "<h2><strong>PO1-10-7</strong></h2>\n<p>View publication stats</p>\n<h2><strong>Type 2 Diabetes Mellitus patients with comorbidities in a South African managed healthcare organization</strong></h2>\n<p>Lovina A Naidoo<sup>1</sup> , Neil Butkow<sup>1</sup...",
+    "content_length": 2999,
+    "created_at": "2025-08-11T05:34:50.182031+00:00",
+    "updated_at": "2025-08-11T05:37:12.663349+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250811_063450_b6cbf4bd",
+    "metadata": {
+      "processing_start_time": 1754890628,
+      "processing_end_time": 1754890632
+    }
+  },
+  "doc-106dc3309c0b516d74ee2da085ab55fa": {
+    "status": "failed",
+    "error_msg": "",
+    "content_summary": "<p>Management of</p>\n<h1>type 2 diabetes in adults</h1>\n<h1><em>AT PRIMARY CARE LEVEL - JANUARY 2014</em></h1>\n<p><img alt=\"\" src=\"_page_0_Picture_3.jpeg\" /></p>\n<p>A Long and Healthy Life for All South Africans</p>\n<p><img alt=\"\" src=\"_page_0_Pictur...",
+    "content_length": 212692,
+    "created_at": "2025-08-11T05:34:50.182026+00:00",
+    "updated_at": "2025-08-11T07:28:11.550647+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250811_063450_b6cbf4bd",
+    "metadata": {
+      "processing_start_time": 1754890633,
+      "processing_end_time": 1754897291
+    },
+    "chunks_list": []
+  },
+  "doc-b0f573fc73d9c76f35d5e64cfd5e734d": {
+    "status": "failed",
+    "error_msg": "",
+    "content_summary": "<p><img alt=\"\" src=\"_page_0_Picture_0.jpeg\" /></p>\n<h3><strong>SYMPTOM-BASED INTEGRATED APPROACH TO THE ADULT IN PRIMARY CARE</strong></h3>\n<p><strong>EMERGENCIESSYMPTOMS</strong></p>\n<h3><strong>NOT FOR DISTRIBUTION</strong></h3>\n<ul>\n<li><a href=\"h...",
+    "content_length": 2680686,
+    "created_at": "2025-08-11T05:34:50.182015+00:00",
+    "updated_at": "2025-08-11T07:26:49.444692+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250811_063450_b6cbf4bd",
+    "metadata": {
+      "processing_start_time": 1754890695,
+      "processing_end_time": 1754897209
+    },
+    "chunks_list": []
+  },
+  "doc-1281a67a3f9d1b95e60220d44537cdc8": {
+    "status": "failed",
+    "error_msg": "",
+    "content_summary": "<p>ISSN 1607-0658</p>\n<h1>Food-Based Dietary Guidelines for South Africa</h1>\n<p>www.sajcn.co.za S Afr J Clin Nutr 2013;26(3)(Supplement):S1-S164</p>\n<p><img alt=\"\" src=\"_page_0_Picture_3.jpeg\" /></p>\n<h2>Developed and sponsored by:</h2>\n<p><img alt=...",
+    "content_length": 869639,
+    "created_at": "2025-08-11T05:34:50.182023+00:00",
+    "updated_at": "2025-08-11T09:14:54.686558+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250811_063450_b6cbf4bd",
+    "metadata": {
+      "processing_start_time": 1754897209,
+      "processing_end_time": 1754903694
+    },
+    "chunks_list": []
+  },
+  "doc-5d542df757f203611032749ae98d3694": {
+    "status": "processed",
+    "chunks_count": 13,
+    "chunks_list": [
+      "chunk-fba3a3b5e0bb473ad31ef851d3b052d8",
+      "chunk-1bbcda5be08e321e58b42b986d804d9d",
+      "chunk-1cdb8446580c1ae7e773283e7ba7022b",
+      "chunk-1d3955361c770086424d86b70ae926bf",
+      "chunk-baf922dec0d429fd4c06191ccab7f11c",
+      "chunk-fb7f9553a2f42b8058dc0445b5667f49",
+      "chunk-afd8ace0a048b8ce5cedbf75e78fc16c",
+      "chunk-0d87d33edec2846d5a3ee3e65b5b6424",
+      "chunk-b2c6add38d088389c1805ecc38e0b619",
+      "chunk-0e441d2d2eb1f112c46892387467332c",
+      "chunk-d62527d541e19421978820f798151677",
+      "chunk-97c0ef39cec6d7a224b9f50b2e9bc0a1",
+      "chunk-98f5e59a0e47827af854be6c369f93f1"
+    ],
+    "content_summary": "<h1><strong>1. INTRODUCTION</strong></h1>\n<p>National Nutrition Week is celebrated every year from 9 – 15 October to create awareness of the importance of eating healthy. This document highlights the concept and supporting messages to be used during ...",
+    "content_length": 73875,
+    "created_at": "2025-08-11T05:34:50.182028+00:00",
+    "updated_at": "2025-08-11T07:32:11.250174+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20250811_063450_b6cbf4bd",
+    "metadata": {
+      "processing_start_time": 1754897291,
+      "processing_end_time": 1754897531
     }
   }
 }

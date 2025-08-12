@@ -1,22 +1,3 @@
-See discussions, stats, and author profiles for this publication at: [https://www.researchgate.net/publication/344760805](https://www.researchgate.net/publication/344760805_Type_2_Diabetes_Mellitus_patients_with_comorbidities_in_a_South_African_managed_healthcare_organization?enrichId=rgreq-d1280ef717000d1a0dbb19a06ff603ea-XXX&enrichSource=Y292ZXJQYWdlOzM0NDc2MDgwNTtBUzoxMTE2ODc4ODk4NDk5NTkyQDE2NDMyOTYwODg2MjU%3D&el=1_x_2&_esc=publicationCoverPdf)
-
-## [Type 2 Diabetes Mellitus patients with comorbidities in a South African](https://www.researchgate.net/publication/344760805_Type_2_Diabetes_Mellitus_patients_with_comorbidities_in_a_South_African_managed_healthcare_organization?enrichId=rgreq-d1280ef717000d1a0dbb19a06ff603ea-XXX&enrichSource=Y292ZXJQYWdlOzM0NDc2MDgwNTtBUzoxMTE2ODc4ODk4NDk5NTkyQDE2NDMyOTYwODg2MjU%3D&el=1_x_3&_esc=publicationCoverPdf) managed healthcare organization
-
-**Article** in Proceedings for Annual Meeting of The Japanese Pharmacological Society · January 2018
-
-| DOI: 10.1254/jpssuppl.WCP2018.0_PO1-10-7 |                                 |       |                                    |
-|------------------------------------------|---------------------------------|-------|------------------------------------|
-| CITATIONS                                |                                 | READS |                                    |
-| 0                                        |                                 | 43    |                                    |
-| 4 authors, including:                    |                                 |       |                                    |
-|                                          | Lovina Asha Naidoo              |       | Elena Libhaber                     |
-|                                          | University of the Witwatersrand |       | University of the Witwatersrand    |
-|                                          | 3 PUBLICATIONS   4 CITATIONS    |       | 155 PUBLICATIONS   3,593 CITATIONS |
-|                                          | SEE PROFILE                     |       | SEE PROFILE                        |
-|                                          |                                 |       |                                    |
-
-All content following this page was uploaded by [Lovina Asha Naidoo](https://www.researchgate.net/profile/Lovina-Naidoo?enrichId=rgreq-d1280ef717000d1a0dbb19a06ff603ea-XXX&enrichSource=Y292ZXJQYWdlOzM0NDc2MDgwNTtBUzoxMTE2ODc4ODk4NDk5NTkyQDE2NDMyOTYwODg2MjU%3D&el=1_x_10&_esc=publicationCoverPdf) on 27 January 2022.
-
 ## **PO1-10-7**
 
 View publication stats
