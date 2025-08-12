@@ -3867,3 +3867,40 @@ httpx.ReadTimeout
 2025-08-11 10:16:43,153 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
 2025-08-11 10:16:43,159 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
 2025-08-11 10:16:49,166 - lightrag - INFO - Creating a new event loop in main thread.
+2025-08-12 10:22:34,726 - lightrag - INFO - Loaded graph from D:\repos\lightRAG-pip\t2d-ground-truth\graph_chunk_entity_relation.graphml with 786 nodes, 400 edges
+2025-08-12 10:22:34,897 - lightrag - WARNING - Rerank is enabled but no rerank_model_func provided. Reranking will be skipped.
+2025-08-12 10:22:34,979 - lightrag - INFO - Process 35304 KV load _full_docs with 7 records
+2025-08-12 10:22:35,067 - lightrag - INFO - Process 35304 KV load _text_chunks with 634 records
+2025-08-12 10:22:35,068 - lightrag - INFO - Process 35304 KV load _full_entities with 0 records
+2025-08-12 10:22:35,068 - lightrag - INFO - Process 35304 KV load _full_relations with 0 records
+2025-08-12 10:22:35,411 - lightrag - INFO - Process 35304 KV load _llm_response_cache with 568 records
+2025-08-12 10:22:35,418 - lightrag - INFO - Process 35304 doc status load _doc_status with 7 records
+2025-08-12 10:22:35,418 - lightrag - INFO - limit_async: 8 new workers initialized
+2025-08-12 10:22:36,429 - lightrag - INFO - Naive query: 10 chunks (chunk_top_k: 10)
+2025-08-12 10:22:36,431 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-12 10:22:36,442 - lightrag - INFO - Final context: 10 chunks
+2025-08-12 10:22:36,467 - lightrag - INFO - limit_async: 4 new workers initialized
+2025-08-12 10:22:43,291 - lightrag - WARNING - low_level_keywords is empty, switching from local mode to global mode
+2025-08-12 10:22:43,291 - lightrag - INFO - Process 35304 building query context...
+2025-08-12 10:22:43,291 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-12 10:22:43,446 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-12 10:22:43,457 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-12 10:22:43,460 - lightrag - INFO - KG related chunks: 29 from entitys, 18 from relations
+2025-08-12 10:22:43,468 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-12 10:22:43,481 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-12 10:22:51,364 - lightrag - INFO - Process 35304 building query context...
+2025-08-12 10:22:51,365 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-12 10:22:51,512 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-12 10:22:51,522 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-12 10:22:51,522 - lightrag - INFO - KG related chunks: 29 from entitys, 18 from relations
+2025-08-12 10:22:51,531 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-12 10:22:51,543 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-12 10:22:54,501 - lightrag - WARNING - low_level_keywords is empty, switching from hybrid mode to global mode
+2025-08-12 10:22:54,501 - lightrag - INFO - Process 35304 building query context...
+2025-08-12 10:22:54,501 - lightrag - INFO - Query edges: Top themes, Material analysis, top_k: 40, cosine: 0.2
+2025-08-12 10:22:54,676 - lightrag - INFO - Global query: 63 entites, 40 relations
+2025-08-12 10:22:54,685 - lightrag - INFO - Truncated KG query results: 63 entities, 40 relations
+2025-08-12 10:22:54,690 - lightrag - INFO - KG related chunks: 29 from entitys, 18 from relations
+2025-08-12 10:22:54,699 - lightrag - WARNING - Rerank is enabled but no rerank model is configured. Please set up a rerank model or set enable_rerank=False in query parameters.
+2025-08-12 10:22:54,710 - lightrag - INFO - Final context: 63 entities, 40 relations, 10 chunks
+2025-08-12 10:22:58,205 - lightrag - INFO - Successfully finalized 10 storages

@@ -190,9 +190,9 @@ async def main():
         print(f"Test dict: {test_text}")
         print(f"Detected embedding dimension: {embedding_dim}\n\n")
 
-        all_md_text = prepare_docs()
-        await rag.ainsert(all_md_text)
-        print("Inserted all markdown text into the RAG instance.\n")
+        # all_md_text = prepare_docs()
+        # await rag.ainsert(all_md_text)
+        # print("Inserted all markdown text into the RAG instance.\n")
 
         # Perform naive search
         print("\n=====================")
