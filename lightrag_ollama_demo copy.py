@@ -166,6 +166,10 @@ async def main():
         # with open(os.path.join(WORKING_DIR,txt_name), "r", encoding="utf-8") as f:
         #     await rag.ainsert(f.read())
         
+        """I'm using marker-pdf to convert pdf to markdown. you have to do that conversion manually via cli.
+        use the command: 
+            marker C:Users... --output_dir C:Users...
+        then the markdown files will be visible when this function is called."""
         import markdown
         all_md_text = []
         folders = [folder.path for folder in os.scandir(WORKING_DIR) if folder.is_dir()]

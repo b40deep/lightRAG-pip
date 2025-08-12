@@ -152,6 +152,11 @@ def clear_old_data():
         print(f"An error occurred: {e}")
 
 def prepare_docs():
+    """I'm using marker-pdf to convert pdf to markdown. you have to do that conversion manually via cli.
+     use the command: 
+        marker C:Users... --output_dir C:Users...
+     then the markdown files will be visible when this function is called."""
+    
     # with open(os.path.join(WORKING_DIR,txt_name), "r", encoding="utf-8") as f:
     #     await rag.ainsert(f.read())
     
@@ -174,7 +179,7 @@ def prepare_docs():
                 print("\n")
     return all_md_text
 
-async def main():
+async def main(refresh_docs=False):
     try:
 
         # Initialize RAG instance
@@ -190,9 +195,15 @@ async def main():
         print(f"Test dict: {test_text}")
         print(f"Detected embedding dimension: {embedding_dim}\n\n")
 
-        # all_md_text = prepare_docs()
-        # await rag.ainsert(all_md_text)
-        # print("Inserted all markdown text into the RAG instance.\n")
+        if refresh_docs:
+            # Clear old data files
+            clear_old_data()
+            print("\nOld data cleared.")
+            # Prepare and insert documents
+            print("\n=====================")
+            all_md_text = prepare_docs() 
+            await rag.ainsert(all_md_text)
+            print("Inserted all markdown text into the RAG instance.\n")
 
         # Perform naive search
         print("\n=====================")
@@ -257,5 +268,5 @@ async def main():
 if __name__ == "__main__":
     # Configure logging before running the main function
     configure_logging()
-    asyncio.run(main())
+    asyncio.run(main(refresh_docs=False))
     print("\nDone!")
